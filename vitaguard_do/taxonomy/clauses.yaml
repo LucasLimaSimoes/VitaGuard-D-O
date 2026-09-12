@@ -1,0 +1,63 @@
+version: 0.5B.5
+items:
+- id: change_in_control
+  label: Alteracao de controle
+  aliases:
+  - Alteracao de Controle
+  - Mudanca de Controle
+  - Change in Control
+- id: run_off
+  label: Run-off
+  aliases:
+  - Run-off
+  - Run Off
+  - Cobertura para Atos Anteriores apos Alteracao de Controle
+- id: severability
+  label: Separabilidade
+  aliases:
+  - Separabilidade
+  - Severability
+- id: claim_notice
+  label: Aviso de reclamacao
+  aliases:
+  - Aviso de Reclamacao
+  - Aviso de Sinistro
+  - Notificacao de Reclamacao
+  - Notice of Claim
+- id: cooperation
+  label: Cooperacao
+  aliases:
+  - Cooperacao
+  - Dever de Cooperacao
+  - Cooperation
+- id: priority_of_payments
+  label: Prioridade de pagamentos
+  aliases:
+  - Prioridade de Pagamentos
+  - Priority of Payments
+  - Ordem dos Pagamentos
+- id: allocation
+  label: Alocacao
+  aliases:
+  - Alocacao
+  - Rateio
+  - Allocation
+- id: advancement_of_defense_costs
+  label: Adiantamento de custos de defesa
+  aliases:
+  - Adiantamento de Custos de Defesa
+  - Antecipacao de Custos de Defesa
+  - Advancement of Defense Costs
+  - Adiantamentos de Custos de Defesa
+- id: consent_to_settle
+  label: Consentimento para acordo
+  aliases:
+  - Consentimento para Acordo
+  - Consent to Settle
+- id: extended_reporting_period
+  label: Prazo complementar para reclamacoes
+  aliases:
+  - Prazo Complementar
+  - Prazo Adicional
+  - Periodo Adicional
+  - Extended Reporting Period

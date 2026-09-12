@@ -1,0 +1,53 @@
+version: 0.5B.5
+items:
+- id: insured_person
+  label: Pessoa segurada
+  aliases:
+  - Pessoa Segurada
+  - Segurado
+  - Administrador
+  - Insured Person
+- id: company
+  label: Sociedade
+  aliases:
+  - Sociedade
+  - Empresa
+  - Companhia
+  - Company
+- id: claim
+  label: Reclamacao
+  aliases:
+  - Reclamacao
+  - Claim
+- id: wrongful_act
+  label: Ato danoso
+  aliases:
+  - Ato Danoso
+  - Ato de Gestao
+  - Wrongful Act
+  - Ato Danoso ou Fato Gerador
+- id: loss
+  label: Perda
+  aliases:
+  - Perda
+  - Prejuizo Indenizavel
+  - Loss
+  - Perda Indenizável
+- id: defense_costs
+  label: Custos de defesa
+  aliases:
+  - Custos de Defesa
+  - Despesas de Defesa
+  - Defense Costs
+  - Gastos com Defesa
+- id: investigation
+  label: Investigacao
+  aliases:
+  - Investigacao
+  - Investigation
+- id: subsidiary
+  label: Subsidiaria
+  aliases:
+  - Subsidiaria
+  - Controlada
+  - Subsidiary

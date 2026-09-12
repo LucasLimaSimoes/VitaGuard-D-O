@@ -1,0 +1,273 @@
+{
+  "slug": "vitaguard_do_executive_plus",
+  "title": "VitaGuard D&O Executive Plus",
+  "policy_id": "vg-do-exec-2026-001",
+  "policy_number": "2026-DO-EXEC-001",
+  "insurer": "VitaGuard Seguros Ficticios S.A.",
+  "insured": "Orion Biotecnologia S.A.",
+  "policyholder": "Orion Biotecnologia S.A.",
+  "susep_process": null,
+  "document_version": "Sintetico v1.0 - 18/08/2026",
+  "period_start": "2026-02-01",
+  "period_end": "2027-02-01",
+  "currency": "BRL",
+  "premium": {
+    "amount": 95000,
+    "raw": "R$ 95.000,00"
+  },
+  "retroactive_date": "2020-02-01",
+  "extended_reporting_months": 24,
+  "geographic_scope": "Mundial, observadas sancoes economicas e restricoes legais aplicaveis.",
+  "jurisdiction": "Brasil; reclamacoes estrangeiras poderao ser cobertas quando nao vedadas pela legislacao aplicavel.",
+  "coverage_trigger": "A base de reclamacoes, com notificacao durante a vigencia ou periodo adicional contratado.",
+  "lmg": {
+    "amount": 25000000,
+    "raw": "R$ 25.000.000,00"
+  },
+  "aggregate_limit": {
+    "amount": 25000000,
+    "raw": "R$ 25.000.000,00"
+  },
+  "deductibles": [
+    {
+      "canonical_id": "deductible",
+      "name": "Retencao - Reembolso da Empresa",
+      "amount": 250000,
+      "raw": "R$ 250.000,00",
+      "applies_to": [
+        "side_b"
+      ]
+    },
+    {
+      "canonical_id": "deductible",
+      "name": "Retencao - Cobertura da Sociedade",
+      "amount": 500000,
+      "raw": "R$ 500.000,00",
+      "applies_to": [
+        "side_c"
+      ]
+    },
+    {
+      "canonical_id": "deductible",
+      "name": "Retencao - Protecao Direta",
+      "amount": 0,
+      "raw": "Sem retencao",
+      "applies_to": [
+        "side_a"
+      ]
+    }
+  ],
+  "coverages": [
+    {
+      "id": "side_a",
+      "name": "Protecao Direta aos Administradores - Side A",
+      "desc": "Pagamento direto a Pessoa Segurada por Perda nao indenizada pela Sociedade."
+    },
+    {
+      "id": "side_b",
+      "name": "Reembolso da Empresa - Side B",
+      "desc": "Reembolsa a Empresa por indenizacao permitida e paga a Pessoa Segurada em Reclamacao coberta."
+    },
+    {
+      "id": "side_c",
+      "name": "Cobertura da Sociedade - Entity Coverage",
+      "desc": "Cobertura da propria Sociedade exclusivamente para Reclamacao de Valores Mobiliarios, conforme definicoes desta apolice."
+    },
+    {
+      "id": "defense_costs",
+      "name": "Custos de Defesa",
+      "desc": "Honorarios, peritos e despesas de defesa razoaveis e necessarios, incluindo antecipacao quando aplicavel."
+    },
+    {
+      "id": "investigation_costs",
+      "name": "Despesas de Investigacao",
+      "desc": "Despesas de assistencia juridica em Investigacao formal ou entrevista formal coberta.",
+      "sublimit": {
+        "amount": 3000000,
+        "raw": "R$ 3.000.000,00"
+      }
+    },
+    {
+      "id": "asset_and_liberty",
+      "name": "Bens e Liberdade",
+      "desc": "Custos relacionados a medidas de indisponibilidade de bens, restricoes de liberdade e medidas cautelares elegiveis.",
+      "sublimit": {
+        "amount": 2000000,
+        "raw": "R$ 2.000.000,00"
+      }
+    }
+  ],
+  "extensions": [
+    {
+      "id": "spousal_liability",
+      "name": "Responsabilidade de Conjuge",
+      "desc": "Protecao para conjuge ou companheiro quando a reclamacao decorrer exclusivamente de Ato Danoso atribuido a Pessoa Segurada."
+    },
+    {
+      "id": "heirs_estates_representatives",
+      "name": "Herdeiros e Representantes Legais",
+      "desc": "Cobertura estendida a herdeiros, espolio ou representante legal de Pessoa Segurada."
+    },
+    {
+      "id": "retired_directors",
+      "name": "Diretores Aposentados",
+      "desc": "Prazo adicional automatico de 72 meses para determinados administradores que se aposentem durante a vigencia, sujeito as condicoes da apolice."
+    },
+    {
+      "id": "extradition_costs",
+      "name": "Custos de Extradicao",
+      "desc": "Custos de defesa em processo formal de extradicao relacionado a Reclamacao coberta.",
+      "sublimit": {
+        "amount": 1500000,
+        "raw": "R$ 1.500.000,00"
+      }
+    },
+    {
+      "id": "crisis_management",
+      "name": "Gestao de Crise",
+      "desc": "Despesas pre-aprovadas de consultoria de comunicacao em evento de crise coberto.",
+      "sublimit": {
+        "amount": 500000,
+        "raw": "R$ 500.000,00"
+      }
+    },
+    {
+      "id": "new_subsidiaries",
+      "name": "Novas Subsidiarias",
+      "desc": "Inclusao automatica de novas subsidiarias dentro dos parametros financeiros definidos, sujeita a notificacao quando excedidos."
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "fraud_or_dishonesty",
+      "name": "Fraude, Dolo, Desonestidade e Vantagem Indevida",
+      "desc": "Perdas decorrentes de fraude, dolo, desonestidade ou vantagem pessoal indevida.",
+      "exceptions": [
+        "A exclusao somente se aplica quando a conduta for estabelecida por decisao final nao sujeita a recurso ou por admissao escrita da Pessoa Segurada."
+      ]
+    },
+    {
+      "id": "bodily_injury_property_damage",
+      "name": "Lesao Corporal e Dano Material",
+      "desc": "Reclamacoes por lesao corporal ou dano a propriedade tangivel.",
+      "exceptions": [
+        "Nao se aplica a alegacao de dano moral ou sofrimento emocional quando decorrente de Reclamacao de praticas trabalhistas coberta, se contratada."
+      ]
+    },
+    {
+      "id": "prior_claims_or_circumstances",
+      "name": "Fatos Conhecidos e Circunstancias Preexistentes",
+      "desc": "Fatos, circunstancias ou reclamacoes conhecidas antes da data de continuidade ou informadas em proposta anterior."
+    },
+    {
+      "id": "pollution",
+      "name": "Poluicao",
+      "desc": "Reclamacoes diretamente baseadas em poluicao.",
+      "exceptions": [
+        "A exclusao nao se aplica a Reclamacao derivativa contra Pessoa Segurada que alegue falha de supervisao relacionada a evento de poluicao."
+      ]
+    },
+    {
+      "id": "insured_vs_insured",
+      "name": "Insured vs Insured",
+      "desc": "Reclamacao proposta por ou em nome de Segurado contra outro Segurado.",
+      "exceptions": [
+        "Nao se aplica a acao derivativa independente, reclamacao de ex-administrador apos periodo minimo aplicavel ou reclamacao de denunciante protegido por lei."
+      ]
+    },
+    {
+      "id": "professional_services",
+      "name": "Servicos Profissionais",
+      "desc": "Reclamacoes decorrentes da prestacao de servicos profissionais da Sociedade a terceiros, salvo ato de supervisao de administradores quando de outra forma coberto."
+    }
+  ],
+  "definitions": [
+    {
+      "id": "insured_person",
+      "term": "Administrador Segurado",
+      "text": "Qualquer pessoa natural que atue ou tenha atuado como diretor, conselheiro, administrador ou gestor com poder decisorio na Empresa, incluindo determinadas pessoas equiparadas."
+    },
+    {
+      "id": "company",
+      "term": "Empresa",
+      "text": "A tomadora identificada na Especificacao, juntamente com Subsidiarias abrangidas."
+    },
+    {
+      "id": "claim",
+      "term": "Claim / Reclamacao",
+      "text": "Demanda escrita, processo judicial, administrativo, arbitral, procedimento regulatorio ou investigacao formal que alegue Ato de Gestao."
+    },
+    {
+      "id": "wrongful_act",
+      "term": "Ato de Gestao",
+      "text": "Ato, erro, omissao, declaracao inexata, quebra de dever fiduciario, negligencia ou conduta alegada no exercicio de cargo segurado."
+    },
+    {
+      "id": "loss",
+      "term": "Perda Indenizavel",
+      "text": "Indenizacoes, acordos, Custos de Defesa e outras despesas expressamente cobertas, exceto valores nao seguraveis por lei."
+    },
+    {
+      "id": "defense_costs",
+      "term": "Despesas de Defesa",
+      "text": "Honorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de Reclamacao."
+    },
+    {
+      "id": "investigation",
+      "term": "Investigacao Formal",
+      "text": "Procedimento formal de autoridade ou regulador que exija comparecimento, depoimento, producao de documentos ou representacao juridica de Administrador Segurado."
+    },
+    {
+      "id": "subsidiary",
+      "term": "Controlada",
+      "text": "Entidade na qual a Empresa controle mais de 50% dos direitos de voto ou tenha poder de eleger a maioria da administracao."
+    }
+  ],
+  "clauses": [
+    {
+      "id": "claim_notice",
+      "name": "Notificacao de Reclamacao",
+      "summary": "A Reclamacao deve ser notificada tao logo razoavelmente possivel, com informacoes suficientes para identificacao do evento."
+    },
+    {
+      "id": "cooperation",
+      "name": "Cooperacao e Defesa",
+      "summary": "Segurados cooperarao com informacoes e documentos; a Seguradora podera participar da defesa e negociacao."
+    },
+    {
+      "id": "severability",
+      "name": "Severability / Separabilidade",
+      "summary": "Declaracoes e conhecimento de uma pessoa nao serao automaticamente imputados as demais, conforme as regras de subscricao e exclusoes."
+    },
+    {
+      "id": "change_in_control",
+      "name": "Mudanca de Controle",
+      "summary": "Ocorrida Mudanca de Controle, a apolice cobre apenas Atos de Gestao anteriores ao evento, salvo acordo em contrario."
+    },
+    {
+      "id": "run_off",
+      "name": "Cobertura Run Off",
+      "summary": "Pode ser contratado periodo de run-off para reclamacoes posteriores relativas a atos anteriores a Mudanca de Controle."
+    },
+    {
+      "id": "priority_of_payments",
+      "name": "Priority of Payments",
+      "summary": "Quando o limite for insuficiente, a Seguradora priorizara pagamentos devidos a Administradores Segurados antes de reembolso a Empresa."
+    },
+    {
+      "id": "allocation",
+      "name": "Alocacao de Perdas",
+      "summary": "Quando uma Reclamacao envolver materias cobertas e nao cobertas, as partes deverao alocar de forma justa e razoavel os valores correspondentes."
+    },
+    {
+      "id": "advancement_of_defense_costs",
+      "name": "Antecipacao de Custos de Defesa",
+      "summary": "Custos de Defesa poderao ser adiantados antes da resolucao final, sujeitos a eventual reembolso se posteriormente nao houver cobertura."
+    },
+    {
+      "id": "consent_to_settle",
+      "name": "Consentimento para Acordo",
+      "summary": "Nenhum acordo que imponha obrigacao a Seguradora sera celebrado sem consentimento previo, que nao sera recusado sem motivo razoavel."
+    }
+  ]
+}

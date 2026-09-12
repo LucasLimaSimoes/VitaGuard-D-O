@@ -1,0 +1,1820 @@
+{
+  "project_version": "0.5A.2",
+  "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+  "source_name": "allianz_do_condicoes_gerais_2025_12.pdf",
+  "provider": "cache-rebuild",
+  "model": "reused-v0.5A.1-stage-cache",
+  "selected_chunks": {
+    "core": [
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0002:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0016:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0021:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0031:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0036:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0036:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0045:c000"
+    ],
+    "risk": [
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0008:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0011:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0012:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0013:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0014:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0016:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0019:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0028:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0031:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0032:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0034:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0039:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0039:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0040:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0043:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0046:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0047:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0047:c001"
+    ],
+    "semantic": [
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0011:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0012:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0014:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0024:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0025:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0029:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0029:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0034:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0035:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0037:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0037:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0039:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0042:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0043:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0044:c001",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0046:c000",
+      "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0047:c000"
+    ]
+  },
+  "core": {
+    "policy_id_hint": null,
+    "scalar_facts": [
+      {
+        "field_id": "insurer",
+        "status": "FOUND",
+        "raw_value": "ALLIANZ SEGUROS S.A.",
+        "normalized_value": "Allianz Seguros S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000",
+            "page_number": 1,
+            "excerpt": "ALLIANZ SEGUROS S.A.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "product_name",
+        "status": "FOUND",
+        "raw_value": "Responsabilidade Civil de Diretores e Administradores de Empresas (D&O)",
+        "normalized_value": "Responsabilidade Civil de Diretores e Administradores de Empresas (D&O)",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Responsabilidade Civil de\nDiretores e\nAdministradores de\nEmpresas (D&O)",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "susep_process",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Não consta nos chunks fornecidos."
+      },
+      {
+        "field_id": "policy_number",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Trata-se de Condições Gerais, o número da apólice consta na Especificação da Apólice."
+      },
+      {
+        "field_id": "insured",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Trata-se de Condições Gerais, o segurado consta na Especificação da Apólice."
+      },
+      {
+        "field_id": "policyholder",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Trata-se de Condições Gerais, o tomador consta na Especificação da Apólice."
+      },
+      {
+        "field_id": "document_version",
+        "status": "FOUND",
+        "raw_value": "dezembro/2025",
+        "normalized_value": "2025-12",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Versão dezembro/2025",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "policy_period_start",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Trata-se de Condições Gerais."
+      },
+      {
+        "field_id": "policy_period_end",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Trata-se de Condições Gerais."
+      },
+      {
+        "field_id": "currency",
+        "status": "FOUND",
+        "raw_value": "moeda corrente nacional",
+        "normalized_value": "BRL",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+            "page_number": 9,
+            "excerpt": "todos os valores constantes dos documentos que integram este contrato de seguro deverão ser expressos\nem moeda corrente nacional",
+            "section": null
+          }
+        ],
+        "notes": "Moeda corrente nacional inferida como BRL para o contexto brasileiro."
+      },
+      {
+        "field_id": "retroactive_date",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Consta apenas a definição conceitual de Período de Retroatividade."
+      },
+      {
+        "field_id": "extended_reporting_period",
+        "status": "FOUND",
+        "raw_value": "60 (sessenta) dias e 12 (doze) meses",
+        "normalized_value": null,
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c000",
+            "page_number": 15,
+            "excerpt": "a) 60 (sessenta) dias, automaticamente e sem cobrança de prêmio extra, salvo se disposto em contrário na\nEspecificação da Apólice.\n[...] c) 12 (doze) meses, com cobrança de prêmio adicional",
+            "section": null
+          }
+        ],
+        "notes": "Prazos adicionais previstos nas Condições Gerais."
+      },
+      {
+        "field_id": "geographic_scope",
+        "status": "FOUND",
+        "raw_value": "Conforme disposto na Especificação da Apólice.",
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0036:c000",
+            "page_number": 36,
+            "excerpt": "CLÁUSULA 36. ÂMBITO GEOGRAFICO DE COBERTURA\n\n36.1. Conforme disposto na Especificação da Apólice.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "jurisdiction",
+        "status": "FOUND",
+        "raw_value": "exclusivamente no Brasil",
+        "normalized_value": "Brasil",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0036:c000",
+            "page_number": 36,
+            "excerpt": "Qualquer questão relacionada à elaboração, validade ou funcionamento da Apólice será determinada\nexclusivamente no Brasil e de acordo com as leis brasileiras",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "coverage_trigger",
+        "status": "FOUND",
+        "raw_value": "Ato Danoso que origine uma Reclamação",
+        "normalized_value": "Claims-made",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+            "page_number": 9,
+            "excerpt": "3.1. O objetivo deste contrato de seguro é cobrir as Perdas resultantes de um Ato Danoso que origine uma\nReclamação",
+            "section": null
+          }
+        ],
+        "notes": "Gatilho baseado em reclamação por ato danoso (base de reclamação)."
+      }
+    ],
+    "financial_facts": [],
+    "warnings": [
+      "Documento é um caderno de Condições Gerais; valores específicos de apólice não estão presentes."
+    ]
+  },
+  "risk": {
+    "coverages": [
+      {
+        "canonical_id": "side_a",
+        "original_name": "COBERTURA DE PAGAMENTO AO SEGURADO – COBERTURA A",
+        "description": "A Seguradora deverá pagar em nome ou por conta do Segurado, diretamente, qualquer Perda resultante de uma Reclamação coberta pela Apólice.",
+        "category": "coverages",
+        "conditions": [
+          "Aplicável, exclusivamente, se o Segurado não for indenizado pelo Tomador do Seguro por tal Perda em virtude da impossibilidade legal ou situação de Insolvência Financeira da Empresa."
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+            "page_number": 9,
+            "excerpt": "I) COBERTURA DE PAGAMENTO AO SEGURADO – COBERTURA A\n\nA Seguradora deverá pagar em nome ou por conta do Segurado, diretamente, qualquer Perda resultante de uma Reclamação coberta pela Apólice.\n\nEssa cobertura será aplicável, exclusivamente, se o Segurado não for indenizado pelo Tomador do Seguro por tal Perda em virtude da impossibilidade legal ou situação de Insolvência Financeira da Empresa.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "side_b",
+        "original_name": "COBERTURA DE REEMBOLSO DA EMPRESA – COBERTURA B",
+        "description": "A Seguradora deverá reembolsar o Tomador do Seguro por qualquer Perda resultante de uma Reclamação, à medida que o Tomador do Seguro tenha indenizado o Segurado em relação à tal Perda.",
+        "category": "coverages",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000",
+            "page_number": 9,
+            "excerpt": "II) COBERTURA DE REEMBOLSO DA EMPRESA – COBERTURA B\n\nA Seguradora deverá reembolsar o Tomador do Seguro por qualquer Perda resultante de uma Reclamação, à medida que o Tomador do Seguro tenha indenizado o Segurado em relação à tal Perda.",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "extensions": [
+      {
+        "canonical_id": "investigation_costs",
+        "original_name": "COBERTURA PARA INVESTIGAÇÃO",
+        "description": "A Seguradora deverá pagar em nome, ou por conta do Segurado custos de investigação, investigação interna ou custo de preparação em investigação.",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000",
+            "page_number": 10,
+            "excerpt": "I) COBERTURA PARA INVESTIGAÇÃO\n\nA Seguradora deverá pagar em nome, ou por conta do Segurado (ou do Tomador do Seguro, na medida em que este tenha indenizado ou concordado em indenizar o Segurado):",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "asset_and_liberty",
+        "original_name": "COBERTURA PARA PROCESSOS DE BENS E LIBERDADE",
+        "description": "A Seguradora deverá pagar os Gastos com Defesa relativos a Processos de Bens e Liberdade e Processos de Extradição, e Despesas Pessoais em caso de Ordem de Confisco.",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [
+          "ESTÃO EXCLUÍDOS DESTA COBERTURA OS PROCESSOS OU PROCEDIMENTOS REFERENTES À DEPORTAÇÃO POR CRIME E/OU EXPULSÃO DE UM SEGURADO."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000",
+            "page_number": 10,
+            "excerpt": "II) COBERTURA PARA PROCESSOS DE BENS E LIBERDADE\n\nA Seguradora deverá pagar em nome, ou por conta do Segurado (ou do Tomador do Seguro na medida em que este tenha indenizado ou concordado em indenizar o Segurado):\n\na) os Gastos com Defesa relativos a Processos de Bens e Liberdade e Processos de Extradição; e\n\nb) Despesas Pessoais em caso de Ordem de Confisco.\n\nESTÃO EXCLUÍDOS DESTA COBERTURA OS PROCESSOS OU PROCEDIMENTOS REFERENTES À\nDEPORTAÇÃO POR CRIME E/OU EXPULSÃO DE UM SEGURADO.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "asset_and_liberty",
+        "original_name": "COBERTURA PARA INDISPONIBILIDADE DE BENS POR BLOQUEIO E PENHORA ONLINE",
+        "description": "Adiantamento do salário líquido mensal atual ou pró-labore mensal líquido em caso de penhora online ou bloqueio de bens do Segurado.",
+        "category": "extensions",
+        "conditions": [
+          "O adiantamento será realizado após 15 dias contados do recebimento dos Documentos Comprobatórios do bloqueio.",
+          "O adiantamento será pago ao Segurado mensalmente pelo período de até 12 meses."
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [
+          {
+            "field_id": "coverage_sublimit",
+            "original_name": "Prazo máximo de adiantamento",
+            "raw_value": "12 meses",
+            "kind": "DURATION",
+            "numeric_value": 12.0,
+            "currency": null,
+            "unit": "meses",
+            "normalized_text": "12 meses",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000",
+                "page_number": 10,
+                "excerpt": "O adiantamento será pago ao Segurado mensalmente pelo período de até 12 (doze) meses, exceto se estabelecido de forma diversa na Especificação da Apólice.",
+                "section": null
+              }
+            ]
+          }
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000",
+            "page_number": 10,
+            "excerpt": "III) COBERTURA PARA INDISPONIBILIDADE DE BENS POR BLOQUEIO E PENHORA ONLINE\n\nEm caso de penhora online ou bloqueio, total ou parcial, de bens do Segurado, resultante de uma ordem judicial ou extrajudicial exarada durante o Período de Vigência da Apólice, por conta de Reclamação decorrente de Ato Danoso coberto pela Apólice, a Seguradora realizará o adiantamento do salário líquido mensal atual, ou pró-labore mensal líquido comprovado, quando não CLT, do Segurado que teve suas contas bloqueadas.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "crisis_management",
+        "original_name": "COBERTURA PARA GERENCIAMENTO DE CRISE",
+        "description": "A Seguradora deverá pagar as Despesas de Gerenciamento de Crise para o Tomador do Seguro, exclusivamente com relação à(s) Crise(s) ocorrida(s) e avisada(s) à Seguradora durante o Período de Vigência da Apólice.",
+        "category": "extensions",
+        "conditions": [
+          "Aplica-se independentemente de uma Reclamação ser proposta contra um Segurado."
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0012:c000",
+            "page_number": 12,
+            "excerpt": "X) COBERTURA PARA GERENCIAMENTO DE CRISE\n\nA Seguradora deverá pagar as Despesas de Gerenciamento de Crise para o Tomador do Seguro, exclusivamente com relação à(s) Crise(s) ocorrida(s) e avisada(s) à Seguradora durante o Período de Vigência da Apólice.\n\nEsta garantia se aplica independentemente de uma Reclamação ser proposta contra um Segurado.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "new_subsidiaries",
+        "original_name": "COBERTURA AUTOMÁTICA PARA NOVA SUBSIDIÁRIA",
+        "description": "Extensão automática de cobertura para entidades criadas, adquiridas ou cujo controle seja obtido durante o Período de Vigência da Apólice.",
+        "category": "extensions",
+        "conditions": [
+          "A entidade não deve exceder limite de ativos, possuir valores mobiliários listados em certas bolsas estrangeiras, ser instituição financeira (exceto se o tomador for), SAF, jogos de azar, ativos digitais ou SPAC."
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [
+          {
+            "field_id": "coverage_sublimit",
+            "original_name": "Prazo de extensão automática",
+            "raw_value": "30 dias",
+            "kind": "DURATION",
+            "numeric_value": 30.0,
+            "currency": null,
+            "unit": "dias",
+            "normalized_text": "30 dias",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0014:c000",
+                "page_number": 14,
+                "excerpt": "Em tais casos, conforme listado no item “a” acima, a Apólice estenderá automaticamente a cobertura para essa nova Subsidiária apenas por um período de 30 (trinta) dias após a Empresa criar, adquirir ou obter tal controle sobre a nova Subsidiária.",
+                "section": null
+              }
+            ]
+          }
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0014:c000",
+            "page_number": 14,
+            "excerpt": "I) COBERTURA AUTOMÁTICA PARA NOVA SUBSIDIÁRIA\n\nSe, durante o Período de Vigência da Apólice, uma Empresa, direta ou indiretamente, criar, adquirir ou obtiver controle de uma entidade da maneira descrita na definição do termo de “Subsidiária”, então tal entidade será considerada uma Subsidiária e será automaticamente coberta pela Apólice",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "retired_directors",
+        "original_name": "COBERTURA VITALÍCIA DE ANTIGO SEGURADO (PRAZO ADICIONAL VITALÍCIO)",
+        "description": "A Seguradora concederá um Prazo Adicional vitalício e deverá pagar em nome ou por conta de um Antigo Segurado por Perdas ou custos de investigação.",
+        "category": "extensions",
+        "conditions": [
+          "Tais questões sejam notificadas à Seguradora, tão logo o Segurado delas tome conhecimento.",
+          "A apólice não seja renovada ou substituída por outra apólice D&O que não ofereça pelo menos 6 anos de cobertura de Prazo Adicional."
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0016:c000",
+            "page_number": 16,
+            "excerpt": "IV) COBERTURA VITALÍCIA DE ANTIGO SEGURADO (PRAZO ADICIONAL VITALÍCIO)\n\nA Seguradora concederá um Prazo Adicional vitalício e deverá pagar em nome ou por conta de um Antigo Segurado:\n\na) qualquer Perda decorrente de qualquer Reclamação feita pela primeira vez contra o Antigo Segurado após a data de término do Período de vigência da Apólice por Ato Danoso ocorrido antes da data em que ele se tornou um Antigo Segurado",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "exclusions": [
+      {
+        "canonical_id": "fraud_or_dishonesty",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE CONDUTA",
+        "description": "Exclusão de perda decorrente de violações ao dever de lealdade, ato ilícito doloso ou culposo grave equiparável ao dolo, fraude, infração dolosa de lei, simulação, lavagem de dinheiro, entre outros.",
+        "category": "exclusions",
+        "conditions": [
+          "A aplicação exige apresentação de decisão final judicial ou arbitral, confissão do segurado, acordo de delação premiada ou reconhecimento expresso de órgão oficial."
+        ],
+        "exceptions": [
+          "Nenhum ato, erro ou omissão de algum segurado será imputado a outro segurado, caso ele não tenha participado ativamente ou tenha sido conivente com o mesmo."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0016:c000",
+            "page_number": 16,
+            "excerpt": "I) CLÁUSULA DE EXCLUSÃO DE CONDUTA\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL ÀS VIOLAÇÕES AO DEVER DE LEALDADE, À PRÁTICA DE ATO ILÍCITO DOLOSO OU PRATICADO COM CULPA GRAVE EQUIPARÁVEL AO DOLO ATRIBUÍDOS AO SEGURADO",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "prior_claims_or_circumstances",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES/CIRCUNSTÂNCIAS ANTERIORES",
+        "description": "Exclusão de perda decorrente de reclamação ou investigação feita antes da data de continuidade, circunstâncias notificadas em outra apólice anterior, ou assuntos de conhecimento prévio que pudessem dar origem a reclamação.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+            "page_number": 17,
+            "excerpt": "II) CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES/CIRCUNSTÂNCIAS ANTERIORES\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL A QUALQUER:\n\nA) RECLAMAÇÃO OU INVESTIGAÇÃO FEITA PELA PRIMEIRA VEZ OU INICIADA ANTES DA DATA DE CONTINUIDADE",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": null,
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE LITÍGIO ANTERIOR E PENDENTE",
+        "description": "Exclusão de perda decorrente de processos cíveis, criminais, administrativos, regulatórios, investigativos e arbitrais iniciados antes ou pendentes na data de continuidade.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+            "page_number": 17,
+            "excerpt": "III) CLÁUSULA DE EXCLUSÃO DE LITÍGIO ANTERIOR E PENDENTE\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL A QUALQUER:\n\nA) PROCESSOS OU PROCEDIMENTOS CÍVEIS, CRIMINAIS, ADMINISTRATIVOS, REGULATÓRIOS, INVESTIGATIVOS E ARBITRAIS ENVOLVENDO QUALQUER EMPRESA OU ENTIDADE EXTERNA OU QUALQUER SEGURADO INICIADOS ANTES DA DATA DE CONTINUIDADE",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "bodily_injury_property_damage",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS",
+        "description": "Exclusão de perda decorrente de lesão física, enfermidade, morte, transtornos, sofrimento emocional ou dano a propriedade física.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [
+          "Salvo o disposto na cobertura de responsabilidade por lesões corporais, danos à propriedade e danos morais."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+            "page_number": 17,
+            "excerpt": "IV) CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADO OU ATRIBUÍVEL A LESÃO FÍSICA, ENFERMIDADE, DOENÇA, MORTE... SALVO O DISPOSTO NA COBERTURA DE RESPONSABILIDADE POR LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "insured_vs_insured",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES DE TOMADOR DO SEGURO CONTRA SEGURADO NOS EUA E CANADÁ",
+        "description": "Exclusão de perdas decorrentes de reclamações nos EUA e Canadá apresentadas por uma empresa contra um segurado ou entidade externa.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [
+          "Reclamações contra segurados movidas nos EUA por administrador judicial, por contribuição ou indenização, ou por ação de responsabilidade de acionistas sem cooperação do segurado.",
+          "Gastos com defesa de um segurado."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+            "page_number": 18,
+            "excerpt": "V) CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES DE TOMADOR DO SEGURO CONTRA SEGURADO NOS EUA E CANADÁ\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL A QUALQUER RECLAMAÇÃO NOS ESTADOS UNIDOS DA AMÉRICA E TERRITÓRIOS E CANADÁ APRESENTADA POR OU EM NOME DE UMA EMPRESA CONTRA UM SEGURADO",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "pollution",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE POLUIÇÃO",
+        "description": "Exclusão de perda decorrente de descarga, dispersão, liberação ou vazamento de poluentes, bem como testes ou remoção de poluentes.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [
+          "Exceto se contratada a cobertura adicional de responsabilidade civil do administrador por dano ambiental."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+            "page_number": 18,
+            "excerpt": "VI) CLÁUSULA DE EXCLUSÃO DE POLUIÇÃO\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, COM BASE EM, OU ATRIBUÍVEL A:\n\nA) REALIZAÇÃO, ALEGAÇÃO OU AMEAÇA DE DESCARGA, DISPERSÃO, LIBERAÇÃO OU VAZAMENTO DE POLUENTES",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": null,
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR",
+        "description": "Exclusão de reclamações contra segurado em sua capacidade de agente fiduciário ou administrador de entidade de previdência complementar ou fundo fiduciário.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+            "page_number": 18,
+            "excerpt": "VII) CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, COM BASE EM OU ATRIBUÍVEL A QUALQUER RECLAMAÇÃO CONTRA UM SEGURADO EM SUA CAPACIDADE DE: AGENTE FIDUCIÁRIO OU AVALISTA PESSOAL",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": null,
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS",
+        "description": "Exclusão de perdas decorrentes de oferta pública de valores mobiliários no Brasil ou outro país durante a vigência da apólice, caso não contratada cobertura específica.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [
+          "Esta exclusão não se aplica em caso de oferta de dívida em mercado local."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+            "page_number": 18,
+            "excerpt": "VIII) CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, COM BASE EM, OU ATRIBUÍVEL A QUALQUER OFERTA PÚBLICA DE QUAISQUER VALORES MOBILIÁRIOS NO BRASIL, OU EM QUALQUER OUTRO PAÍS",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "professional_services",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL",
+        "description": "Exclusão de perdas por prestação de serviços ou falha na prestação de serviços profissionais habitualmente objeto de seguro específico RC E&O.",
+        "category": "exclusions",
+        "conditions": [],
+        "exceptions": [
+          "Reclamação apresentada por acionista alegando falta de fiscalização.",
+          "Reclamação contra segurado se verificada a desconsideração da personalidade jurídica."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0019:c000",
+            "page_number": 19,
+            "excerpt": "IX) CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, BASEADA EM OU ATRIBUÍVEL A QUALQUER PRESTAÇÃO DE SERVIÇOS OU FALHA... NA PRESTAÇÃO DE SERVIÇOS PROFISSIONAIS",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "semantic": {
+    "definitions": [
+      {
+        "canonical_term": "Reclamacao",
+        "original_term": "RECLAMAÇÃO",
+        "definition_text": "qualquer demanda por escrito de Terceiro contra um Segurado, requerendo indenização, pecuniária ou não pecuniária, cautelar ou de outra espécie legal e processual, buscando responsabilizá-lo pela suposta prática de um Ato Danoso em: a) processos civis ou criminais...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0046:c000",
+            "page_number": 46,
+            "excerpt": "RECLAMAÇÃO: qualquer demanda por escrito de Terceiro contra um Segurado, requerendo indenização, pecuniária ou não pecuniária, cautelar ou de outra espécie legal e processual, buscando responsabilizá-lo pela suposta prática de um Ato Danoso em: a) processos civis ou criminais",
+            "section": "CLÁUSULA 39. DEFINIÇÕES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Sociedade",
+        "original_term": "CONTROLADA",
+        "definition_text": "é a pessoa jurídica na qual a controladora, diretamente ou através de outras Controladas s, é titular de direitos de sócio que lhe assegurem, de modo permanente, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores, conforme disposto na Lei das Sociedades por Ações.",
+        "extraction_confidence": 0.9,
+        "normalization_confidence": 0.85,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c001",
+            "page_number": 38,
+            "excerpt": "CONTROLADA: é a pessoa jurídica na qual a controladora, diretamente ou através de outras Controladas s, é titular de direitos de sócio que lhe assegurem, de modo permanente, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores",
+            "section": "CLÁUSULA 39. DEFINIÇÕES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Custos de defesa",
+        "original_term": "GASTOS COM DEFESA",
+        "definition_text": "Gastos com Defesa",
+        "extraction_confidence": 0.9,
+        "normalization_confidence": 0.9,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0044:c001",
+            "page_number": 44,
+            "excerpt": "b) Gastos com Defesa;",
+            "section": "PERDA"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Pessoa segurada",
+        "original_term": "SEGURADO",
+        "definition_text": "qualquer pessoa física que tenha sido, seja, ou que, durante o Período de Vigência da Apólice / Período de Retroatividade venha a ser: a) Diretor, membro do Conselho de Administração...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0047:c000",
+            "page_number": 47,
+            "excerpt": "SEGURADO: qualquer pessoa física que tenha sido, seja, ou que, durante o Período de Vigência da Apólice / Período de Retroatividade venha a ser: a) Diretor, membro do Conselho de Administração",
+            "section": "CLÁUSULA 39. DEFINIÇÕES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Investigacao",
+        "original_term": "INVESTIGAÇÃO",
+        "definition_text": "qualquer um dos seguintes itens feitos ou iniciados pela primeira vez durante o Período de Vigência da Apólice ou o Prazo Adicional (se aplicável): a) audiência oficial, investigação oficial ou inquérito...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0043:c000",
+            "page_number": 43,
+            "excerpt": "INVESTIGAÇÃO: qualquer um dos seguintes itens feitos ou iniciados pela primeira vez durante o Período de Vigência da Apólice ou o Prazo Adicional (se aplicável): a) audiência oficial, investigação oficial ou inquérito",
+            "section": "CLÁUSULA 39. DEFINIÇÕES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Perda",
+        "original_term": "PERDA",
+        "definition_text": "a) Valores que o Segurado seja legalmente responsável a pagar como resultado de uma Reclamação...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0044:c001",
+            "page_number": 44,
+            "excerpt": "PERDA: a) Valores que o Segurado seja legalmente responsável a pagar como resultado de uma Reclamação",
+            "section": "PERDA"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Subsidiaria",
+        "original_term": "SUBSIDIÁRIA",
+        "definition_text": "Subsidiária",
+        "extraction_confidence": 0.8,
+        "normalization_confidence": 0.9,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c001",
+            "page_number": 38,
+            "excerpt": "Para os fins desta Apólice, uma Subsidiária também é uma Controlada.",
+            "section": "CONTROLADA"
+          }
+        ]
+      },
+      {
+        "canonical_term": "Ato danoso",
+        "original_term": "ATO DANOSO",
+        "definition_text": "qualquer ação, omissão ou Fato Gerador que produza danos a terceiros e que seja imputada responsabilidade ao(s) Segurado(s), em função de um ato de sua gestão...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c000",
+            "page_number": 38,
+            "excerpt": "ATO DANOSO: qualquer ação, omissão ou Fato Gerador que produza danos a terceiros e que seja imputada responsabilidade ao(s) Segurado(s), em função de um ato de sua gestão",
+            "section": "CLÁUSULA 39. DEFINIÇÕES"
+          }
+        ]
+      }
+    ],
+    "clauses": [
+      {
+        "canonical_id": "allocation",
+        "original_name": "CLÁUSULA 21. ALOCAÇÃO",
+        "summary": "Regras para alocação proporcional de perdas cobertas e não cobertas ou entre pessoas cobertas e não cobertas.",
+        "conditions": [],
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0029:c000",
+            "page_number": 29,
+            "excerpt": "CLÁUSULA 21. ALOCAÇÃO",
+            "section": "CLÁUSULA 21. ALOCAÇÃO"
+          }
+        ]
+      },
+      {
+        "canonical_id": "priority_of_payments",
+        "original_name": "CLÁUSULA 22. PRIORIDADE DE PAGAMENTO DE PERDA",
+        "summary": "Define a ordem de prioridade para pagamento de perdas em caso de esgotamento do limite máximo de garantia.",
+        "conditions": [],
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0029:c000",
+            "page_number": 29,
+            "excerpt": "CLÁUSULA 22. PRIORIDADE DE PAGAMENTO DE PERDA",
+            "section": "CLÁUSULA 22. PRIORIDADE DE PAGAMENTO DE PERDA"
+          }
+        ]
+      },
+      {
+        "canonical_id": "claim_notice",
+        "original_name": "CLÁUSULA 15. AVISO DE SINISTRO",
+        "summary": "Obrigatoriedade de comunicação pronta e por escrito à Seguradora sobre reclamações feitas durante a vigência.",
+        "conditions": [],
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0024:c000",
+            "page_number": 24,
+            "excerpt": "CLÁUSULA 15. AVISO DE SINISTRO",
+            "section": "CLÁUSULA 15. AVISO DE SINISTRO"
+          }
+        ]
+      },
+      {
+        "canonical_id": "extended_reporting_period",
+        "original_name": "III) COBERTURA PARA PRAZO ADICIONAL",
+        "summary": "Garantia de prazo adicional (automático de 60 dias ou contratado de 12 meses) para aviso de sinistros.",
+        "conditions": [],
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c000",
+            "page_number": 15,
+            "excerpt": "III) COBERTURA PARA PRAZO ADICIONAL",
+            "section": "CLÁUSULA 6. EXTENSÕES DA APÓLICE"
+          }
+        ]
+      },
+      {
+        "canonical_id": "change_in_control",
+        "original_name": "CLÁUSULA 32. ALTERAÇÃO/AGRAVAÇÃO DE RISCO",
+        "summary": "Regras sobre alteração de controle societário e eventos de insolvência que afetam a vigência ou exigem comunicação.",
+        "conditions": [],
+        "extraction_confidence": 0.9,
+        "normalization_confidence": 0.9,
+        "evidence": [
+          {
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0035:c000",
+            "page_number": 35,
+            "excerpt": "CLÁUSULA 32. ALTERAÇÃO/AGRAVAÇÃO DE RISCO",
+            "section": "CLÁUSULA 32. ALTERAÇÃO/AGRAVAÇÃO DE RISCO"
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "evidence_report": {
+    "total_claims": 40,
+    "valid_claims": 39,
+    "invalid_claims": 1,
+    "repaired_claims": 0,
+    "recovered_claims": 4,
+    "issues": [
+      {
+        "extractor": "core",
+        "object_type": "scalar",
+        "object_name": "extended_reporting_period",
+        "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c000",
+        "page_number": 15,
+        "reason": "excerpt nao encontrado no texto do chunk (mesmo apos normalizacao e reparo conservador)",
+        "excerpt": "a) 60 (sessenta) dias, automaticamente e sem cobrança de prêmio extra, salvo se disposto em contrário na\nEspecificação da Apólice.\n[...] c) 12 (doze) meses, com cobrança de prêmio adicional"
+      }
+    ],
+    "repairs": [],
+    "recoveries": [
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS",
+        "original_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+        "original_page_number": 17,
+        "original_excerpt": "IV) CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADO OU ATRIBUÍVEL A LESÃO FÍSICA, ENFERMIDADE, DOENÇA, MORTE... SALVO O DISPOSTO NA COBERTURA DE RESPONSABILIDADE POR LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS.",
+        "recovered_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000",
+        "recovered_page_number": 17,
+        "recovered_excerpt": "IV) CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS\nMORAIS",
+        "matched_term": "CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS"
+      },
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR",
+        "original_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+        "original_page_number": 18,
+        "original_excerpt": "VII) CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, COM BASE EM OU ATRIBUÍVEL A QUALQUER RECLAMAÇÃO CONTRA UM SEGURADO EM SUA CAPACIDADE DE: AGENTE FIDUCIÁRIO OU AVALISTA PESSOAL",
+        "recovered_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+        "recovered_page_number": 18,
+        "recovered_excerpt": "VII) CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR",
+        "matched_term": "CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR"
+      },
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS",
+        "original_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+        "original_page_number": 18,
+        "original_excerpt": "VIII) CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, COM BASE EM, OU ATRIBUÍVEL A QUALQUER OFERTA PÚBLICA DE QUAISQUER VALORES MOBILIÁRIOS NO BRASIL, OU EM QUALQUER OUTRO PAÍS",
+        "recovered_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000",
+        "recovered_page_number": 18,
+        "recovered_excerpt": "VIII) CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS",
+        "matched_term": "CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS"
+      },
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL",
+        "original_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0019:c000",
+        "original_page_number": 19,
+        "original_excerpt": "IX) CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, BASEADA EM OU ATRIBUÍVEL A QUALQUER PRESTAÇÃO DE SERVIÇOS OU FALHA... NA PRESTAÇÃO DE SERVIÇOS PROFISSIONAIS",
+        "recovered_chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0019:c000",
+        "recovered_page_number": 19,
+        "recovered_excerpt": "IX) CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL",
+        "matched_term": "CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL"
+      }
+    ]
+  },
+  "policy_json": {
+    "policy_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+    "source_documents": [
+      {
+        "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+        "source_file": "allianz_do_condicoes_gerais_2025_12.pdf",
+        "sha256": "1778f9d09c187996e5cef8fda73a51c89ced0d0dc1772aaa4f327a9f5eb9a6cc",
+        "page_count": 75,
+        "language": "pt-BR",
+        "document_type": "GENERAL_CONDITIONS",
+        "origin": "PUBLIC_REAL"
+      }
+    ],
+    "identification": {
+      "insurer": {
+        "status": "FOUND",
+        "value": "Allianz Seguros S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 1,
+            "section": null,
+            "excerpt": "ALLIANZ SEGUROS S.A.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "product_name": {
+        "status": "FOUND",
+        "value": "Responsabilidade Civil de Diretores e Administradores de Empresas (D&O)",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 1,
+            "section": null,
+            "excerpt": "Responsabilidade Civil de\nDiretores e\nAdministradores de\nEmpresas (D&O)",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "susep_process": {
+        "status": "FOUND",
+        "value": "15414.901113/2017-96",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 2,
+            "section": "Processo SUSEP",
+            "excerpt": "Processo SUSEP nº 15414.901113/2017-96",
+            "chunk_id": null
+          }
+        ],
+        "candidates": [],
+        "notes": "LLM nao forneceu valor util; preenchido por extracao deterministica."
+      },
+      "policy_number": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Trata-se de Condições Gerais, o número da apólice consta na Especificação da Apólice."
+      },
+      "insured": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Trata-se de Condições Gerais, o segurado consta na Especificação da Apólice."
+      },
+      "policyholder": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Trata-se de Condições Gerais, o tomador consta na Especificação da Apólice."
+      },
+      "document_version": {
+        "status": "FOUND",
+        "value": "2025-12",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 1,
+            "section": null,
+            "excerpt": "Versão dezembro/2025",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      }
+    },
+    "contractual_terms": {
+      "policy_period": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": null
+      },
+      "currency": {
+        "status": "FOUND",
+        "value": "BRL",
+        "confidence": 0.8,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 9,
+            "section": null,
+            "excerpt": "todos os valores constantes dos documentos que integram este contrato de seguro deverão ser expressos\nem moeda corrente nacional",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": "Moeda corrente nacional inferida como BRL para o contexto brasileiro."
+      },
+      "premium": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": null,
+        "evidence": [],
+        "candidates": [],
+        "notes": null
+      },
+      "retroactive_date": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Consta apenas a definição conceitual de Período de Retroatividade."
+      },
+      "extended_reporting_period": {
+        "status": "FOUND",
+        "value": {
+          "kind": "DURATION",
+          "numeric_value": "60",
+          "currency": null,
+          "unit": "months",
+          "normalized_text": "60 (sessenta) dias e 12 (doze) meses",
+          "raw_text": "60 (sessenta) dias e 12 (doze) meses"
+        },
+        "confidence": 0.9,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Prazos adicionais previstos nas Condições Gerais."
+      },
+      "geographic_scope": {
+        "status": "FOUND",
+        "value": "Conforme disposto na Especificação da Apólice.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 36,
+            "section": null,
+            "excerpt": "CLÁUSULA 36. ÂMBITO GEOGRAFICO DE COBERTURA\n\n36.1. Conforme disposto na Especificação da Apólice.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0036:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "jurisdiction": {
+        "status": "FOUND",
+        "value": "Brasil",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 36,
+            "section": null,
+            "excerpt": "Qualquer questão relacionada à elaboração, validade ou funcionamento da Apólice será determinada\nexclusivamente no Brasil e de acordo com as leis brasileiras",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0036:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "coverage_trigger": {
+        "status": "FOUND",
+        "value": "Claims-made",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 9,
+            "section": null,
+            "excerpt": "3.1. O objetivo deste contrato de seguro é cobrir as Perdas resultantes de um Ato Danoso que origine uma\nReclamação",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": "Gatilho baseado em reclamação por ato danoso (base de reclamação)."
+      }
+    },
+    "policy_limits": [],
+    "policy_deductibles": [],
+    "coverages": [
+      {
+        "canonical_id": "side_a",
+        "original_name": "COBERTURA DE PAGAMENTO AO SEGURADO – COBERTURA A",
+        "description": "A Seguradora deverá pagar em nome ou por conta do Segurado, diretamente, qualquer Perda resultante de uma Reclamação coberta pela Apólice.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 9,
+            "section": null,
+            "excerpt": "I) COBERTURA DE PAGAMENTO AO SEGURADO – COBERTURA A\n\nA Seguradora deverá pagar em nome ou por conta do Segurado, diretamente, qualquer Perda resultante de uma Reclamação coberta pela Apólice.\n\nEssa cobertura será aplicável, exclusivamente, se o Segurado não for indenizado pelo Tomador do Seguro por tal Perda em virtude da impossibilidade legal ou situação de Insolvência Financeira da Empresa.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000"
+          }
+        ],
+        "category": "coverages",
+        "conditions": [
+          "Aplicável, exclusivamente, se o Segurado não for indenizado pelo Tomador do Seguro por tal Perda em virtude da impossibilidade legal ou situação de Insolvência Financeira da Empresa."
+        ],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "side_b",
+        "original_name": "COBERTURA DE REEMBOLSO DA EMPRESA – COBERTURA B",
+        "description": "A Seguradora deverá reembolsar o Tomador do Seguro por qualquer Perda resultante de uma Reclamação, à medida que o Tomador do Seguro tenha indenizado o Segurado em relação à tal Perda.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 9,
+            "section": null,
+            "excerpt": "II) COBERTURA DE REEMBOLSO DA EMPRESA – COBERTURA B\n\nA Seguradora deverá reembolsar o Tomador do Seguro por qualquer Perda resultante de uma Reclamação, à medida que o Tomador do Seguro tenha indenizado o Segurado em relação à tal Perda.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0009:c000"
+          }
+        ],
+        "category": "coverages",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      }
+    ],
+    "extensions": [
+      {
+        "canonical_id": "investigation_coverage",
+        "original_name": "COBERTURA PARA INVESTIGAÇÃO",
+        "description": "A Seguradora deverá pagar em nome, ou por conta do Segurado custos de investigação, investigação interna ou custo de preparação em investigação.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 10,
+            "section": null,
+            "excerpt": "I) COBERTURA PARA INVESTIGAÇÃO\n\nA Seguradora deverá pagar em nome, ou por conta do Segurado (ou do Tomador do Seguro, na medida em que este tenha indenizado ou concordado em indenizar o Segurado):",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "asset_and_liberty_proceedings",
+        "original_name": "COBERTURA PARA PROCESSOS DE BENS E LIBERDADE",
+        "description": "A Seguradora deverá pagar os Gastos com Defesa relativos a Processos de Bens e Liberdade e Processos de Extradição, e Despesas Pessoais em caso de Ordem de Confisco.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 10,
+            "section": null,
+            "excerpt": "II) COBERTURA PARA PROCESSOS DE BENS E LIBERDADE\n\nA Seguradora deverá pagar em nome, ou por conta do Segurado (ou do Tomador do Seguro na medida em que este tenha indenizado ou concordado em indenizar o Segurado):\n\na) os Gastos com Defesa relativos a Processos de Bens e Liberdade e Processos de Extradição; e\n\nb) Despesas Pessoais em caso de Ordem de Confisco.\n\nESTÃO EXCLUÍDOS DESTA COBERTURA OS PROCESSOS OU PROCEDIMENTOS REFERENTES À\nDEPORTAÇÃO POR CRIME E/OU EXPULSÃO DE UM SEGURADO.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "asset_freeze_online_seizure",
+        "original_name": "COBERTURA PARA INDISPONIBILIDADE DE BENS POR BLOQUEIO E PENHORA ONLINE",
+        "description": "Adiantamento do salário líquido mensal atual ou pró-labore mensal líquido em caso de penhora online ou bloqueio de bens do Segurado.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 10,
+            "section": null,
+            "excerpt": "III) COBERTURA PARA INDISPONIBILIDADE DE BENS POR BLOQUEIO E PENHORA ONLINE\n\nEm caso de penhora online ou bloqueio, total ou parcial, de bens do Segurado, resultante de uma ordem judicial ou extrajudicial exarada durante o Período de Vigência da Apólice, por conta de Reclamação decorrente de Ato Danoso coberto pela Apólice, a Seguradora realizará o adiantamento do salário líquido mensal atual, ou pró-labore mensal líquido comprovado, quando não CLT, do Segurado que teve suas contas bloqueadas.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000"
+          }
+        ],
+        "conditions": [
+          "O adiantamento será realizado após 15 dias contados do recebimento dos Documentos Comprobatórios do bloqueio.",
+          "O adiantamento será pago ao Segurado mensalmente pelo período de até 12 meses."
+        ],
+        "limits": [
+          {
+            "canonical_id": "coverage_sublimit",
+            "original_name": "Prazo máximo de adiantamento",
+            "description": null,
+            "extraction_confidence": 1.0,
+            "normalization_confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+                "page": 10,
+                "section": null,
+                "excerpt": "O adiantamento será pago ao Segurado mensalmente pelo período de até 12 (doze) meses, exceto se estabelecido de forma diversa na Especificação da Apólice.",
+                "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0010:c000"
+              }
+            ],
+            "value": {
+              "kind": "DURATION",
+              "numeric_value": "12.0",
+              "currency": null,
+              "unit": "meses",
+              "normalized_text": "12 meses",
+              "raw_text": "12 meses"
+            },
+            "applies_to": [
+              "asset_freeze_online_seizure"
+            ]
+          }
+        ],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "crisis_management",
+        "original_name": "COBERTURA PARA GERENCIAMENTO DE CRISE",
+        "description": "A Seguradora deverá pagar as Despesas de Gerenciamento de Crise para o Tomador do Seguro, exclusivamente com relação à(s) Crise(s) ocorrida(s) e avisada(s) à Seguradora durante o Período de Vigência da Apólice.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 12,
+            "section": null,
+            "excerpt": "X) COBERTURA PARA GERENCIAMENTO DE CRISE\n\nA Seguradora deverá pagar as Despesas de Gerenciamento de Crise para o Tomador do Seguro, exclusivamente com relação à(s) Crise(s) ocorrida(s) e avisada(s) à Seguradora durante o Período de Vigência da Apólice.\n\nEsta garantia se aplica independentemente de uma Reclamação ser proposta contra um Segurado.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0012:c000"
+          }
+        ],
+        "conditions": [
+          "Aplica-se independentemente de uma Reclamação ser proposta contra um Segurado."
+        ],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "new_subsidiaries",
+        "original_name": "COBERTURA AUTOMÁTICA PARA NOVA SUBSIDIÁRIA",
+        "description": "Extensão automática de cobertura para entidades criadas, adquiridas ou cujo controle seja obtido durante o Período de Vigência da Apólice.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 14,
+            "section": null,
+            "excerpt": "I) COBERTURA AUTOMÁTICA PARA NOVA SUBSIDIÁRIA\n\nSe, durante o Período de Vigência da Apólice, uma Empresa, direta ou indiretamente, criar, adquirir ou obtiver controle de uma entidade da maneira descrita na definição do termo de “Subsidiária”, então tal entidade será considerada uma Subsidiária e será automaticamente coberta pela Apólice",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0014:c000"
+          }
+        ],
+        "conditions": [
+          "A entidade não deve exceder limite de ativos, possuir valores mobiliários listados em certas bolsas estrangeiras, ser instituição financeira (exceto se o tomador for), SAF, jogos de azar, ativos digitais ou SPAC."
+        ],
+        "limits": [
+          {
+            "canonical_id": "coverage_sublimit",
+            "original_name": "Prazo de extensão automática",
+            "description": null,
+            "extraction_confidence": 1.0,
+            "normalization_confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+                "page": 14,
+                "section": null,
+                "excerpt": "Em tais casos, conforme listado no item “a” acima, a Apólice estenderá automaticamente a cobertura para essa nova Subsidiária apenas por um período de 30 (trinta) dias após a Empresa criar, adquirir ou obter tal controle sobre a nova Subsidiária.",
+                "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0014:c000"
+              }
+            ],
+            "value": {
+              "kind": "DURATION",
+              "numeric_value": "30.0",
+              "currency": null,
+              "unit": "dias",
+              "normalized_text": "30 dias",
+              "raw_text": "30 dias"
+            },
+            "applies_to": [
+              "new_subsidiaries"
+            ]
+          }
+        ],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "retired_directors",
+        "original_name": "COBERTURA VITALÍCIA DE ANTIGO SEGURADO (PRAZO ADICIONAL VITALÍCIO)",
+        "description": "A Seguradora concederá um Prazo Adicional vitalício e deverá pagar em nome ou por conta de um Antigo Segurado por Perdas ou custos de investigação.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 16,
+            "section": null,
+            "excerpt": "IV) COBERTURA VITALÍCIA DE ANTIGO SEGURADO (PRAZO ADICIONAL VITALÍCIO)\n\nA Seguradora concederá um Prazo Adicional vitalício e deverá pagar em nome ou por conta de um Antigo Segurado:\n\na) qualquer Perda decorrente de qualquer Reclamação feita pela primeira vez contra o Antigo Segurado após a data de término do Período de vigência da Apólice por Ato Danoso ocorrido antes da data em que ele se tornou um Antigo Segurado",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0016:c000"
+          }
+        ],
+        "conditions": [
+          "Tais questões sejam notificadas à Seguradora, tão logo o Segurado delas tome conhecimento.",
+          "A apólice não seja renovada ou substituída por outra apólice D&O que não ofereça pelo menos 6 anos de cobertura de Prazo Adicional."
+        ],
+        "limits": [],
+        "deductibles": []
+      }
+    ],
+    "exclusions": [
+      {
+        "canonical_id": "fraud_or_dishonesty",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE CONDUTA",
+        "description": "Exclusão de perda decorrente de violações ao dever de lealdade, ato ilícito doloso ou culposo grave equiparável ao dolo, fraude, infração dolosa de lei, simulação, lavagem de dinheiro, entre outros.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 16,
+            "section": null,
+            "excerpt": "I) CLÁUSULA DE EXCLUSÃO DE CONDUTA\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL ÀS VIOLAÇÕES AO DEVER DE LEALDADE, À PRÁTICA DE ATO ILÍCITO DOLOSO OU PRATICADO COM CULPA GRAVE EQUIPARÁVEL AO DOLO ATRIBUÍDOS AO SEGURADO",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0016:c000"
+          }
+        ],
+        "exceptions": [
+          "Nenhum ato, erro ou omissão de algum segurado será imputado a outro segurado, caso ele não tenha participado ativamente ou tenha sido conivente com o mesmo."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "prior_claims_or_circumstances",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES/CIRCUNSTÂNCIAS ANTERIORES",
+        "description": "Exclusão de perda decorrente de reclamação ou investigação feita antes da data de continuidade, circunstâncias notificadas em outra apólice anterior, ou assuntos de conhecimento prévio que pudessem dar origem a reclamação.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 17,
+            "section": null,
+            "excerpt": "II) CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES/CIRCUNSTÂNCIAS ANTERIORES\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL A QUALQUER:\n\nA) RECLAMAÇÃO OU INVESTIGAÇÃO FEITA PELA PRIMEIRA VEZ OU INICIADA ANTES DA DATA DE CONTINUIDADE",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000"
+          }
+        ],
+        "exceptions": [],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "prior_and_pending_litigation",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE LITÍGIO ANTERIOR E PENDENTE",
+        "description": "Exclusão de perda decorrente de processos cíveis, criminais, administrativos, regulatórios, investigativos e arbitrais iniciados antes ou pendentes na data de continuidade.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 17,
+            "section": null,
+            "excerpt": "III) CLÁUSULA DE EXCLUSÃO DE LITÍGIO ANTERIOR E PENDENTE\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL A QUALQUER:\n\nA) PROCESSOS OU PROCEDIMENTOS CÍVEIS, CRIMINAIS, ADMINISTRATIVOS, REGULATÓRIOS, INVESTIGATIVOS E ARBITRAIS ENVOLVENDO QUALQUER EMPRESA OU ENTIDADE EXTERNA OU QUALQUER SEGURADO INICIADOS ANTES DA DATA DE CONTINUIDADE",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000"
+          }
+        ],
+        "exceptions": [],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "bodily_injury_property_damage",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS MORAIS",
+        "description": "Exclusão de perda decorrente de lesão física, enfermidade, morte, transtornos, sofrimento emocional ou dano a propriedade física.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 17,
+            "section": null,
+            "excerpt": "IV) CLÁUSULA DE EXCLUSÃO DE LESÕES CORPORAIS, DANOS À PROPRIEDADE E DANOS\nMORAIS",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0017:c000"
+          }
+        ],
+        "exceptions": [
+          "Salvo o disposto na cobertura de responsabilidade por lesões corporais, danos à propriedade e danos morais."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "insured_vs_insured",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES DE TOMADOR DO SEGURO CONTRA SEGURADO NOS EUA E CANADÁ",
+        "description": "Exclusão de perdas decorrentes de reclamações nos EUA e Canadá apresentadas por uma empresa contra um segurado ou entidade externa.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 18,
+            "section": null,
+            "excerpt": "V) CLÁUSULA DE EXCLUSÃO DE RECLAMAÇÕES DE TOMADOR DO SEGURO CONTRA SEGURADO NOS EUA E CANADÁ\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE, RESULTANTE, BASEADA OU ATRIBUÍVEL A QUALQUER RECLAMAÇÃO NOS ESTADOS UNIDOS DA AMÉRICA E TERRITÓRIOS E CANADÁ APRESENTADA POR OU EM NOME DE UMA EMPRESA CONTRA UM SEGURADO",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000"
+          }
+        ],
+        "exceptions": [
+          "Reclamações contra segurados movidas nos EUA por administrador judicial, por contribuição ou indenização, ou por ação de responsabilidade de acionistas sem cooperação do segurado.",
+          "Gastos com defesa de um segurado."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "pollution",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE POLUIÇÃO",
+        "description": "Exclusão de perda decorrente de descarga, dispersão, liberação ou vazamento de poluentes, bem como testes ou remoção de poluentes.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 18,
+            "section": null,
+            "excerpt": "VI) CLÁUSULA DE EXCLUSÃO DE POLUIÇÃO\n\nA SEGURADORA NÃO SERÁ RESPONSÁVEL POR QUALQUER PERDA DECORRENTE DE, COM BASE EM, OU ATRIBUÍVEL A:\n\nA) REALIZAÇÃO, ALEGAÇÃO OU AMEAÇA DE DESCARGA, DISPERSÃO, LIBERAÇÃO OU VAZAMENTO DE POLUENTES",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000"
+          }
+        ],
+        "exceptions": [
+          "Exceto se contratada a cobertura adicional de responsabilidade civil do administrador por dano ambiental."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "supplementary_pension_administrator",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR",
+        "description": "Exclusão de reclamações contra segurado em sua capacidade de agente fiduciário ou administrador de entidade de previdência complementar ou fundo fiduciário.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 18,
+            "section": null,
+            "excerpt": "VII) CLÁUSULA DE EXCLUSÃO DE ADMINISTRADOR DE PREVIDÊNCIA COMPLEMENTAR",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000"
+          }
+        ],
+        "exceptions": [],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "securities_offering",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS",
+        "description": "Exclusão de perdas decorrentes de oferta pública de valores mobiliários no Brasil ou outro país durante a vigência da apólice, caso não contratada cobertura específica.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 18,
+            "section": null,
+            "excerpt": "VIII) CLÁUSULA DE EXCLUSÃO DE OFERTA DE TÍTULOS MOBILIÁRIOS",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0018:c000"
+          }
+        ],
+        "exceptions": [
+          "Esta exclusão não se aplica em caso de oferta de dívida em mercado local."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "professional_services",
+        "original_name": "CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL",
+        "description": "Exclusão de perdas por prestação de serviços ou falha na prestação de serviços profissionais habitualmente objeto de seguro específico RC E&O.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 19,
+            "section": null,
+            "excerpt": "IX) CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE CIVIL PROFISSIONAL",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0019:c000"
+          }
+        ],
+        "exceptions": [
+          "Reclamação apresentada por acionista alegando falta de fiscalização.",
+          "Reclamação contra segurado se verificada a desconsideração da personalidade jurídica."
+        ],
+        "applies_to": []
+      }
+    ],
+    "definitions": [
+      {
+        "canonical_term": "claim",
+        "original_term": "RECLAMAÇÃO",
+        "definition_text": "qualquer demanda por escrito de Terceiro contra um Segurado, requerendo indenização, pecuniária ou não pecuniária, cautelar ou de outra espécie legal e processual, buscando responsabilizá-lo pela suposta prática de um Ato Danoso em: a) processos civis ou criminais...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 46,
+            "section": "CLÁUSULA 39. DEFINIÇÕES",
+            "excerpt": "RECLAMAÇÃO: qualquer demanda por escrito de Terceiro contra um Segurado, requerendo indenização, pecuniária ou não pecuniária, cautelar ou de outra espécie legal e processual, buscando responsabilizá-lo pela suposta prática de um Ato Danoso em: a) processos civis ou criminais",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0046:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "subsidiary",
+        "original_term": "CONTROLADA",
+        "definition_text": "é a pessoa jurídica na qual a controladora, diretamente ou através de outras Controladas s, é titular de direitos de sócio que lhe assegurem, de modo permanente, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores, conforme disposto na Lei das Sociedades por Ações.",
+        "extraction_confidence": 0.9,
+        "normalization_confidence": 0.9,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 38,
+            "section": "CLÁUSULA 39. DEFINIÇÕES",
+            "excerpt": "CONTROLADA: é a pessoa jurídica na qual a controladora, diretamente ou através de outras Controladas s, é titular de direitos de sócio que lhe assegurem, de modo permanente, preponderância nas deliberações sociais e o poder de eleger a maioria dos administradores",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c001"
+          }
+        ]
+      },
+      {
+        "canonical_term": "defense_costs",
+        "original_term": "GASTOS COM DEFESA",
+        "definition_text": "Gastos com Defesa",
+        "extraction_confidence": 0.9,
+        "normalization_confidence": 0.9,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 44,
+            "section": "PERDA",
+            "excerpt": "b) Gastos com Defesa;",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0044:c001"
+          }
+        ]
+      },
+      {
+        "canonical_term": "insured_person",
+        "original_term": "SEGURADO",
+        "definition_text": "qualquer pessoa física que tenha sido, seja, ou que, durante o Período de Vigência da Apólice / Período de Retroatividade venha a ser: a) Diretor, membro do Conselho de Administração...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 47,
+            "section": "CLÁUSULA 39. DEFINIÇÕES",
+            "excerpt": "SEGURADO: qualquer pessoa física que tenha sido, seja, ou que, durante o Período de Vigência da Apólice / Período de Retroatividade venha a ser: a) Diretor, membro do Conselho de Administração",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0047:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "investigation",
+        "original_term": "INVESTIGAÇÃO",
+        "definition_text": "qualquer um dos seguintes itens feitos ou iniciados pela primeira vez durante o Período de Vigência da Apólice ou o Prazo Adicional (se aplicável): a) audiência oficial, investigação oficial ou inquérito...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 43,
+            "section": "CLÁUSULA 39. DEFINIÇÕES",
+            "excerpt": "INVESTIGAÇÃO: qualquer um dos seguintes itens feitos ou iniciados pela primeira vez durante o Período de Vigência da Apólice ou o Prazo Adicional (se aplicável): a) audiência oficial, investigação oficial ou inquérito",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0043:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "loss",
+        "original_term": "PERDA",
+        "definition_text": "a) Valores que o Segurado seja legalmente responsável a pagar como resultado de uma Reclamação...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 44,
+            "section": "PERDA",
+            "excerpt": "PERDA: a) Valores que o Segurado seja legalmente responsável a pagar como resultado de uma Reclamação",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0044:c001"
+          }
+        ]
+      },
+      {
+        "canonical_term": "subsidiary",
+        "original_term": "SUBSIDIÁRIA",
+        "definition_text": "Subsidiária",
+        "extraction_confidence": 0.8,
+        "normalization_confidence": 0.9,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 38,
+            "section": "CONTROLADA",
+            "excerpt": "Para os fins desta Apólice, uma Subsidiária também é uma Controlada.",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c001"
+          }
+        ]
+      },
+      {
+        "canonical_term": "wrongful_act",
+        "original_term": "ATO DANOSO",
+        "definition_text": "qualquer ação, omissão ou Fato Gerador que produza danos a terceiros e que seja imputada responsabilidade ao(s) Segurado(s), em função de um ato de sua gestão...",
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 0.95,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 38,
+            "section": "CLÁUSULA 39. DEFINIÇÕES",
+            "excerpt": "ATO DANOSO: qualquer ação, omissão ou Fato Gerador que produza danos a terceiros e que seja imputada responsabilidade ao(s) Segurado(s), em função de um ato de sua gestão",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0038:c000"
+          }
+        ]
+      }
+    ],
+    "clauses": [
+      {
+        "canonical_id": "allocation",
+        "original_name": "CLÁUSULA 21. ALOCAÇÃO",
+        "description": null,
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 29,
+            "section": "CLÁUSULA 21. ALOCAÇÃO",
+            "excerpt": "CLÁUSULA 21. ALOCAÇÃO",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0029:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Regras para alocação proporcional de perdas cobertas e não cobertas ou entre pessoas cobertas e não cobertas.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "priority_of_payments",
+        "original_name": "CLÁUSULA 22. PRIORIDADE DE PAGAMENTO DE PERDA",
+        "description": null,
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 29,
+            "section": "CLÁUSULA 22. PRIORIDADE DE PAGAMENTO DE PERDA",
+            "excerpt": "CLÁUSULA 22. PRIORIDADE DE PAGAMENTO DE PERDA",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0029:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Define a ordem de prioridade para pagamento de perdas em caso de esgotamento do limite máximo de garantia.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "claim_notice",
+        "original_name": "CLÁUSULA 15. AVISO DE SINISTRO",
+        "description": null,
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 24,
+            "section": "CLÁUSULA 15. AVISO DE SINISTRO",
+            "excerpt": "CLÁUSULA 15. AVISO DE SINISTRO",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0024:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Obrigatoriedade de comunicação pronta e por escrito à Seguradora sobre reclamações feitas durante a vigência.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "extended_reporting_period",
+        "original_name": "III) COBERTURA PARA PRAZO ADICIONAL",
+        "description": null,
+        "extraction_confidence": 0.95,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 15,
+            "section": "CLÁUSULA 6. EXTENSÕES DA APÓLICE",
+            "excerpt": "III) COBERTURA PARA PRAZO ADICIONAL",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0015:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Garantia de prazo adicional (automático de 60 dias ou contratado de 12 meses) para aviso de sinistros.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "change_in_control",
+        "original_name": "CLÁUSULA 32. ALTERAÇÃO/AGRAVAÇÃO DE RISCO",
+        "description": null,
+        "extraction_confidence": 0.9,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c",
+            "page": 35,
+            "section": "CLÁUSULA 32. ALTERAÇÃO/AGRAVAÇÃO DE RISCO",
+            "excerpt": "CLÁUSULA 32. ALTERAÇÃO/AGRAVAÇÃO DE RISCO",
+            "chunk_id": "allianz-do-condicoes-gerais-2025-12-1778f9d09c:p0035:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Regras sobre alteração de controle societário e eventos de insolvência que afetam a vigência ou exigem comunicação.",
+        "conditions": []
+      }
+    ],
+    "extraction": {
+      "schema_version": "0.5A.2",
+      "extraction_method": "NATIVE_TEXT",
+      "extractor_model": "reused-v0.5A.1-stage-cache",
+      "extracted_at": "2026-08-23T13:28:39.586294Z",
+      "warnings": [],
+      "errors": []
+    }
+  },
+  "extracted_at": "2026-08-23T13:28:39.586672Z",
+  "warnings": [
+    "1 evidence claim(s) failed deterministic validation."
+  ]
+}

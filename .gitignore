@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
+.env.*
+
+outputs/live/*
+!outputs/live/.gitkeep
+
+# API keys/secrets must never be committed.
+*.key
+secrets.toml
+.streamlit/secrets.toml

@@ -1,0 +1,20 @@
+{
+  "release": "1.0.0",
+  "assets": [
+    {
+      "key": "allianz",
+      "filename": "allianz_do_condicoes_gerais_2025_12.structured.json",
+      "sha256": "301317a28d77bcb6d1f48d54556c5f5ed3e6131d5c25a5432358e7ce2ca12bc9"
+    },
+    {
+      "key": "aig",
+      "filename": "aig_do_aiggo.structured.json",
+      "sha256": "4dfa569ec34ceec327a71b948aa76f995ea4ac9d772e49e80d7077deb6eaa148"
+    },
+    {
+      "key": "executive_plus",
+      "filename": "vitaguard_do_executive_plus.structured.json",
+      "sha256": "1f78be432f2ebfa093418b1efaac849d8203fad31d0d9aa6bfa450e2aa876220"
+    }
+  ]
+}

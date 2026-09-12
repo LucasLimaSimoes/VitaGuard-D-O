@@ -1,0 +1,24 @@
+version: 0.6.4
+
+# Cross-section families are navigation/analysis aids. They DO NOT assert that
+# every member has identical contractual effect.
+concepts:
+  - id: investigation_protection
+    label: Proteção relacionada a investigação
+    description: Agrupa cobertura/custos de investigação e extensão de investigação para mostrar presença transversal entre documentos com estruturas editoriais diferentes.
+    members:
+      - section: coverages
+        field_id: investigation_costs
+      - section: extensions
+        field_id: investigation_coverage
+
+  - id: asset_liberty_protection
+    label: Proteções de bens e liberdade
+    description: Agrupa proteções relacionadas a bens, bloqueio/indisponibilidade e liberdade, sem tratá-las como cláusulas contratualmente idênticas.
+    members:
+      - section: coverages
+        field_id: asset_and_liberty
+      - section: extensions
+        field_id: asset_and_liberty_proceedings
+      - section: extensions
+        field_id: asset_freeze_online_seizure

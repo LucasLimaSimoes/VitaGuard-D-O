@@ -1,0 +1,31 @@
+version: 0.5B.5
+items:
+- id: maximum_guarantee_limit
+  label: Limite maximo de garantia
+  aliases:
+  - Limite Maximo de Garantia
+  - LMG
+  - Limit of Liability
+- id: aggregate_limit
+  label: Limite agregado
+  aliases:
+  - Limite Agregado
+  - Aggregate Limit
+- id: coverage_sublimit
+  label: Sublimite de cobertura
+  aliases:
+  - Sublimite
+  - Sublimit
+- id: deductible
+  label: Franquia
+  aliases:
+  - Franquia
+  - Participacao Obrigatoria do Segurado
+  - POS
+  - Deductible
+  - Retention
+- id: premium
+  label: Premio
+  aliases:
+  - Premio
+  - Premium

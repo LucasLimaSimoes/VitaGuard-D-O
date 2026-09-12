@@ -1,0 +1,36 @@
+{
+  "allianz_do_2025_12": {
+    "display_name": "Allianz D&O - Condicoes Gerais 12/2025",
+    "insurer": "Allianz Seguros S.A.",
+    "official_page_url": "https://www.allianz.com.br/seguros/grandes-riscos/linhas-financeiras/responsabilidade-civil-diretores-e-administradores.html",
+    "pdf_url": "https://www.allianz.com.br/content/dam/onemarketing/iberolatam/allianz-br/doc-para-links/CG_RCDO_1225.pdf",
+    "target_file": "allianz_do_condicoes_gerais_2025_12.pdf",
+    "expected_sha256": "1778f9d09c187996e5cef8fda73a51c89ced0d0dc1772aaa4f327a9f5eb9a6cc",
+    "expected_pages": 75,
+    "document_type": "GENERAL_CONDITIONS",
+    "version": "dezembro/2025",
+    "susep_process": "15414.901113/2017-96",
+    "note": "Documento publico oficial. O PDF nao e redistribuido neste repositorio. SHA-256 e quantidade de paginas sao usados para validar a fonte quando o documento e adquirido para reproducibilidade."
+  },
+  "aig_do_aiggo_2026": {
+    "display_name": "AIG D&O - Responsabilidade Civil de Administradores e Diretores (AIG GO)",
+    "insurer": "AIG Seguros Brasil S.A.",
+    "official_page_url": "https://www.aig.com.br/condicoes-gerais",
+    "product_page_url": "https://www.aig.com.br/home/solucoes-para-riscos/linhas-financeiras/d-e-o",
+    "pdf_url": "https://www.aig.com.br/content/dam/aig/lac/brazil/pl-29/condi%C3%A7%C3%B5es-gerais/do_aiggo.pdf.coredownload.pdf",
+    "target_file": "aig_do_aiggo.pdf",
+    "expected_sha256": "700a08f26ab8fd56244b9519c36879627e9fdfd4149366a0d186176ffc5c52c0",
+    "expected_pages": 72,
+    "expected_text_markers": [
+      "SEGURO DE RESPONSABILIDADE PARA ADMINISTRADORES",
+      "15414.901229/2017-25",
+      "AIG Seguros Brasil S.A.",
+      "GARANTIA A - Segurados",
+      "GARANTIA B - Reembolso à Sociedade"
+    ],
+    "document_type": "GENERAL_CONDITIONS_WITH_OPTIONAL_PARTICULAR_CONDITIONS",
+    "version": null,
+    "susep_process": "15414.901229/2017-25",
+    "note": "Documento publico oficial AIG GO. O PDF nao e redistribuido neste repositorio. SHA-256, quantidade de paginas e marcadores textuais sao mantidos para reproducibilidade."
+  }
+}

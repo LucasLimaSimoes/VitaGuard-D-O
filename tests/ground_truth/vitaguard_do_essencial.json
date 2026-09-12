@@ -1,0 +1,855 @@
+{
+  "policy_id": "vg-do-ess-2026-001",
+  "source_documents": [
+    {
+      "document_id": "vitaguard_do_essencial_pdf",
+      "source_file": "vitaguard_do_essencial.pdf",
+      "sha256": "8df2af995c7ecc1f2d3fa240e915478f0a73a0dcebdd62312c3b0d8d4d9eb63c",
+      "page_count": 6,
+      "language": "pt-BR",
+      "document_type": "ISSUED_POLICY",
+      "origin": "SYNTHETIC_VITAGUARD"
+    }
+  ],
+  "identification": {
+    "insurer": {
+      "status": "FOUND",
+      "value": "VitaGuard Seguros Ficticios S.A.",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Seguradora ficticia: VitaGuard Seguros Ficticios S.A.",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "product_name": {
+      "status": "FOUND",
+      "value": "VitaGuard D&O Essencial",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao e Condicoes Contratuais Sinteticas",
+          "excerpt": "VitaGuard D&O Essencial",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "susep_process": {
+      "status": "NOT_APPLICABLE",
+      "value": null,
+      "confidence": 1.0,
+      "evidence": [],
+      "candidates": [],
+      "notes": "Documento sintetico nao possui processo SUSEP real."
+    },
+    "policy_number": {
+      "status": "FOUND",
+      "value": "2026-DO-ESS-001",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Numero da apolice: 2026-DO-ESS-001",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "insured": {
+      "status": "FOUND",
+      "value": "Atlas Tecnologia S.A.",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Tomadora / Segurada: Atlas Tecnologia S.A.",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "policyholder": {
+      "status": "FOUND",
+      "value": "Atlas Tecnologia S.A.",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Tomadora / Segurada: Atlas Tecnologia S.A.",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "document_version": {
+      "status": "FOUND",
+      "value": "Sintetico v1.0 - 18/08/2026",
+      "confidence": 0.95,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Sintetico v1.0 - 18/08/2026",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    }
+  },
+  "contractual_terms": {
+    "policy_period": {
+      "status": "FOUND",
+      "value": {
+        "start": "2026-01-01",
+        "end": "2027-01-01"
+      },
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Vigencia: 2026-01-01 a 2027-01-01",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "currency": {
+      "status": "FOUND",
+      "value": "BRL",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Moeda: BRL",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "premium": {
+      "status": "FOUND",
+      "value": {
+        "kind": "MONEY",
+        "numeric_value": "48000",
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "raw_text": "R$ 48.000,00"
+      },
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Premio total: R$ 48.000,00",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "retroactive_date": {
+      "status": "FOUND",
+      "value": "2023-01-01",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Data de retroatividade: 2023-01-01",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "extended_reporting_period": {
+      "status": "FOUND",
+      "value": {
+        "kind": "DURATION",
+        "numeric_value": "12",
+        "currency": null,
+        "unit": "months",
+        "normalized_text": "12 meses",
+        "raw_text": "12 meses"
+      },
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Prazo adicional/complementar: 12 meses",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "geographic_scope": {
+      "status": "FOUND",
+      "value": "Brasil",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Ambito geografico: Brasil",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "jurisdiction": {
+      "status": "FOUND",
+      "value": "Brasil",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Jurisdicao: Brasil",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    },
+    "coverage_trigger": {
+      "status": "FOUND",
+      "value": "A base de reclamacoes, com notificacao durante a vigencia ou no prazo complementar aplicavel.",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Base de cobertura: A base de reclamacoes, com notificacao durante a vigencia ou no prazo complementar aplicavel.",
+          "chunk_id": null
+        }
+      ],
+      "candidates": [],
+      "notes": null
+    }
+  },
+  "policy_limits": [
+    {
+      "canonical_id": "maximum_guarantee_limit",
+      "original_name": "Limite Maximo de Garantia",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Limite Maximo de Garantia: R$ 10.000.000,00",
+          "chunk_id": null
+        }
+      ],
+      "value": {
+        "kind": "MONEY",
+        "numeric_value": "10000000",
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "raw_text": "R$ 10.000.000,00"
+      },
+      "applies_to": []
+    },
+    {
+      "canonical_id": "aggregate_limit",
+      "original_name": "Limite agregado",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 1,
+          "section": "Especificacao",
+          "excerpt": "Limite agregado: R$ 10.000.000,00",
+          "chunk_id": null
+        }
+      ],
+      "value": {
+        "kind": "MONEY",
+        "numeric_value": "10000000",
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "raw_text": "R$ 10.000.000,00"
+      },
+      "applies_to": []
+    }
+  ],
+  "policy_deductibles": [
+    {
+      "canonical_id": "deductible",
+      "original_name": "Franquia - Cobertura B",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 3,
+          "section": "2.X Limites e Franquias",
+          "excerpt": "Franquia - Cobertura B: R$ 100.000,00",
+          "chunk_id": null
+        }
+      ],
+      "value": {
+        "kind": "MONEY",
+        "numeric_value": "100000",
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "raw_text": "R$ 100.000,00"
+      },
+      "applies_to": [
+        "side_b"
+      ]
+    },
+    {
+      "canonical_id": "deductible",
+      "original_name": "Franquia - Cobertura A",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 3,
+          "section": "2.X Limites e Franquias",
+          "excerpt": "Franquia - Cobertura A: Sem franquia",
+          "chunk_id": null
+        }
+      ],
+      "value": {
+        "kind": "MONEY",
+        "numeric_value": "0",
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "raw_text": "Sem franquia"
+      },
+      "applies_to": [
+        "side_a"
+      ]
+    }
+  ],
+  "coverages": [
+    {
+      "canonical_id": "side_a",
+      "original_name": "Cobertura A - Pagamento a Pessoa Segurada",
+      "description": "Pagamento de Perda coberta diretamente a Pessoa Segurada quando a Sociedade nao puder ou nao dever indeniza-la.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 3,
+          "section": "2. Coberturas",
+          "excerpt": "Cobertura A - Pagamento a Pessoa Segurada",
+          "chunk_id": null
+        }
+      ],
+      "category": "MAIN_COVERAGE",
+      "conditions": [],
+      "limits": [],
+      "deductibles": []
+    },
+    {
+      "canonical_id": "side_b",
+      "original_name": "Cobertura B - Reembolso da Sociedade",
+      "description": "Reembolso a Sociedade por valores que ela tenha legitimamente indenizado a Pessoa Segurada em decorrencia de Reclamacao coberta.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 3,
+          "section": "2. Coberturas",
+          "excerpt": "Cobertura B - Reembolso da Sociedade",
+          "chunk_id": null
+        }
+      ],
+      "category": "MAIN_COVERAGE",
+      "conditions": [],
+      "limits": [],
+      "deductibles": []
+    },
+    {
+      "canonical_id": "defense_costs",
+      "original_name": "Despesas de Defesa",
+      "description": "Custos razoaveis e necessarios de defesa de Reclamacao coberta, sujeitos ao Limite Maximo de Garantia.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 3,
+          "section": "2. Coberturas",
+          "excerpt": "Despesas de Defesa",
+          "chunk_id": null
+        }
+      ],
+      "category": "MAIN_COVERAGE",
+      "conditions": [],
+      "limits": [],
+      "deductibles": []
+    },
+    {
+      "canonical_id": "investigation_costs",
+      "original_name": "Custos de Investigacao",
+      "description": "Custos de comparecimento e assistencia juridica em Investigacao formal.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 3,
+          "section": "2. Coberturas",
+          "excerpt": "Custos de Investigacao",
+          "chunk_id": null
+        }
+      ],
+      "category": "MAIN_COVERAGE",
+      "conditions": [],
+      "limits": [
+        {
+          "canonical_id": "coverage_sublimit",
+          "original_name": "Sublimite especifico",
+          "description": null,
+          "extraction_confidence": 1.0,
+          "normalization_confidence": 1.0,
+          "evidence": [
+            {
+              "document_id": "vitaguard_do_essencial_pdf",
+              "page": 3,
+              "section": "Custos de Investigacao",
+              "excerpt": "Sublimite especifico: R$ 1.000.000,00",
+              "chunk_id": null
+            }
+          ],
+          "value": {
+            "kind": "MONEY",
+            "numeric_value": "1000000",
+            "currency": "BRL",
+            "unit": null,
+            "normalized_text": null,
+            "raw_text": "R$ 1.000.000,00"
+          },
+          "applies_to": [
+            "investigation_costs"
+          ]
+        }
+      ],
+      "deductibles": []
+    }
+  ],
+  "extensions": [
+    {
+      "canonical_id": "spousal_liability",
+      "original_name": "Extensao para Conjuge ou Companheiro",
+      "description": "Abrange Reclamacao contra conjuge ou companheiro exclusivamente em razao de Ato Danoso atribuido a Pessoa Segurada.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 4,
+          "section": "3. Extensoes",
+          "excerpt": "Extensao para Conjuge ou Companheiro",
+          "chunk_id": null
+        }
+      ],
+      "conditions": [],
+      "limits": [],
+      "deductibles": []
+    },
+    {
+      "canonical_id": "heirs_estates_representatives",
+      "original_name": "Herdeiros, Espolio e Representantes Legais",
+      "description": "Estende a protecao a herdeiros, espolio e representantes legais em relacao a responsabilidade da Pessoa Segurada.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 4,
+          "section": "3. Extensoes",
+          "excerpt": "Herdeiros, Espolio e Representantes Legais",
+          "chunk_id": null
+        }
+      ],
+      "conditions": [],
+      "limits": [],
+      "deductibles": []
+    }
+  ],
+  "exclusions": [
+    {
+      "canonical_id": "fraud_or_dishonesty",
+      "original_name": "Atos Intencionais, Fraude e Desonestidade",
+      "description": "Perda decorrente de ato doloso, fraudulento ou desonesto da Pessoa Segurada.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 5,
+          "section": "4. Exclusoes",
+          "excerpt": "Atos Intencionais, Fraude e Desonestidade",
+          "chunk_id": null
+        }
+      ],
+      "exceptions": [
+        "A exclusao somente sera aplicada apos decisao final ou admissao escrita que estabeleca a conduta."
+      ],
+      "applies_to": []
+    },
+    {
+      "canonical_id": "bodily_injury_property_damage",
+      "original_name": "Danos Corporais e Danos Materiais",
+      "description": "Reclamacoes por lesao corporal, enfermidade, morte ou dano/destruicao de bem tangivel.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 5,
+          "section": "4. Exclusoes",
+          "excerpt": "Danos Corporais e Danos Materiais",
+          "chunk_id": null
+        }
+      ],
+      "exceptions": [],
+      "applies_to": []
+    },
+    {
+      "canonical_id": "prior_claims_or_circumstances",
+      "original_name": "Reclamacoes e Circunstancias Anteriores",
+      "description": "Reclamacoes ou circunstancias conhecidas antes do inicio da vigencia ou declaradas anteriormente.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 5,
+          "section": "4. Exclusoes",
+          "excerpt": "Reclamacoes e Circunstancias Anteriores",
+          "chunk_id": null
+        }
+      ],
+      "exceptions": [],
+      "applies_to": []
+    },
+    {
+      "canonical_id": "pollution",
+      "original_name": "Poluicao e Contaminacao",
+      "description": "Reclamacoes diretamente decorrentes de descarga, dispersao ou contaminacao por poluentes.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 5,
+          "section": "4. Exclusoes",
+          "excerpt": "Poluicao e Contaminacao",
+          "chunk_id": null
+        }
+      ],
+      "exceptions": [],
+      "applies_to": []
+    }
+  ],
+  "definitions": [
+    {
+      "canonical_term": "insured_person",
+      "original_term": "Pessoa Segurada",
+      "definition_text": "Pessoa natural que seja ou tenha sido diretor, administrador, conselheiro ou empregado com funcao de gestao da Sociedade.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Pessoa Segurada",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "company",
+      "original_term": "Sociedade",
+      "definition_text": "A tomadora indicada na Especificacao e suas Subsidiarias elegiveis.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Sociedade",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "claim",
+      "original_term": "Reclamacao",
+      "definition_text": "Demanda escrita, processo judicial, arbitral ou administrativo que atribua Ato Danoso a Pessoa Segurada.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Reclamacao",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "wrongful_act",
+      "original_term": "Ato Danoso",
+      "definition_text": "Ato, erro, omissao, declaracao inexata, negligencia ou violacao de dever praticado no exercicio de funcao de gestao.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Ato Danoso",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "loss",
+      "original_term": "Perda",
+      "definition_text": "Indenizacoes, acordos aprovados e Custos de Defesa cobertos, excluidos valores legalmente nao seguraveis.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Perda",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "defense_costs",
+      "original_term": "Custos de Defesa",
+      "definition_text": "Honorarios e despesas razoaveis e necessarias para investigar, defender ou recorrer de Reclamacao coberta.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Custos de Defesa",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "investigation",
+      "original_term": "Investigacao",
+      "definition_text": "Procedimento formal de autoridade competente que exija comparecimento de Pessoa Segurada relacionado a suas funcoes.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Investigacao",
+          "chunk_id": null
+        }
+      ]
+    },
+    {
+      "canonical_term": "subsidiary",
+      "original_term": "Subsidiaria",
+      "definition_text": "Pessoa juridica na qual a Sociedade detenha, direta ou indiretamente, mais de 50% dos direitos de voto.",
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 2,
+          "section": "1. Definicoes",
+          "excerpt": "Subsidiaria",
+          "chunk_id": null
+        }
+      ]
+    }
+  ],
+  "clauses": [
+    {
+      "canonical_id": "claim_notice",
+      "original_name": "Aviso de Reclamacao",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 6,
+          "section": "5. Condicoes e Clausulas Relevantes",
+          "excerpt": "Aviso de Reclamacao",
+          "chunk_id": null
+        }
+      ],
+      "category": "POLICY_CLAUSE",
+      "summary": "A Reclamacao deve ser comunicada tao logo seja razoavelmente possivel durante a vigencia ou periodo aplicavel.",
+      "conditions": []
+    },
+    {
+      "canonical_id": "cooperation",
+      "original_name": "Dever de Cooperacao",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 6,
+          "section": "5. Condicoes e Clausulas Relevantes",
+          "excerpt": "Dever de Cooperacao",
+          "chunk_id": null
+        }
+      ],
+      "category": "POLICY_CLAUSE",
+      "summary": "Segurados devem fornecer informacoes e cooperar de forma razoavel com a defesa e regulacao.",
+      "conditions": []
+    },
+    {
+      "canonical_id": "severability",
+      "original_name": "Separabilidade",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 6,
+          "section": "5. Condicoes e Clausulas Relevantes",
+          "excerpt": "Separabilidade",
+          "chunk_id": null
+        }
+      ],
+      "category": "POLICY_CLAUSE",
+      "summary": "Conhecimento ou conduta de uma Pessoa Segurada nao sera automaticamente imputado a todas as demais, ressalvadas as regras da Apolice.",
+      "conditions": []
+    },
+    {
+      "canonical_id": "change_in_control",
+      "original_name": "Alteracao de Controle",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 6,
+          "section": "5. Condicoes e Clausulas Relevantes",
+          "excerpt": "Alteracao de Controle",
+          "chunk_id": null
+        }
+      ],
+      "category": "POLICY_CLAUSE",
+      "summary": "Apos Alteracao de Controle, a cobertura permanece apenas para Atos Danosos praticados antes da data da alteracao.",
+      "conditions": []
+    },
+    {
+      "canonical_id": "run_off",
+      "original_name": "Run-off",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 6,
+          "section": "5. Condicoes e Clausulas Relevantes",
+          "excerpt": "Run-off",
+          "chunk_id": null
+        }
+      ],
+      "category": "POLICY_CLAUSE",
+      "summary": "Em caso de Alteracao de Controle, podera ser contratado periodo para reclamacoes relativas a atos anteriores, conforme negociacao.",
+      "conditions": []
+    },
+    {
+      "canonical_id": "priority_of_payments",
+      "original_name": "Prioridade de Pagamentos",
+      "description": null,
+      "extraction_confidence": 1.0,
+      "normalization_confidence": 1.0,
+      "evidence": [
+        {
+          "document_id": "vitaguard_do_essencial_pdf",
+          "page": 6,
+          "section": "5. Condicoes e Clausulas Relevantes",
+          "excerpt": "Prioridade de Pagamentos",
+          "chunk_id": null
+        }
+      ],
+      "category": "POLICY_CLAUSE",
+      "summary": "Havendo insuficiencia de limite, pagamentos devidos diretamente a Pessoas Seguradas terao prioridade sobre reembolsos a Sociedade.",
+      "conditions": []
+    }
+  ],
+  "extraction": {
+    "schema_version": "0.2",
+    "extraction_method": "NATIVE_TEXT",
+    "extractor_model": null,
+    "extracted_at": "2026-08-18T00:00:00Z",
+    "warnings": [],
+    "errors": []
+  }
+}

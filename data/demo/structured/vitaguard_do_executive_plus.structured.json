@@ -1,0 +1,2343 @@
+{
+  "project_version": "0.4.8",
+  "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+  "source_name": "vitaguard_do_executive_plus.pdf",
+  "provider": "google-gemini",
+  "model": "gemini-3.5-flash-lite",
+  "selected_chunks": {
+    "core": [
+      "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+    ],
+    "risk": [
+      "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+    ],
+    "semantic": [
+      "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+      "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+    ]
+  },
+  "core": {
+    "policy_id_hint": null,
+    "scalar_facts": [
+      {
+        "field_id": "insurer",
+        "status": "FOUND",
+        "raw_value": "VitaGuard Seguros Ficticios S.A.",
+        "normalized_value": "VitaGuard Seguros Ficticios S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Seguradora ficticia VitaGuard Seguros Ficticios S.A.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "product_name",
+        "status": "FOUND",
+        "raw_value": "VitaGuard D&O Executive Plus",
+        "normalized_value": "VitaGuard D&O Executive Plus",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "VitaGuard D&O Executive Plus",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "susep_process",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": null
+      },
+      {
+        "field_id": "policy_number",
+        "status": "FOUND",
+        "raw_value": "2026-DO-EXEC-001",
+        "normalized_value": "2026-DO-EXEC-001",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Numero da apolice 2026-DO-EXEC-001",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "insured",
+        "status": "FOUND",
+        "raw_value": "Orion Biotecnologia S.A.",
+        "normalized_value": "Orion Biotecnologia S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Tomadora / Segurada Orion Biotecnologia S.A.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "policyholder",
+        "status": "FOUND",
+        "raw_value": "Orion Biotecnologia S.A.",
+        "normalized_value": "Orion Biotecnologia S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Tomadora / Segurada Orion Biotecnologia S.A.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "document_version",
+        "status": "FOUND",
+        "raw_value": "Sintetico v1.0 - 18/08/2026",
+        "normalized_value": "Sintetico v1.0 - 18/08/2026",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Versao do documento Sintetico v1.0 - 18/08/2026",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "policy_period_start",
+        "status": "FOUND",
+        "raw_value": "2026-02-01",
+        "normalized_value": "2026-02-01",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Vigencia 2026-02-01 a 2027-02-01",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "policy_period_end",
+        "status": "FOUND",
+        "raw_value": "2027-02-01",
+        "normalized_value": "2027-02-01",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Vigencia 2026-02-01 a 2027-02-01",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "currency",
+        "status": "FOUND",
+        "raw_value": "BRL",
+        "normalized_value": "BRL",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Moeda BRL",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "retroactive_date",
+        "status": "FOUND",
+        "raw_value": "2020-02-01",
+        "normalized_value": "2020-02-01",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Data de retroatividade 2020-02-01",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "extended_reporting_period",
+        "status": "FOUND",
+        "raw_value": "24 meses",
+        "normalized_value": "24 meses",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Prazo adicional/complementar 24 meses",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "geographic_scope",
+        "status": "FOUND",
+        "raw_value": "Mundial, observadas sancoes economicas e restricoes legais aplicaveis.",
+        "normalized_value": "Mundial, observadas sancoes economicas e restricoes legais aplicaveis.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Ambito geografico: Mundial, observadas sancoes economicas e restricoes legais aplicaveis.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "jurisdiction",
+        "status": "FOUND",
+        "raw_value": "Brasil; reclamacoes estrangeiras poderao ser cobertas quando nao vedadas pela legislacao aplicavel.",
+        "normalized_value": "Brasil; reclamacoes estrangeiras poderao ser cobertas quando nao vedadas pela legislacao aplicavel.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Jurisdicao: Brasil; reclamacoes estrangeiras poderao ser cobertas quando nao vedadas pela legislacao aplicavel.",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "coverage_trigger",
+        "status": "FOUND",
+        "raw_value": "A base de reclamacoes, com notificacao durante a vigencia ou periodo adicional contratado.",
+        "normalized_value": "A base de reclamacoes, com notificacao durante a vigencia ou periodo adicional contratado.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Base de cobertura: A base de reclamacoes, com notificacao durante a vigencia ou periodo adicional contratado.",
+            "section": null
+          }
+        ],
+        "notes": null
+      }
+    ],
+    "financial_facts": [
+      {
+        "field_id": "premium",
+        "original_name": "Premio total",
+        "raw_value": "R$ 95.000,00",
+        "kind": "MONEY",
+        "numeric_value": 95000.0,
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "applies_to": [],
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Premio total R$ 95.000,00",
+            "section": null
+          }
+        ]
+      },
+      {
+        "field_id": "maximum_guarantee_limit",
+        "original_name": "Limite Maximo de Garantia",
+        "raw_value": "R$ 25.000.000,00",
+        "kind": "MONEY",
+        "numeric_value": 25000000.0,
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "applies_to": [],
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Limite Maximo de Garantia R$ 25.000.000,00",
+            "section": null
+          }
+        ]
+      },
+      {
+        "field_id": "aggregate_limit",
+        "original_name": "Limite agregado",
+        "raw_value": "R$ 25.000.000,00",
+        "kind": "MONEY",
+        "numeric_value": 25000000.0,
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "applies_to": [],
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Limite agregado R$ 25.000.000,00",
+            "section": null
+          }
+        ]
+      },
+      {
+        "field_id": "deductible",
+        "original_name": "Retencao - Reembolso da Empresa",
+        "raw_value": "R$ 250.000,00",
+        "kind": "MONEY",
+        "numeric_value": 250000.0,
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "applies_to": [
+          "side_b"
+        ],
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "Retencao - Reembolso da Empresa: R$ 250.000,00.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "field_id": "deductible",
+        "original_name": "Retencao - Cobertura da Sociedade",
+        "raw_value": "R$ 500.000,00",
+        "kind": "MONEY",
+        "numeric_value": 500000.0,
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": null,
+        "applies_to": [
+          "side_c"
+        ],
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "Retencao - Cobertura da Sociedade: R$ 500.000,00.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "field_id": "deductible",
+        "original_name": "Retencao - Protecao Direta",
+        "raw_value": "Sem retencao",
+        "kind": "MONEY",
+        "numeric_value": 0.0,
+        "currency": "BRL",
+        "unit": null,
+        "normalized_text": "Sem retencao",
+        "applies_to": [
+          "side_a"
+        ],
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "Retencao - Protecao Direta: Sem retencao.",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "risk": {
+    "coverages": [
+      {
+        "canonical_id": "side_a",
+        "original_name": "Protecao Direta aos Administradores - Side A",
+        "description": "Pagamento direto a Pessoa Segurada por Perda nao indenizada pela Sociedade.",
+        "category": "coverage",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "2.1 Protecao Direta aos Administradores - Side A\nPagamento direto a Pessoa Segurada por Perda nao indenizada pela Sociedade.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "side_b",
+        "original_name": "Reembolso da Empresa - Side B",
+        "description": "Reembolsa a Empresa por indenizacao permitida e paga a Pessoa Segurada em Reclamacao coberta.",
+        "category": "coverage",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "2.2 Reembolso da Empresa - Side B\nReembolsa a Empresa por indenizacao permitida e paga a Pessoa Segurada em Reclamacao coberta.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "side_c",
+        "original_name": "Cobertura da Sociedade - Entity Coverage",
+        "description": "Cobertura da propria Sociedade exclusivamente para Reclamacao de Valores Mobiliarios, conforme definicoes desta apolice.",
+        "category": "coverage",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "2.3 Cobertura da Sociedade - Entity Coverage\nCobertura da propria Sociedade exclusivamente para Reclamacao de Valores Mobiliarios, conforme definicoes desta\napolice.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "defense_costs",
+        "original_name": "Custos de Defesa",
+        "description": "Honorarios, peritos e despesas de defesa razoaveis e necessarios, incluindo antecipacao quando aplicavel.",
+        "category": "coverage",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "2.4 Custos de Defesa\nHonorarios, peritos e despesas de defesa razoaveis e necessarios, incluindo antecipacao quando aplicavel.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "investigation_costs",
+        "original_name": "Despesas de Investigacao",
+        "description": "Despesas de assistencia juridica em Investigacao formal ou entrevista formal coberta.",
+        "category": "coverage",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [
+          {
+            "field_id": "coverage_sublimit",
+            "original_name": "Sublimite especifico",
+            "raw_value": "R$ 3.000.000,00",
+            "kind": "MONEY",
+            "numeric_value": 3000000.0,
+            "currency": "BRL",
+            "unit": null,
+            "normalized_text": "3000000",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+                "page_number": 3,
+                "excerpt": "Sublimite especifico: R$ 3.000.000,00.",
+                "section": null
+              }
+            ]
+          }
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "2.5 Despesas de Investigacao\nDespesas de assistencia juridica em Investigacao formal ou entrevista formal coberta.\nSublimite especifico: R$ 3.000.000,00. Este sublimite integra e nao acresce ao Limite Maximo de Garantia.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "asset_and_liberty",
+        "original_name": "Bens e Liberdade",
+        "description": "Custos relacionados a medidas de indisponibilidade de bens, restricoes de liberdade e medidas cautelares elegiveis.",
+        "category": "coverage",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [
+          {
+            "field_id": "coverage_sublimit",
+            "original_name": "Sublimite especifico",
+            "raw_value": "R$ 2.000.000,00",
+            "kind": "MONEY",
+            "numeric_value": 2000000.0,
+            "currency": "BRL",
+            "unit": null,
+            "normalized_text": "2000000",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+                "page_number": 3,
+                "excerpt": "Sublimite especifico: R$ 2.000.000,00.",
+                "section": null
+              }
+            ]
+          }
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000",
+            "page_number": 3,
+            "excerpt": "2.6 Bens e Liberdade\nCustos relacionados a medidas de indisponibilidade de bens, restricoes de liberdade e medidas cautelares elegiveis.\nSublimite especifico: R$ 2.000.000,00. Este sublimite integra e nao acresce ao Limite Maximo de Garantia.",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "extensions": [
+      {
+        "canonical_id": "spousal_liability",
+        "original_name": "Responsabilidade de Conjuge",
+        "description": "Protecao para conjuge ou companheiro quando a reclamacao decorrer exclusivamente de Ato Danoso atribuido a Pessoa Segurada.",
+        "category": "extension",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+            "page_number": 4,
+            "excerpt": "3.1 Responsabilidade de Conjuge\nProtecao para conjuge ou companheiro quando a reclamacao decorrer exclusivamente de Ato Danoso atribuido a\nPessoa Segurada.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "heirs_estates_representatives",
+        "original_name": "Herdeiros e Representantes Legais",
+        "description": "Cobertura estendida a herdeiros, espolio ou representante legal de Pessoa Segurada.",
+        "category": "extension",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+            "page_number": 4,
+            "excerpt": "3.2 Herdeiros e Representantes Legais\nCobertura estendida a herdeiros, espolio ou representante legal de Pessoa Segurada.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "retired_directors",
+        "original_name": "Diretores Aposentados",
+        "description": "Prazo adicional automatico de 72 meses para determinados administradores que se aposentem durante a vigencia, sujeito as condicoes da apolice.",
+        "category": "extension",
+        "conditions": [
+          "sujeito as condicoes da apolice"
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+            "page_number": 4,
+            "excerpt": "3.3 Diretores Aposentados\nPrazo adicional automatico de 72 meses para determinados administradores que se aposentem durante a vigencia,\nsujeito as condicoes da apolice.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "extradition_costs",
+        "original_name": "Custos de Extradicao",
+        "description": "Custos de defesa em processo formal de extradicao relacionado a Reclamacao coberta.",
+        "category": "extension",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [
+          {
+            "field_id": "coverage_sublimit",
+            "original_name": "Sublimite",
+            "raw_value": "R$ 1.500.000,00",
+            "kind": "MONEY",
+            "numeric_value": 1500000.0,
+            "currency": "BRL",
+            "unit": null,
+            "normalized_text": "1500000",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+                "page_number": 4,
+                "excerpt": "Sublimite: R$ 1.500.000,00.",
+                "section": null
+              }
+            ]
+          }
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+            "page_number": 4,
+            "excerpt": "3.4 Custos de Extradicao\nCustos de defesa em processo formal de extradicao relacionado a Reclamacao coberta.\nSublimite: R$ 1.500.000,00.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "crisis_management",
+        "original_name": "Gestao de Crise",
+        "description": "Despesas pre-aprovadas de consultoria de comunicacao em evento de crise coberto.",
+        "category": "extension",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [
+          {
+            "field_id": "coverage_sublimit",
+            "original_name": "Sublimite",
+            "raw_value": "R$ 500.000,00",
+            "kind": "MONEY",
+            "numeric_value": 500000.0,
+            "currency": "BRL",
+            "unit": null,
+            "normalized_text": "500000",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+                "page_number": 4,
+                "excerpt": "Sublimite: R$ 500.000,00.",
+                "section": null
+              }
+            ]
+          }
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+            "page_number": 4,
+            "excerpt": "3.5 Gestao de Crise\nDespesas pre-aprovadas de consultoria de comunicacao em evento de crise coberto.\nSublimite: R$ 500.000,00.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "new_subsidiaries",
+        "original_name": "Novas Subsidiarias",
+        "description": "Inclusao automatica de novas subsidiarias dentro dos parametros financeiros definidos, sujeita a notificacao quando excedidos.",
+        "category": "extension",
+        "conditions": [
+          "sujeita a notificacao quando excedidos"
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000",
+            "page_number": 4,
+            "excerpt": "3.6 Novas Subsidiarias\nInclusao automatica de novas subsidiarias dentro dos parametros financeiros definidos, sujeita a notificacao quando\nexcedidos.",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "exclusions": [
+      {
+        "canonical_id": "fraud_or_dishonesty",
+        "original_name": "Fraude, Dolo, Desonestidade e Vantagem Indevida",
+        "description": "Perdas decorrentes de fraude, dolo, desonestidade ou vantagem pessoal indevida.",
+        "category": "exclusion",
+        "conditions": [],
+        "exceptions": [
+          "A exclusao somente se aplica quando a conduta for estabelecida por decisao final nao sujeita a recurso ou por admissao escrita da Pessoa Segurada."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+            "page_number": 5,
+            "excerpt": "4.1 Fraude, Dolo, Desonestidade e Vantagem Indevida\nPerdas decorrentes de fraude, dolo, desonestidade ou vantagem pessoal indevida.\nExcecao: A exclusao somente se aplica quando a conduta for estabelecida por decisao final nao sujeita a recurso ou\npor admissao escrita da Pessoa Segurada.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "bodily_injury_property_damage",
+        "original_name": "Lesao Corporal e Dano Material",
+        "description": "Reclamacoes por lesao corporal ou dano a propriedade tangivel.",
+        "category": "exclusion",
+        "conditions": [],
+        "exceptions": [
+          "Nao se aplica a alegacao de dano moral ou sofrimento emocional quando decorrente de Reclamacao de praticas trabalhistas coberta, se contratada."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+            "page_number": 5,
+            "excerpt": "4.2 Lesao Corporal e Dano Material\nReclamacoes por lesao corporal ou dano a propriedade tangivel.\nExcecao: Nao se aplica a alegacao de dano moral ou sofrimento emocional quando decorrente de Reclamacao de\npraticas trabalhistas coberta, se contratada.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "prior_claims_or_circumstances",
+        "original_name": "Fatos Conhecidos e Circunstancias Preexistentes",
+        "description": "Fatos, circunstancias ou reclamacoes conhecidas antes da data de continuidade ou informadas em proposta anterior.",
+        "category": "exclusion",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+            "page_number": 5,
+            "excerpt": "4.3 Fatos Conhecidos e Circunstancias Preexistentes\nFatos, circunstancias ou reclamacoes conhecidas antes da data de continuidade ou informadas em proposta anterior.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "pollution",
+        "original_name": "Poluicao",
+        "description": "Reclamacoes diretamente baseadas em poluicao.",
+        "category": "exclusion",
+        "conditions": [],
+        "exceptions": [
+          "A exclusao nao se aplica a Reclamacao derivativa contra Pessoa Segurada que alegue falha de supervisao relacionada a evento de poluicao."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+            "page_number": 5,
+            "excerpt": "4.4 Poluicao\nReclamacoes diretamente baseadas em poluicao.\nExcecao: A exclusao nao se aplica a Reclamacao derivativa contra Pessoa Segurada que alegue falha de supervisao\nrelacionada a evento de poluicao.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "insured_vs_insured",
+        "original_name": "Insured vs Insured",
+        "description": "Reclamacao proposta por ou em nome de Segurado contra outro Segurado.",
+        "category": "exclusion",
+        "conditions": [],
+        "exceptions": [
+          "Nao se aplica a acao derivativa independente, reclamacao de ex-administrador apos periodo minimo aplicavel ou reclamacao de denunciante protegido por lei."
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+            "page_number": 5,
+            "excerpt": "4.5 Insured vs Insured\nReclamacao proposta por ou em nome de Segurado contra outro Segurado.\nExcecao: Nao se aplica a acao derivativa independente, reclamacao de ex-administrador apos periodo minimo\naplicavel ou reclamacao de denunciante protegido por lei.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "professional_services",
+        "original_name": "Servicos Profissionais",
+        "description": "Reclamacoes decorrentes da prestacao de servicos profissionais da Sociedade a terceiros, salvo ato de supervisao de administradores quando de outra forma coberto.",
+        "category": "exclusion",
+        "conditions": [],
+        "exceptions": [
+          "salvo ato de supervisao de administradores quando de outra forma coberto"
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000",
+            "page_number": 5,
+            "excerpt": "4.6 Servicos Profissionais\nReclamacoes decorrentes da prestacao de servicos profissionais da Sociedade a terceiros, salvo ato de supervisao\nde administradores quando de outra forma coberto.",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "semantic": {
+    "definitions": [
+      {
+        "canonical_term": "insured_person",
+        "original_term": "Administrador Segurado",
+        "definition_text": "Qualquer pessoa natural que atue ou tenha atuado como diretor, conselheiro, administrador ou gestor com poder decisorio na Empresa, incluindo determinadas pessoas equiparadas.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.1 Administrador Segurado\nQualquer pessoa natural que atue ou tenha atuado como diretor, conselheiro, administrador ou gestor com poder\ndecisorio na Empresa, incluindo determinadas pessoas equiparadas.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "company",
+        "original_term": "Empresa",
+        "definition_text": "A tomadora identificada na Especificacao, juntamente com Subsidiarias abrangidas.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.2 Empresa\nA tomadora identificada na Especificacao, juntamente com Subsidiarias abrangidas.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "claim",
+        "original_term": "Claim / Reclamacao",
+        "definition_text": "Demanda escrita, processo judicial, administrativo, arbitral, procedimento regulatorio ou investigacao formal que alegue Ato de Gestao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.3 Claim / Reclamacao\nDemanda escrita, processo judicial, administrativo, arbitral, procedimento regulatorio ou investigacao formal que\nalegue Ato de Gestao.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "wrongful_act",
+        "original_term": "Ato de Gestao",
+        "definition_text": "Ato, erro, omissao, declaracao inexata, quebra de dever fiduciario, negligencia ou conduta alegada no exercicio de cargo segurado.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.4 Ato de Gestao\nAto, erro, omissao, declaracao inexata, quebra de dever fiduciario, negligencia ou conduta alegada no exercicio de\ncargo segurado.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "loss",
+        "original_term": "Perda Indenizavel",
+        "definition_text": "Indenizacoes, acordos, Custos de Defesa e outras despesas expressamente cobertas, exceto valores nao seguraveis por lei.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.5 Perda Indenizavel\nIndenizacoes, acordos, Custos de Defesa e outras despesas expressamente cobertas, exceto valores nao seguraveis\npor lei.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "defense_costs",
+        "original_term": "Despesas de Defesa",
+        "definition_text": "Honorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de Reclamacao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.6 Despesas de Defesa\nHongorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de\nReclamacao.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "investigation",
+        "original_term": "Investigacao Formal",
+        "definition_text": "Procedimento formal de autoridade ou regulador que exija comparecimento, depoimento, producao de documentos ou representacao juridica de Administrador Segurado.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.7 Investigacao Formal\nProcedimento formal de autoridade ou regulador que exija comparecimento, depoimento, producao de documentos ou\nrepresentacao juridica de Administrador Segurado.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      },
+      {
+        "canonical_term": "subsidiary",
+        "original_term": "Controlada",
+        "definition_text": "Entidade na qual a Empresa controle mais de 50% dos direitos de voto ou tenha poder de eleger a maioria da administracao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+            "page_number": 2,
+            "excerpt": "1.8 Controlada\nEntidade na qual a Empresa controle mais de 50% dos direitos de voto ou tenha poder de eleger a maioria da\nadministracao.",
+            "section": "1. DEFINICOES"
+          }
+        ]
+      }
+    ],
+    "clauses": [
+      {
+        "canonical_id": "claim_notice",
+        "original_name": "Notificacao de Reclamacao",
+        "summary": "A Reclamacao deve ser notificada tao logo razoavelmente possivel, contendo informacoes suficientes para a identificacao do evento.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.1 Notificacao de Reclamacao\nA Reclamacao deve ser notificada tao logo razoavelmente possivel, com informacoes suficientes para identificacao do\nevento.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "cooperation",
+        "original_name": "Cooperacao e Defesa",
+        "summary": "Segurados devem cooperar com informacoes e documentos, e a Seguradora tem o direito de participar da defesa e negociacao.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.2 Cooperacao e Defesa\nSegurados cooperarao com informacoes e documentos; a Seguradora podera participar da defesa e negociacao.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "severability",
+        "original_name": "Severability / Separabilidade",
+        "summary": "Declaracoes e conhecimento de uma pessoa nao sao automaticamente imputados as demais, seguindo regras de subscricao e exclusoes.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.3 Severability / Separabilidade\nDeclaracoes e conhecimento de uma pessoa nao serao automaticamente imputados as demais, conforme as regras\nde subscricao e exclusoes.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "change_in_control",
+        "original_name": "Mudanca de Controle",
+        "summary": "Em caso de Mudanca de Controle, a apolice cobre somente Atos de Gestao anteriores ao evento, salvo acordo em contrario.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.4 Mudanca de Controle\nOcorrida Mudanca de Controle, a apolice cobre apenas Atos de Gestao anteriores ao evento, salvo acordo em\ncontrario.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "run_off",
+        "original_name": "Cobertura Run Off",
+        "summary": "Possibilidade de contratacao de periodo de run-off para reclamacoes posteriores relativas a atos anteriores a Mudanca de Controle.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.5 Cobertura Run Off\nPode ser contratado periodo de run-off para reclamacoes posteriores relativas a atos anteriores a Mudanca de\nControle.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "priority_of_payments",
+        "original_name": "Priority of Payments",
+        "summary": "Se o limite for insuficiente, a Seguradora da prioridade aos pagamentos devidos a Administradores Segurados antes do reembolso a Empresa.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.6 Priority of Payments\nQuando o limite for insuficiente, a Seguradora priorizara pagamentos devidos a Administradores Segurados antes de\nreembolso a Empresa.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "allocation",
+        "original_name": "Alocacao de Perdas",
+        "summary": "Reclamacoes com materias cobertas e nao cobertas exigem alocacao justa e razoavel dos valores correspondentes pelas partes.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.7 Alocacao de Perdas\nQuando uma Reclamacao envolver materias cobertas e nao cobertas, as partes deverao alocar de forma justa e\nrazoavel os valores correspondentes.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "advancement_of_defense_costs",
+        "original_name": "Antecipacao de Custos de Defesa",
+        "summary": "Custos de Defesa podem ser adiantados antes da decisao final, estando sujeitos a reembolso caso seja verificado que nao havia cobertura.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.8 Antecipacao de Custos de Defesa\nCustos de Defesa poderao ser adiantados antes da resolucao final, sujeitos a eventual reembolso se posteriormente\nnao houver cobertura.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "consent_to_settle",
+        "original_name": "Consentimento para Acordo",
+        "summary": "Nenhum acordo gerador de obrigacao para a Seguradora pode ser realizado sem consentimento previo, que nao sera recusado sem motivo razoavel.",
+        "conditions": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000",
+            "page_number": 6,
+            "excerpt": "5.9 Consentimento para Acordo\nNenhum acordo que imponha obrigacao a Seguradora sera celebrado sem consentimento previo, que nao sera\nrecusado sem motivo razoavel.",
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES"
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "evidence_report": {
+    "total_claims": 60,
+    "valid_claims": 60,
+    "invalid_claims": 0,
+    "repaired_claims": 1,
+    "issues": [],
+    "repairs": [
+      {
+        "extractor": "semantic",
+        "object_type": "definition",
+        "object_name": "Despesas de Defesa",
+        "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000",
+        "page_number": 2,
+        "original_excerpt": "1.6 Despesas de Defesa\nHongorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de\nReclamacao.",
+        "repaired_excerpt": "1.6 Despesas de Defesa\nHonorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de\nReclamacao.",
+        "similarity": 0.9965397923875432
+      }
+    ]
+  },
+  "policy_json": {
+    "policy_id": "2026-DO-EXEC-001",
+    "source_documents": [
+      {
+        "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+        "source_file": "vitaguard_do_executive_plus.pdf",
+        "sha256": "5cb14d371ef5b2ff86815886d0a2e9c4e3b38397ecf678c69aa0db0cec3c202b",
+        "page_count": 6,
+        "language": "pt-BR",
+        "document_type": "ISSUED_POLICY",
+        "origin": "SYNTHETIC_VITAGUARD"
+      }
+    ],
+    "identification": {
+      "insurer": {
+        "status": "FOUND",
+        "value": "VitaGuard Seguros Ficticios S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Seguradora ficticia VitaGuard Seguros Ficticios S.A.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "product_name": {
+        "status": "FOUND",
+        "value": "VitaGuard D&O Executive Plus",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "VitaGuard D&O Executive Plus",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "susep_process": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": null
+      },
+      "policy_number": {
+        "status": "FOUND",
+        "value": "2026-DO-EXEC-001",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Numero da apolice 2026-DO-EXEC-001",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "insured": {
+        "status": "FOUND",
+        "value": "Orion Biotecnologia S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Tomadora / Segurada Orion Biotecnologia S.A.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "policyholder": {
+        "status": "FOUND",
+        "value": "Orion Biotecnologia S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Tomadora / Segurada Orion Biotecnologia S.A.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "document_version": {
+        "status": "FOUND",
+        "value": "Sintetico v1.0 - 18/08/2026",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Versao do documento Sintetico v1.0 - 18/08/2026",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      }
+    },
+    "contractual_terms": {
+      "policy_period": {
+        "status": "FOUND",
+        "value": {
+          "start": "2026-02-01",
+          "end": "2027-02-01"
+        },
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Vigencia 2026-02-01 a 2027-02-01",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          },
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Vigencia 2026-02-01 a 2027-02-01",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "currency": {
+        "status": "FOUND",
+        "value": "BRL",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Moeda BRL",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "premium": {
+        "status": "FOUND",
+        "value": {
+          "kind": "MONEY",
+          "numeric_value": "95000.0",
+          "currency": "BRL",
+          "unit": null,
+          "normalized_text": null,
+          "raw_text": "R$ 95.000,00"
+        },
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Premio total R$ 95.000,00",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "retroactive_date": {
+        "status": "FOUND",
+        "value": "2020-02-01",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Data de retroatividade 2020-02-01",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "extended_reporting_period": {
+        "status": "FOUND",
+        "value": {
+          "kind": "DURATION",
+          "numeric_value": "24",
+          "currency": null,
+          "unit": "months",
+          "normalized_text": "24 meses",
+          "raw_text": "24 meses"
+        },
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Prazo adicional/complementar 24 meses",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "geographic_scope": {
+        "status": "FOUND",
+        "value": "Mundial, observadas sancoes economicas e restricoes legais aplicaveis.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Ambito geografico: Mundial, observadas sancoes economicas e restricoes legais aplicaveis.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "jurisdiction": {
+        "status": "FOUND",
+        "value": "Brasil; reclamacoes estrangeiras poderao ser cobertas quando nao vedadas pela legislacao aplicavel.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Jurisdicao: Brasil; reclamacoes estrangeiras poderao ser cobertas quando nao vedadas pela legislacao aplicavel.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "coverage_trigger": {
+        "status": "FOUND",
+        "value": "A base de reclamacoes, com notificacao durante a vigencia ou periodo adicional contratado.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Base de cobertura: A base de reclamacoes, com notificacao durante a vigencia ou periodo adicional contratado.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      }
+    },
+    "policy_limits": [
+      {
+        "canonical_id": "maximum_guarantee_limit",
+        "original_name": "Limite Maximo de Garantia",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Limite Maximo de Garantia R$ 25.000.000,00",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "value": {
+          "kind": "MONEY",
+          "numeric_value": "25000000.0",
+          "currency": "BRL",
+          "unit": null,
+          "normalized_text": null,
+          "raw_text": "R$ 25.000.000,00"
+        },
+        "applies_to": []
+      },
+      {
+        "canonical_id": "aggregate_limit",
+        "original_name": "Limite agregado",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 1,
+            "section": null,
+            "excerpt": "Limite agregado R$ 25.000.000,00",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0001:c000"
+          }
+        ],
+        "value": {
+          "kind": "MONEY",
+          "numeric_value": "25000000.0",
+          "currency": "BRL",
+          "unit": null,
+          "normalized_text": null,
+          "raw_text": "R$ 25.000.000,00"
+        },
+        "applies_to": []
+      }
+    ],
+    "policy_deductibles": [
+      {
+        "canonical_id": "deductible",
+        "original_name": "Retencao - Reembolso da Empresa",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "Retencao - Reembolso da Empresa: R$ 250.000,00.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "value": {
+          "kind": "MONEY",
+          "numeric_value": "250000.0",
+          "currency": "BRL",
+          "unit": null,
+          "normalized_text": null,
+          "raw_text": "R$ 250.000,00"
+        },
+        "applies_to": [
+          "side_b"
+        ]
+      },
+      {
+        "canonical_id": "deductible",
+        "original_name": "Retencao - Cobertura da Sociedade",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "Retencao - Cobertura da Sociedade: R$ 500.000,00.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "value": {
+          "kind": "MONEY",
+          "numeric_value": "500000.0",
+          "currency": "BRL",
+          "unit": null,
+          "normalized_text": null,
+          "raw_text": "R$ 500.000,00"
+        },
+        "applies_to": [
+          "side_c"
+        ]
+      },
+      {
+        "canonical_id": "deductible",
+        "original_name": "Retencao - Protecao Direta",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "Retencao - Protecao Direta: Sem retencao.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "value": {
+          "kind": "MONEY",
+          "numeric_value": "0.0",
+          "currency": "BRL",
+          "unit": null,
+          "normalized_text": "Sem retencao",
+          "raw_text": "Sem retencao"
+        },
+        "applies_to": [
+          "side_a"
+        ]
+      }
+    ],
+    "coverages": [
+      {
+        "canonical_id": "side_a",
+        "original_name": "Protecao Direta aos Administradores - Side A",
+        "description": "Pagamento direto a Pessoa Segurada por Perda nao indenizada pela Sociedade.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "2.1 Protecao Direta aos Administradores - Side A\nPagamento direto a Pessoa Segurada por Perda nao indenizada pela Sociedade.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "category": "coverage",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "side_b",
+        "original_name": "Reembolso da Empresa - Side B",
+        "description": "Reembolsa a Empresa por indenizacao permitida e paga a Pessoa Segurada em Reclamacao coberta.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "2.2 Reembolso da Empresa - Side B\nReembolsa a Empresa por indenizacao permitida e paga a Pessoa Segurada em Reclamacao coberta.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "category": "coverage",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "side_c",
+        "original_name": "Cobertura da Sociedade - Entity Coverage",
+        "description": "Cobertura da propria Sociedade exclusivamente para Reclamacao de Valores Mobiliarios, conforme definicoes desta apolice.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "2.3 Cobertura da Sociedade - Entity Coverage\nCobertura da propria Sociedade exclusivamente para Reclamacao de Valores Mobiliarios, conforme definicoes desta\napolice.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "category": "coverage",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "defense_costs",
+        "original_name": "Custos de Defesa",
+        "description": "Honorarios, peritos e despesas de defesa razoaveis e necessarios, incluindo antecipacao quando aplicavel.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "2.4 Custos de Defesa\nHonorarios, peritos e despesas de defesa razoaveis e necessarios, incluindo antecipacao quando aplicavel.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "category": "coverage",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "investigation_costs",
+        "original_name": "Despesas de Investigacao",
+        "description": "Despesas de assistencia juridica em Investigacao formal ou entrevista formal coberta.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "2.5 Despesas de Investigacao\nDespesas de assistencia juridica em Investigacao formal ou entrevista formal coberta.\nSublimite especifico: R$ 3.000.000,00. Este sublimite integra e nao acresce ao Limite Maximo de Garantia.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "category": "coverage",
+        "conditions": [],
+        "limits": [
+          {
+            "canonical_id": "coverage_sublimit",
+            "original_name": "Sublimite especifico",
+            "description": null,
+            "extraction_confidence": 1.0,
+            "normalization_confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+                "page": 3,
+                "section": null,
+                "excerpt": "Sublimite especifico: R$ 3.000.000,00.",
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+              }
+            ],
+            "value": {
+              "kind": "MONEY",
+              "numeric_value": "3000000.0",
+              "currency": "BRL",
+              "unit": null,
+              "normalized_text": "3000000",
+              "raw_text": "R$ 3.000.000,00"
+            },
+            "applies_to": [
+              "investigation_costs"
+            ]
+          }
+        ],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "asset_and_liberty",
+        "original_name": "Bens e Liberdade",
+        "description": "Custos relacionados a medidas de indisponibilidade de bens, restricoes de liberdade e medidas cautelares elegiveis.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 3,
+            "section": null,
+            "excerpt": "2.6 Bens e Liberdade\nCustos relacionados a medidas de indisponibilidade de bens, restricoes de liberdade e medidas cautelares elegiveis.\nSublimite especifico: R$ 2.000.000,00. Este sublimite integra e nao acresce ao Limite Maximo de Garantia.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+          }
+        ],
+        "category": "coverage",
+        "conditions": [],
+        "limits": [
+          {
+            "canonical_id": "coverage_sublimit",
+            "original_name": "Sublimite especifico",
+            "description": null,
+            "extraction_confidence": 1.0,
+            "normalization_confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+                "page": 3,
+                "section": null,
+                "excerpt": "Sublimite especifico: R$ 2.000.000,00.",
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0003:c000"
+              }
+            ],
+            "value": {
+              "kind": "MONEY",
+              "numeric_value": "2000000.0",
+              "currency": "BRL",
+              "unit": null,
+              "normalized_text": "2000000",
+              "raw_text": "R$ 2.000.000,00"
+            },
+            "applies_to": [
+              "asset_and_liberty"
+            ]
+          }
+        ],
+        "deductibles": []
+      }
+    ],
+    "extensions": [
+      {
+        "canonical_id": "spousal_liability",
+        "original_name": "Responsabilidade de Conjuge",
+        "description": "Protecao para conjuge ou companheiro quando a reclamacao decorrer exclusivamente de Ato Danoso atribuido a Pessoa Segurada.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 4,
+            "section": null,
+            "excerpt": "3.1 Responsabilidade de Conjuge\nProtecao para conjuge ou companheiro quando a reclamacao decorrer exclusivamente de Ato Danoso atribuido a\nPessoa Segurada.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "heirs_estates_representatives",
+        "original_name": "Herdeiros e Representantes Legais",
+        "description": "Cobertura estendida a herdeiros, espolio ou representante legal de Pessoa Segurada.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 4,
+            "section": null,
+            "excerpt": "3.2 Herdeiros e Representantes Legais\nCobertura estendida a herdeiros, espolio ou representante legal de Pessoa Segurada.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "retired_directors",
+        "original_name": "Diretores Aposentados",
+        "description": "Prazo adicional automatico de 72 meses para determinados administradores que se aposentem durante a vigencia, sujeito as condicoes da apolice.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 4,
+            "section": null,
+            "excerpt": "3.3 Diretores Aposentados\nPrazo adicional automatico de 72 meses para determinados administradores que se aposentem durante a vigencia,\nsujeito as condicoes da apolice.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+          }
+        ],
+        "conditions": [
+          "sujeito as condicoes da apolice"
+        ],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "extradition_costs",
+        "original_name": "Custos de Extradicao",
+        "description": "Custos de defesa em processo formal de extradicao relacionado a Reclamacao coberta.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 4,
+            "section": null,
+            "excerpt": "3.4 Custos de Extradicao\nCustos de defesa em processo formal de extradicao relacionado a Reclamacao coberta.\nSublimite: R$ 1.500.000,00.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [
+          {
+            "canonical_id": "coverage_sublimit",
+            "original_name": "Sublimite",
+            "description": null,
+            "extraction_confidence": 1.0,
+            "normalization_confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+                "page": 4,
+                "section": null,
+                "excerpt": "Sublimite: R$ 1.500.000,00.",
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+              }
+            ],
+            "value": {
+              "kind": "MONEY",
+              "numeric_value": "1500000.0",
+              "currency": "BRL",
+              "unit": null,
+              "normalized_text": "1500000",
+              "raw_text": "R$ 1.500.000,00"
+            },
+            "applies_to": [
+              "extradition_costs"
+            ]
+          }
+        ],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "crisis_management",
+        "original_name": "Gestao de Crise",
+        "description": "Despesas pre-aprovadas de consultoria de comunicacao em evento de crise coberto.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 4,
+            "section": null,
+            "excerpt": "3.5 Gestao de Crise\nDespesas pre-aprovadas de consultoria de comunicacao em evento de crise coberto.\nSublimite: R$ 500.000,00.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [
+          {
+            "canonical_id": "coverage_sublimit",
+            "original_name": "Sublimite",
+            "description": null,
+            "extraction_confidence": 1.0,
+            "normalization_confidence": 1.0,
+            "evidence": [
+              {
+                "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+                "page": 4,
+                "section": null,
+                "excerpt": "Sublimite: R$ 500.000,00.",
+                "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+              }
+            ],
+            "value": {
+              "kind": "MONEY",
+              "numeric_value": "500000.0",
+              "currency": "BRL",
+              "unit": null,
+              "normalized_text": "500000",
+              "raw_text": "R$ 500.000,00"
+            },
+            "applies_to": [
+              "crisis_management"
+            ]
+          }
+        ],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "new_subsidiaries",
+        "original_name": "Novas Subsidiarias",
+        "description": "Inclusao automatica de novas subsidiarias dentro dos parametros financeiros definidos, sujeita a notificacao quando excedidos.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 4,
+            "section": null,
+            "excerpt": "3.6 Novas Subsidiarias\nInclusao automatica de novas subsidiarias dentro dos parametros financeiros definidos, sujeita a notificacao quando\nexcedidos.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0004:c000"
+          }
+        ],
+        "conditions": [
+          "sujeita a notificacao quando excedidos"
+        ],
+        "limits": [],
+        "deductibles": []
+      }
+    ],
+    "exclusions": [
+      {
+        "canonical_id": "fraud_or_dishonesty",
+        "original_name": "Fraude, Dolo, Desonestidade e Vantagem Indevida",
+        "description": "Perdas decorrentes de fraude, dolo, desonestidade ou vantagem pessoal indevida.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 5,
+            "section": null,
+            "excerpt": "4.1 Fraude, Dolo, Desonestidade e Vantagem Indevida\nPerdas decorrentes de fraude, dolo, desonestidade ou vantagem pessoal indevida.\nExcecao: A exclusao somente se aplica quando a conduta for estabelecida por decisao final nao sujeita a recurso ou\npor admissao escrita da Pessoa Segurada.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000"
+          }
+        ],
+        "exceptions": [
+          "A exclusao somente se aplica quando a conduta for estabelecida por decisao final nao sujeita a recurso ou por admissao escrita da Pessoa Segurada."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "bodily_injury_property_damage",
+        "original_name": "Lesao Corporal e Dano Material",
+        "description": "Reclamacoes por lesao corporal ou dano a propriedade tangivel.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 5,
+            "section": null,
+            "excerpt": "4.2 Lesao Corporal e Dano Material\nReclamacoes por lesao corporal ou dano a propriedade tangivel.\nExcecao: Nao se aplica a alegacao de dano moral ou sofrimento emocional quando decorrente de Reclamacao de\npraticas trabalhistas coberta, se contratada.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000"
+          }
+        ],
+        "exceptions": [
+          "Nao se aplica a alegacao de dano moral ou sofrimento emocional quando decorrente de Reclamacao de praticas trabalhistas coberta, se contratada."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "prior_claims_or_circumstances",
+        "original_name": "Fatos Conhecidos e Circunstancias Preexistentes",
+        "description": "Fatos, circunstancias ou reclamacoes conhecidas antes da data de continuidade ou informadas em proposta anterior.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 5,
+            "section": null,
+            "excerpt": "4.3 Fatos Conhecidos e Circunstancias Preexistentes\nFatos, circunstancias ou reclamacoes conhecidas antes da data de continuidade ou informadas em proposta anterior.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000"
+          }
+        ],
+        "exceptions": [],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "pollution",
+        "original_name": "Poluicao",
+        "description": "Reclamacoes diretamente baseadas em poluicao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 5,
+            "section": null,
+            "excerpt": "4.4 Poluicao\nReclamacoes diretamente baseadas em poluicao.\nExcecao: A exclusao nao se aplica a Reclamacao derivativa contra Pessoa Segurada que alegue falha de supervisao\nrelacionada a evento de poluicao.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000"
+          }
+        ],
+        "exceptions": [
+          "A exclusao nao se aplica a Reclamacao derivativa contra Pessoa Segurada que alegue falha de supervisao relacionada a evento de poluicao."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "insured_vs_insured",
+        "original_name": "Insured vs Insured",
+        "description": "Reclamacao proposta por ou em nome de Segurado contra outro Segurado.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 5,
+            "section": null,
+            "excerpt": "4.5 Insured vs Insured\nReclamacao proposta por ou em nome de Segurado contra outro Segurado.\nExcecao: Nao se aplica a acao derivativa independente, reclamacao de ex-administrador apos periodo minimo\naplicavel ou reclamacao de denunciante protegido por lei.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000"
+          }
+        ],
+        "exceptions": [
+          "Nao se aplica a acao derivativa independente, reclamacao de ex-administrador apos periodo minimo aplicavel ou reclamacao de denunciante protegido por lei."
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "professional_services",
+        "original_name": "Servicos Profissionais",
+        "description": "Reclamacoes decorrentes da prestacao de servicos profissionais da Sociedade a terceiros, salvo ato de supervisao de administradores quando de outra forma coberto.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 5,
+            "section": null,
+            "excerpt": "4.6 Servicos Profissionais\nReclamacoes decorrentes da prestacao de servicos profissionais da Sociedade a terceiros, salvo ato de supervisao\nde administradores quando de outra forma coberto.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0005:c000"
+          }
+        ],
+        "exceptions": [
+          "salvo ato de supervisao de administradores quando de outra forma coberto"
+        ],
+        "applies_to": []
+      }
+    ],
+    "definitions": [
+      {
+        "canonical_term": "insured_person",
+        "original_term": "Administrador Segurado",
+        "definition_text": "Qualquer pessoa natural que atue ou tenha atuado como diretor, conselheiro, administrador ou gestor com poder decisorio na Empresa, incluindo determinadas pessoas equiparadas.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.1 Administrador Segurado\nQualquer pessoa natural que atue ou tenha atuado como diretor, conselheiro, administrador ou gestor com poder\ndecisorio na Empresa, incluindo determinadas pessoas equiparadas.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "company",
+        "original_term": "Empresa",
+        "definition_text": "A tomadora identificada na Especificacao, juntamente com Subsidiarias abrangidas.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.2 Empresa\nA tomadora identificada na Especificacao, juntamente com Subsidiarias abrangidas.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "claim",
+        "original_term": "Claim / Reclamacao",
+        "definition_text": "Demanda escrita, processo judicial, administrativo, arbitral, procedimento regulatorio ou investigacao formal que alegue Ato de Gestao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.3 Claim / Reclamacao\nDemanda escrita, processo judicial, administrativo, arbitral, procedimento regulatorio ou investigacao formal que\nalegue Ato de Gestao.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "wrongful_act",
+        "original_term": "Ato de Gestao",
+        "definition_text": "Ato, erro, omissao, declaracao inexata, quebra de dever fiduciario, negligencia ou conduta alegada no exercicio de cargo segurado.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.4 Ato de Gestao\nAto, erro, omissao, declaracao inexata, quebra de dever fiduciario, negligencia ou conduta alegada no exercicio de\ncargo segurado.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "loss",
+        "original_term": "Perda Indenizavel",
+        "definition_text": "Indenizacoes, acordos, Custos de Defesa e outras despesas expressamente cobertas, exceto valores nao seguraveis por lei.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.5 Perda Indenizavel\nIndenizacoes, acordos, Custos de Defesa e outras despesas expressamente cobertas, exceto valores nao seguraveis\npor lei.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "defense_costs",
+        "original_term": "Despesas de Defesa",
+        "definition_text": "Honorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de Reclamacao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.6 Despesas de Defesa\nHonorarios de advogados, peritos e despesas razoaveis incorridas com consentimento da Seguradora na defesa de\nReclamacao.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "investigation",
+        "original_term": "Investigacao Formal",
+        "definition_text": "Procedimento formal de autoridade ou regulador que exija comparecimento, depoimento, producao de documentos ou representacao juridica de Administrador Segurado.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.7 Investigacao Formal\nProcedimento formal de autoridade ou regulador que exija comparecimento, depoimento, producao de documentos ou\nrepresentacao juridica de Administrador Segurado.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "subsidiary",
+        "original_term": "Controlada",
+        "definition_text": "Entidade na qual a Empresa controle mais de 50% dos direitos de voto ou tenha poder de eleger a maioria da administracao.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 2,
+            "section": "1. DEFINICOES",
+            "excerpt": "1.8 Controlada\nEntidade na qual a Empresa controle mais de 50% dos direitos de voto ou tenha poder de eleger a maioria da\nadministracao.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0002:c000"
+          }
+        ]
+      }
+    ],
+    "clauses": [
+      {
+        "canonical_id": "claim_notice",
+        "original_name": "Notificacao de Reclamacao",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.1 Notificacao de Reclamacao\nA Reclamacao deve ser notificada tao logo razoavelmente possivel, com informacoes suficientes para identificacao do\nevento.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "A Reclamacao deve ser notificada tao logo razoavelmente possivel, contendo informacoes suficientes para a identificacao do evento.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "cooperation",
+        "original_name": "Cooperacao e Defesa",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.2 Cooperacao e Defesa\nSegurados cooperarao com informacoes e documentos; a Seguradora podera participar da defesa e negociacao.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Segurados devem cooperar com informacoes e documentos, e a Seguradora tem o direito de participar da defesa e negociacao.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "severability",
+        "original_name": "Severability / Separabilidade",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.3 Severability / Separabilidade\nDeclaracoes e conhecimento de uma pessoa nao serao automaticamente imputados as demais, conforme as regras\nde subscricao e exclusoes.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Declaracoes e conhecimento de uma pessoa nao sao automaticamente imputados as demais, seguindo regras de subscricao e exclusoes.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "change_in_control",
+        "original_name": "Mudanca de Controle",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.4 Mudanca de Controle\nOcorrida Mudanca de Controle, a apolice cobre apenas Atos de Gestao anteriores ao evento, salvo acordo em\ncontrario.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Em caso de Mudanca de Controle, a apolice cobre somente Atos de Gestao anteriores ao evento, salvo acordo em contrario.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "run_off",
+        "original_name": "Cobertura Run Off",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.5 Cobertura Run Off\nPode ser contratado periodo de run-off para reclamacoes posteriores relativas a atos anteriores a Mudanca de\nControle.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Possibilidade de contratacao de periodo de run-off para reclamacoes posteriores relativas a atos anteriores a Mudanca de Controle.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "priority_of_payments",
+        "original_name": "Priority of Payments",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.6 Priority of Payments\nQuando o limite for insuficiente, a Seguradora priorizara pagamentos devidos a Administradores Segurados antes de\nreembolso a Empresa.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Se o limite for insuficiente, a Seguradora da prioridade aos pagamentos devidos a Administradores Segurados antes do reembolso a Empresa.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "allocation",
+        "original_name": "Alocacao de Perdas",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.7 Alocacao de Perdas\nQuando uma Reclamacao envolver materias cobertas e nao cobertas, as partes deverao alocar de forma justa e\nrazoavel os valores correspondentes.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Reclamacoes com materias cobertas e nao cobertas exigem alocacao justa e razoavel dos valores correspondentes pelas partes.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "advancement_of_defense_costs",
+        "original_name": "Antecipacao de Custos de Defesa",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.8 Antecipacao de Custos de Defesa\nCustos de Defesa poderao ser adiantados antes da resolucao final, sujeitos a eventual reembolso se posteriormente\nnao houver cobertura.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Custos de Defesa podem ser adiantados antes da decisao final, estando sujeitos a reembolso caso seja verificado que nao havia cobertura.",
+        "conditions": []
+      },
+      {
+        "canonical_id": "consent_to_settle",
+        "original_name": "Consentimento para Acordo",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "vitaguard-do-executive-plus-5cb14d371e",
+            "page": 6,
+            "section": "5. CONDICOES E CLAUSULAS RELEVANTES",
+            "excerpt": "5.9 Consentimento para Acordo\nNenhum acordo que imponha obrigacao a Seguradora sera celebrado sem consentimento previo, que nao sera\nrecusado sem motivo razoavel.",
+            "chunk_id": "vitaguard-do-executive-plus-5cb14d371e:p0006:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Nenhum acordo gerador de obrigacao para a Seguradora pode ser realizado sem consentimento previo, que nao sera recusado sem motivo razoavel.",
+        "conditions": []
+      }
+    ],
+    "extraction": {
+      "schema_version": "0.4",
+      "extraction_method": "NATIVE_TEXT",
+      "extractor_model": "gemini-3.5-flash-lite",
+      "extracted_at": "2026-08-22T14:46:31.258486Z",
+      "warnings": [],
+      "errors": []
+    }
+  },
+  "extracted_at": "2026-08-22T14:46:31.259039Z",
+  "warnings": [
+    "1 evidence claim(s) were repaired conservatively from the source chunk."
+  ]
+}

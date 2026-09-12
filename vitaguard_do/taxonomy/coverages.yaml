@@ -1,0 +1,52 @@
+version: 0.5B.5
+items:
+- id: side_a
+  label: Cobertura direta aos administradores (Side A)
+  description: Protecao direta a pessoas seguradas quando a sociedade nao as indeniza.
+  aliases:
+  - Side A
+  - Cobertura A
+  - Pagamento a Pessoa Segurada
+  - Indenizacao a Pessoa Segurada
+  - Garantia A
+  - Garantia A - Segurados
+- id: side_b
+  label: Reembolso a sociedade (Side B)
+  description: Reembolso a organizacao por indenizacao paga a pessoa segurada.
+  aliases:
+  - Side B
+  - Cobertura B
+  - Reembolso da Sociedade
+  - Reembolso da Empresa
+  - Reembolso a Companhia
+  - Garantia B
+  - Garantia B - Reembolso à Sociedade
+- id: side_c
+  label: Cobertura da entidade (Side C)
+  description: Cobertura da propria entidade quando prevista no contrato.
+  aliases:
+  - Side C
+  - Cobertura C
+  - Entity Coverage
+  - Cobertura da Sociedade
+- id: defense_costs
+  label: Custos de defesa
+  aliases:
+  - Custos de Defesa
+  - Despesas de Defesa
+  - Gastos de Defesa
+  - Defense Costs
+- id: investigation_costs
+  label: Custos de investigacao
+  aliases:
+  - Investigacao
+  - Custos de Investigacao
+  - Despesas de Investigacao
+  - Investigation Costs
+- id: asset_and_liberty
+  label: Bens e liberdade
+  aliases:
+  - Bens e Liberdade
+  - Indisponibilidade de Bens
+  - Privacao de Liberdade
+  - Asset and Liberty

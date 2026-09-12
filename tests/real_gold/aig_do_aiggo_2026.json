@@ -1,0 +1,257 @@
+{
+  "gold_version": "0.5B",
+  "source_id": "aig_do_aiggo_2026",
+  "description": "Gold set manual e parcial para o segundo documento D&O real. Validado contra as Condicoes Gerais AIG GO publicadas no site oficial; nao representa auditoria juridica completa do produto.",
+  "facts": [
+    {
+      "id": "insurer",
+      "kind": "field_contains",
+      "path": "identification.insurer",
+      "expected": "AIG Seguros Brasil S.A.",
+      "evidence_pages": [
+        13
+      ]
+    },
+    {
+      "id": "product_name",
+      "kind": "field_contains",
+      "path": "identification.product_name",
+      "expected": "Responsabilidade",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "susep_process",
+      "kind": "field_contains",
+      "path": "identification.susep_process",
+      "expected": "15414.901229/2017-25",
+      "evidence_pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "document_version_not_explicit",
+      "kind": "field_status",
+      "path": "identification.document_version",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "policy_number_not_in_conditions",
+      "kind": "field_status",
+      "path": "identification.policy_number",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "insured_not_in_conditions",
+      "kind": "field_status",
+      "path": "identification.insured",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "premium_value_not_in_conditions",
+      "kind": "field_status",
+      "path": "contractual_terms.premium",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "geographic_scope",
+      "kind": "field_contains",
+      "path": "contractual_terms.geographic_scope",
+      "expected": "qualquer lugar do mundo",
+      "evidence_pages": [
+        33
+      ]
+    },
+    {
+      "id": "jurisdiction",
+      "kind": "field_contains",
+      "path": "contractual_terms.jurisdiction",
+      "expected": "Brasil",
+      "evidence_pages": [
+        2,
+        54
+      ]
+    },
+    {
+      "id": "coverage_trigger",
+      "kind": "field_contains",
+      "path": "contractual_terms.coverage_trigger",
+      "expected": "Reclamações com Notificação",
+      "evidence_pages": [
+        2
+      ]
+    },
+    {
+      "id": "side_a",
+      "kind": "canonical_present",
+      "collection": "coverages",
+      "canonical_id": "side_a",
+      "evidence_pages": [
+        14
+      ]
+    },
+    {
+      "id": "side_b",
+      "kind": "canonical_present",
+      "collection": "coverages",
+      "canonical_id": "side_b",
+      "evidence_pages": [
+        14
+      ]
+    },
+    {
+      "id": "asset_and_liberty",
+      "kind": "canonical_present",
+      "collection": "extensions",
+      "canonical_id": "asset_and_liberty_proceedings",
+      "evidence_pages": [
+        15
+      ]
+    },
+    {
+      "id": "asset_freeze",
+      "kind": "canonical_present",
+      "collection": "extensions",
+      "canonical_id": "asset_freeze_online_seizure",
+      "evidence_pages": [
+        16
+      ]
+    },
+    {
+      "id": "investigation_coverage",
+      "kind": "canonical_present",
+      "collection": "extensions",
+      "canonical_id": "investigation_coverage",
+      "evidence_pages": [
+        19
+      ]
+    },
+    {
+      "id": "fraud_or_dishonesty",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "fraud_or_dishonesty",
+      "evidence_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "pollution",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "pollution",
+      "evidence_pages": [
+        28
+      ]
+    },
+    {
+      "id": "bodily_injury_property_damage",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "bodily_injury_property_damage",
+      "evidence_pages": [
+        28
+      ]
+    },
+    {
+      "id": "prior_claims_or_circumstances",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "prior_claims_or_circumstances",
+      "evidence_pages": [
+        29
+      ]
+    },
+    {
+      "id": "wrongful_act_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "wrongful_act",
+      "evidence_pages": [
+        3
+      ]
+    },
+    {
+      "id": "defense_costs_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "defense_costs",
+      "evidence_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "loss_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "loss",
+      "evidence_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "claim_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "claim",
+      "evidence_pages": [
+        11
+      ]
+    },
+    {
+      "id": "insured_person_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "insured_person",
+      "evidence_pages": [
+        12
+      ]
+    },
+    {
+      "id": "subsidiary_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "subsidiary",
+      "evidence_pages": [
+        13
+      ]
+    },
+    {
+      "id": "advancement_of_defense_costs",
+      "kind": "canonical_present",
+      "collection": "clauses",
+      "canonical_id": "advancement_of_defense_costs",
+      "evidence_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "allocation_clause",
+      "kind": "canonical_present",
+      "collection": "clauses",
+      "canonical_id": "allocation",
+      "evidence_pages": [
+        35
+      ]
+    },
+    {
+      "id": "priority_of_payments_clause",
+      "kind": "canonical_present",
+      "collection": "clauses",
+      "canonical_id": "priority_of_payments",
+      "evidence_pages": [
+        51,
+        52
+      ]
+    }
+  ]
+}

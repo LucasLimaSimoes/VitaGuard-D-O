@@ -1,0 +1,189 @@
+{
+  "gold_version": "0.5A",
+  "source_id": "allianz_do_2025_12",
+  "description": "Gold set manual e deliberadamente parcial para validar a primeira execucao em documento D&O real. Nao representa auditoria completa das Condicoes Gerais.",
+  "facts": [
+    {
+      "id": "insurer",
+      "kind": "field_contains",
+      "path": "identification.insurer",
+      "expected": "Allianz Seguros S.A.",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "product_name",
+      "kind": "field_contains",
+      "path": "identification.product_name",
+      "expected": "Responsabilidade Civil",
+      "evidence_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "susep_process",
+      "kind": "field_contains",
+      "path": "identification.susep_process",
+      "expected": "15414.901113/2017-96",
+      "evidence_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "document_version",
+      "kind": "field_contains",
+      "path": "identification.document_version",
+      "expected": "dezembro/2025",
+      "evidence_pages": [
+        1
+      ]
+    },
+    {
+      "id": "policy_number_not_in_general_conditions",
+      "kind": "field_status",
+      "path": "identification.policy_number",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "insured_not_in_general_conditions",
+      "kind": "field_status",
+      "path": "identification.insured",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "premium_not_in_general_conditions",
+      "kind": "field_status",
+      "path": "contractual_terms.premium",
+      "expected_status": "NOT_FOUND"
+    },
+    {
+      "id": "side_a",
+      "kind": "canonical_present",
+      "collection": "coverages",
+      "canonical_id": "side_a",
+      "evidence_pages": [
+        9
+      ]
+    },
+    {
+      "id": "side_b",
+      "kind": "canonical_present",
+      "collection": "coverages",
+      "canonical_id": "side_b",
+      "evidence_pages": [
+        9
+      ]
+    },
+    {
+      "id": "fraud_or_dishonesty",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "fraud_or_dishonesty",
+      "evidence_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "prior_claims_or_circumstances",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "prior_claims_or_circumstances",
+      "evidence_pages": [
+        17
+      ]
+    },
+    {
+      "id": "bodily_injury_property_damage",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "bodily_injury_property_damage",
+      "evidence_pages": [
+        17
+      ]
+    },
+    {
+      "id": "pollution",
+      "kind": "canonical_present",
+      "collection": "exclusions",
+      "canonical_id": "pollution",
+      "evidence_pages": [
+        18
+      ]
+    },
+    {
+      "id": "wrongful_act_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "wrongful_act",
+      "evidence_pages": [
+        38
+      ]
+    },
+    {
+      "id": "loss_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "loss",
+      "evidence_pages": [
+        44
+      ]
+    },
+    {
+      "id": "claim_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "claim",
+      "evidence_pages": [
+        46
+      ]
+    },
+    {
+      "id": "insured_person_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "insured_person",
+      "evidence_pages": [
+        47
+      ]
+    },
+    {
+      "id": "subsidiary_definition",
+      "kind": "canonical_present",
+      "collection": "definitions",
+      "canonical_id": "subsidiary",
+      "evidence_pages": [
+        38,
+        48
+      ]
+    },
+    {
+      "id": "allocation_clause",
+      "kind": "canonical_present",
+      "collection": "clauses",
+      "canonical_id": "allocation",
+      "evidence_pages": [
+        29
+      ]
+    },
+    {
+      "id": "priority_of_payments_clause",
+      "kind": "canonical_present",
+      "collection": "clauses",
+      "canonical_id": "priority_of_payments",
+      "evidence_pages": [
+        29
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "vitaguard_do_essencial",
+  "title": "VitaGuard D&O Essencial",
+  "policy_id": "vg-do-ess-2026-001",
+  "policy_number": "2026-DO-ESS-001",
+  "insurer": "VitaGuard Seguros Ficticios S.A.",
+  "insured": "Atlas Tecnologia S.A.",
+  "policyholder": "Atlas Tecnologia S.A.",
+  "susep_process": null,
+  "document_version": "Sintetico v1.0 - 18/08/2026",
+  "period_start": "2026-01-01",
+  "period_end": "2027-01-01",
+  "currency": "BRL",
+  "premium": {
+    "amount": 48000,
+    "raw": "R$ 48.000,00"
+  },
+  "retroactive_date": "2023-01-01",
+  "extended_reporting_months": 12,
+  "geographic_scope": "Brasil",
+  "jurisdiction": "Brasil",
+  "coverage_trigger": "A base de reclamacoes, com notificacao durante a vigencia ou no prazo complementar aplicavel.",
+  "lmg": {
+    "amount": 10000000,
+    "raw": "R$ 10.000.000,00"
+  },
+  "aggregate_limit": {
+    "amount": 10000000,
+    "raw": "R$ 10.000.000,00"
+  },
+  "deductibles": [
+    {
+      "canonical_id": "deductible",
+      "name": "Franquia - Cobertura B",
+      "amount": 100000,
+      "raw": "R$ 100.000,00",
+      "applies_to": [
+        "side_b"
+      ]
+    },
+    {
+      "canonical_id": "deductible",
+      "name": "Franquia - Cobertura A",
+      "amount": 0,
+      "raw": "Sem franquia",
+      "applies_to": [
+        "side_a"
+      ]
+    }
+  ],
+  "coverages": [
+    {
+      "id": "side_a",
+      "name": "Cobertura A - Pagamento a Pessoa Segurada",
+      "desc": "Pagamento de Perda coberta diretamente a Pessoa Segurada quando a Sociedade nao puder ou nao dever indeniza-la."
+    },
+    {
+      "id": "side_b",
+      "name": "Cobertura B - Reembolso da Sociedade",
+      "desc": "Reembolso a Sociedade por valores que ela tenha legitimamente indenizado a Pessoa Segurada em decorrencia de Reclamacao coberta."
+    },
+    {
+      "id": "defense_costs",
+      "name": "Despesas de Defesa",
+      "desc": "Custos razoaveis e necessarios de defesa de Reclamacao coberta, sujeitos ao Limite Maximo de Garantia."
+    },
+    {
+      "id": "investigation_costs",
+      "name": "Custos de Investigacao",
+      "desc": "Custos de comparecimento e assistencia juridica em Investigacao formal.",
+      "sublimit": {
+        "amount": 1000000,
+        "raw": "R$ 1.000.000,00"
+      }
+    }
+  ],
+  "extensions": [
+    {
+      "id": "spousal_liability",
+      "name": "Extensao para Conjuge ou Companheiro",
+      "desc": "Abrange Reclamacao contra conjuge ou companheiro exclusivamente em razao de Ato Danoso atribuido a Pessoa Segurada."
+    },
+    {
+      "id": "heirs_estates_representatives",
+      "name": "Herdeiros, Espolio e Representantes Legais",
+      "desc": "Estende a protecao a herdeiros, espolio e representantes legais em relacao a responsabilidade da Pessoa Segurada."
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "fraud_or_dishonesty",
+      "name": "Atos Intencionais, Fraude e Desonestidade",
+      "desc": "Perda decorrente de ato doloso, fraudulento ou desonesto da Pessoa Segurada.",
+      "exceptions": [
+        "A exclusao somente sera aplicada apos decisao final ou admissao escrita que estabeleca a conduta."
+      ]
+    },
+    {
+      "id": "bodily_injury_property_damage",
+      "name": "Danos Corporais e Danos Materiais",
+      "desc": "Reclamacoes por lesao corporal, enfermidade, morte ou dano/destruicao de bem tangivel."
+    },
+    {
+      "id": "prior_claims_or_circumstances",
+      "name": "Reclamacoes e Circunstancias Anteriores",
+      "desc": "Reclamacoes ou circunstancias conhecidas antes do inicio da vigencia ou declaradas anteriormente."
+    },
+    {
+      "id": "pollution",
+      "name": "Poluicao e Contaminacao",
+      "desc": "Reclamacoes diretamente decorrentes de descarga, dispersao ou contaminacao por poluentes."
+    }
+  ],
+  "definitions": [
+    {
+      "id": "insured_person",
+      "term": "Pessoa Segurada",
+      "text": "Pessoa natural que seja ou tenha sido diretor, administrador, conselheiro ou empregado com funcao de gestao da Sociedade."
+    },
+    {
+      "id": "company",
+      "term": "Sociedade",
+      "text": "A tomadora indicada na Especificacao e suas Subsidiarias elegiveis."
+    },
+    {
+      "id": "claim",
+      "term": "Reclamacao",
+      "text": "Demanda escrita, processo judicial, arbitral ou administrativo que atribua Ato Danoso a Pessoa Segurada."
+    },
+    {
+      "id": "wrongful_act",
+      "term": "Ato Danoso",
+      "text": "Ato, erro, omissao, declaracao inexata, negligencia ou violacao de dever praticado no exercicio de funcao de gestao."
+    },
+    {
+      "id": "loss",
+      "term": "Perda",
+      "text": "Indenizacoes, acordos aprovados e Custos de Defesa cobertos, excluidos valores legalmente nao seguraveis."
+    },
+    {
+      "id": "defense_costs",
+      "term": "Custos de Defesa",
+      "text": "Honorarios e despesas razoaveis e necessarias para investigar, defender ou recorrer de Reclamacao coberta."
+    },
+    {
+      "id": "investigation",
+      "term": "Investigacao",
+      "text": "Procedimento formal de autoridade competente que exija comparecimento de Pessoa Segurada relacionado a suas funcoes."
+    },
+    {
+      "id": "subsidiary",
+      "term": "Subsidiaria",
+      "text": "Pessoa juridica na qual a Sociedade detenha, direta ou indiretamente, mais de 50% dos direitos de voto."
+    }
+  ],
+  "clauses": [
+    {
+      "id": "claim_notice",
+      "name": "Aviso de Reclamacao",
+      "summary": "A Reclamacao deve ser comunicada tao logo seja razoavelmente possivel durante a vigencia ou periodo aplicavel."
+    },
+    {
+      "id": "cooperation",
+      "name": "Dever de Cooperacao",
+      "summary": "Segurados devem fornecer informacoes e cooperar de forma razoavel com a defesa e regulacao."
+    },
+    {
+      "id": "severability",
+      "name": "Separabilidade",
+      "summary": "Conhecimento ou conduta de uma Pessoa Segurada nao sera automaticamente imputado a todas as demais, ressalvadas as regras da Apolice."
+    },
+    {
+      "id": "change_in_control",
+      "name": "Alteracao de Controle",
+      "summary": "Apos Alteracao de Controle, a cobertura permanece apenas para Atos Danosos praticados antes da data da alteracao."
+    },
+    {
+      "id": "run_off",
+      "name": "Run-off",
+      "summary": "Em caso de Alteracao de Controle, podera ser contratado periodo para reclamacoes relativas a atos anteriores, conforme negociacao."
+    },
+    {
+      "id": "priority_of_payments",
+      "name": "Prioridade de Pagamentos",
+      "summary": "Havendo insuficiencia de limite, pagamentos devidos diretamente a Pessoas Seguradas terao prioridade sobre reembolsos a Sociedade."
+    }
+  ]
+}

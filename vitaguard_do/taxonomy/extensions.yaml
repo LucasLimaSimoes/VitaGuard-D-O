@@ -1,0 +1,68 @@
+version: 0.5B.5
+items:
+- id: spousal_liability
+  label: Responsabilidade de conjuge ou companheiro
+  aliases:
+  - Conjuge
+  - Companheiro
+  - Spousal Liability
+- id: retired_directors
+  label: Administradores aposentados
+  aliases:
+  - Administradores Aposentados
+  - Diretores Aposentados
+  - Retired Directors
+- id: extradition_costs
+  label: Custos de extradicao
+  aliases:
+  - Extradicao
+  - Custos de Extradicao
+  - Extradition Costs
+- id: crisis_management
+  label: Gerenciamento de crise
+  aliases:
+  - Gerenciamento de Crise
+  - Gestao de Crise
+  - Crisis Management
+- id: heirs_estates_representatives
+  label: Herdeiros, espolio e representantes legais
+  aliases:
+  - Herdeiros
+  - Espolio
+  - Representantes Legais
+  - Heirs and Legal Representatives
+- id: outside_directorship
+  label: Cargo em entidade externa
+  aliases:
+  - Entidade Externa
+  - Cargo Externo
+  - Outside Directorship
+- id: new_subsidiaries
+  label: Novas subsidiarias
+  aliases:
+  - Novas Subsidiarias
+  - New Subsidiaries
+- id: asset_freeze_online_seizure
+  label: Indisponibilidade de bens por bloqueio e penhora online
+  aliases:
+  - Cobertura para Indisponibilidade de Bens por Bloqueio e Penhora Online
+  - Indisponibilidade de Bens por Bloqueio e Penhora Online
+  - Bloqueio e Penhora Online
+  - Bloqueio e Indisponibilidade de Bens
+  - Extensão de Cobertura para Bloqueio e Indisponibilidade de Bens
+- id: investigation_coverage
+  label: Cobertura para investigação
+  aliases:
+  - Cobertura para Investigação
+  - Investigação
+  - Investigation Coverage
+  - Custos de Investigação
+  - Extensão de Cobertura para Custos de Investigação
+- id: asset_and_liberty_proceedings
+  label: Processos de bens e liberdade
+  aliases:
+  - Cobertura para Processos de Bens e Liberdade
+  - Processos de Bens e Liberdade
+  - Processos de Extradição
+  - Bens e Liberdade
+  - Extensão de Cobertura de Bens e Liberdade

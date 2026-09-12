@@ -1,0 +1,1615 @@
+{
+  "project_version": "0.5B.5",
+  "document_id": "aig-do-aiggo-700a08f26a",
+  "source_name": "aig_do_aiggo.pdf",
+  "provider": "google-gemini",
+  "model": "gemini-3.5-flash-lite",
+  "selected_chunks": {
+    "core": [
+      "aig-do-aiggo-700a08f26a:p0001:c000",
+      "aig-do-aiggo-700a08f26a:p0002:c000",
+      "aig-do-aiggo-700a08f26a:p0003:c000",
+      "aig-do-aiggo-700a08f26a:p0005:c000",
+      "aig-do-aiggo-700a08f26a:p0013:c000",
+      "aig-do-aiggo-700a08f26a:p0014:c000",
+      "aig-do-aiggo-700a08f26a:p0022:c000",
+      "aig-do-aiggo-700a08f26a:p0031:c000",
+      "aig-do-aiggo-700a08f26a:p0032:c000",
+      "aig-do-aiggo-700a08f26a:p0033:c000",
+      "aig-do-aiggo-700a08f26a:p0042:c000",
+      "aig-do-aiggo-700a08f26a:p0043:c000",
+      "aig-do-aiggo-700a08f26a:p0052:c000",
+      "aig-do-aiggo-700a08f26a:p0053:c000"
+    ],
+    "risk_coverages_extensions": [
+      "aig-do-aiggo-700a08f26a:p0001:c000",
+      "aig-do-aiggo-700a08f26a:p0005:c000",
+      "aig-do-aiggo-700a08f26a:p0006:c000",
+      "aig-do-aiggo-700a08f26a:p0008:c000",
+      "aig-do-aiggo-700a08f26a:p0014:c000",
+      "aig-do-aiggo-700a08f26a:p0015:c000",
+      "aig-do-aiggo-700a08f26a:p0016:c000",
+      "aig-do-aiggo-700a08f26a:p0017:c000",
+      "aig-do-aiggo-700a08f26a:p0019:c000",
+      "aig-do-aiggo-700a08f26a:p0021:c000",
+      "aig-do-aiggo-700a08f26a:p0025:c000",
+      "aig-do-aiggo-700a08f26a:p0026:c000",
+      "aig-do-aiggo-700a08f26a:p0026:c001",
+      "aig-do-aiggo-700a08f26a:p0030:c000",
+      "aig-do-aiggo-700a08f26a:p0031:c000",
+      "aig-do-aiggo-700a08f26a:p0046:c000"
+    ],
+    "risk_exclusions": [
+      "aig-do-aiggo-700a08f26a:p0001:c000",
+      "aig-do-aiggo-700a08f26a:p0007:c000",
+      "aig-do-aiggo-700a08f26a:p0009:c000",
+      "aig-do-aiggo-700a08f26a:p0010:c000",
+      "aig-do-aiggo-700a08f26a:p0013:c000",
+      "aig-do-aiggo-700a08f26a:p0020:c000",
+      "aig-do-aiggo-700a08f26a:p0022:c000",
+      "aig-do-aiggo-700a08f26a:p0024:c000",
+      "aig-do-aiggo-700a08f26a:p0026:c000",
+      "aig-do-aiggo-700a08f26a:p0027:c000",
+      "aig-do-aiggo-700a08f26a:p0028:c000",
+      "aig-do-aiggo-700a08f26a:p0029:c000",
+      "aig-do-aiggo-700a08f26a:p0030:c000",
+      "aig-do-aiggo-700a08f26a:p0051:c000"
+    ],
+    "semantic_definitions": [
+      "aig-do-aiggo-700a08f26a:p0003:c000",
+      "aig-do-aiggo-700a08f26a:p0004:c000",
+      "aig-do-aiggo-700a08f26a:p0005:c000",
+      "aig-do-aiggo-700a08f26a:p0009:c000",
+      "aig-do-aiggo-700a08f26a:p0011:c000",
+      "aig-do-aiggo-700a08f26a:p0012:c000",
+      "aig-do-aiggo-700a08f26a:p0013:c000",
+      "aig-do-aiggo-700a08f26a:p0014:c000",
+      "aig-do-aiggo-700a08f26a:p0016:c000",
+      "aig-do-aiggo-700a08f26a:p0018:c000",
+      "aig-do-aiggo-700a08f26a:p0020:c000",
+      "aig-do-aiggo-700a08f26a:p0023:c000",
+      "aig-do-aiggo-700a08f26a:p0024:c000",
+      "aig-do-aiggo-700a08f26a:p0027:c000",
+      "aig-do-aiggo-700a08f26a:p0028:c000",
+      "aig-do-aiggo-700a08f26a:p0032:c000",
+      "aig-do-aiggo-700a08f26a:p0035:c000",
+      "aig-do-aiggo-700a08f26a:p0051:c000"
+    ],
+    "semantic_clauses": [
+      "aig-do-aiggo-700a08f26a:p0004:c000",
+      "aig-do-aiggo-700a08f26a:p0005:c000",
+      "aig-do-aiggo-700a08f26a:p0016:c000",
+      "aig-do-aiggo-700a08f26a:p0018:c000",
+      "aig-do-aiggo-700a08f26a:p0020:c000",
+      "aig-do-aiggo-700a08f26a:p0022:c000",
+      "aig-do-aiggo-700a08f26a:p0023:c000",
+      "aig-do-aiggo-700a08f26a:p0024:c000",
+      "aig-do-aiggo-700a08f26a:p0025:c000",
+      "aig-do-aiggo-700a08f26a:p0026:c000",
+      "aig-do-aiggo-700a08f26a:p0034:c001",
+      "aig-do-aiggo-700a08f26a:p0035:c000",
+      "aig-do-aiggo-700a08f26a:p0038:c000",
+      "aig-do-aiggo-700a08f26a:p0050:c000",
+      "aig-do-aiggo-700a08f26a:p0051:c000",
+      "aig-do-aiggo-700a08f26a:p0052:c000"
+    ]
+  },
+  "core": {
+    "policy_id_hint": null,
+    "scalar_facts": [
+      {
+        "field_id": "insurer",
+        "status": "FOUND",
+        "raw_value": "AIG Seguros Brasil S.A.",
+        "normalized_value": "AIG Seguros Brasil S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000",
+            "page_number": 13,
+            "excerpt": "Refere-se à AIG Seguros Brasil S.A.",
+            "section": "2. GLOSSÁRIO"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "product_name",
+        "status": "FOUND",
+        "raw_value": "SEGURO DE RESPONSABILIDADE PARA ADMINISTRADORES – D&O",
+        "normalized_value": "SEGURO DE RESPONSABILIDADE PARA ADMINISTRADORES – D&O",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0002:c000",
+            "page_number": 2,
+            "excerpt": "SEGURO DE RESPONSABILIDADE PARA ADMINISTRADORES – D&O",
+            "section": "CONDIÇÕES GERAIS"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "susep_process",
+        "status": "FOUND",
+        "raw_value": "15414.901229/2017-25",
+        "normalized_value": "15414.901229/2017-25",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0001:c000",
+            "page_number": 1,
+            "excerpt": "Processo SUSEP Principal nº 15414.901229/2017-25 – Ramo 0310",
+            "section": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "policy_number",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Caderno de Condições Gerais, número de apólice não aplicável."
+      },
+      {
+        "field_id": "insured",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Caderno de Condições Gerais, segurado específico consta na Especificação da Apólice."
+      },
+      {
+        "field_id": "policyholder",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Caderno de Condições Gerais, tomador específico consta na Especificação da Apólice."
+      },
+      {
+        "field_id": "document_version",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": null
+      },
+      {
+        "field_id": "policy_period_start",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Consta da Especificação da Apólice."
+      },
+      {
+        "field_id": "policy_period_end",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Consta da Especificação da Apólice."
+      },
+      {
+        "field_id": "currency",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Consta da Especificação da Apólice."
+      },
+      {
+        "field_id": "retroactive_date",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Consta da Especificação da Apólice."
+      },
+      {
+        "field_id": "extended_reporting_period",
+        "status": "NOT_FOUND",
+        "raw_value": null,
+        "normalized_value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "notes": "Prazo Adicional indicado na Especificação da Apólice."
+      },
+      {
+        "field_id": "geographic_scope",
+        "status": "FOUND",
+        "raw_value": "qualquer lugar do mundo",
+        "normalized_value": "Mundial",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0033:c000",
+            "page_number": 33,
+            "excerpt": "esta Apólice cobrirá qualquer Reclamação realizada contra uma Parte Segurada em qualquer lugar do mundo",
+            "section": "8.1. Território"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "jurisdiction",
+        "status": "FOUND",
+        "raw_value": "leis da República Federativa do Brasil",
+        "normalized_value": "Brasil",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0002:c000",
+            "page_number": 2,
+            "excerpt": "Esta Apólice será regida e interpretada de acordo com as leis da República Federativa do Brasil.",
+            "section": "CONDIÇÕES GERAIS"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "field_id": "coverage_trigger",
+        "status": "FOUND",
+        "raw_value": "Seguro à Base de Reclamações com Notificação",
+        "normalized_value": "Claims-made with notification",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0002:c000",
+            "page_number": 2,
+            "excerpt": "Seguro à Base de Reclamações com Notificação",
+            "section": "CONDIÇÕES GERAIS"
+          }
+        ],
+        "notes": null
+      }
+    ],
+    "financial_facts": [],
+    "warnings": [
+      "Documento é um caderno de Condições Gerais; dados específicos da apólice como segurado, prêmio e limites individuais devem ser consultados na Especificação da Apólice."
+    ]
+  },
+  "risk": {
+    "coverages": [
+      {
+        "canonical_id": "side_a",
+        "original_name": "GARANTIA A - Segurados",
+        "description": "Pagamento de Perdas Indenizáveis e Custos de Defesa de cada Segurado e de Diretor de Entidade Externa quando não indenizados pela Sociedade",
+        "category": "coverages",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0014:c000",
+            "page_number": 14,
+            "excerpt": "(i) GARANTIA A - Segurados\na) A Seguradora pagará as Perdas Indenizáveis de cada Segurado sempre que\ntal Segurado não tenha sido indenizado pela Sociedade por tal Custo de Defesa\ne/ou Perda Indenizável;",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "side_b",
+        "original_name": "GARANTIA B - Reembolso à Sociedade",
+        "description": "Reembolso à Sociedade caso esta efetue o pagamento de Custos de Defesa ou Perda Indenizável de um Segurado",
+        "category": "coverages",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0014:c000",
+            "page_number": 14,
+            "excerpt": "(ii) GARANTIA B - Reembolso à Sociedade\nSe uma Sociedade efetuar o pagamento de um Custo de Defesa ou de uma Perda\nIndenizável de um Segurado coberta pela Apólice, a Seguradora reembolsará a\nSociedade por tal Custo de Defesa e/ou Perda Indenizável.",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "extensions": [
+      {
+        "canonical_id": "outside_directorship",
+        "original_name": "Diretor de Entidade Externa",
+        "description": "Cobertura para Custos de Defesa e Perdas Indenizáveis de Reclamações contra Diretor de Entidade Externa",
+        "category": "extensions",
+        "conditions": [
+          "Atuando para ou em nome da Sociedade em uma Entidade Externa incluída de forma expressa na Apólice"
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0014:c000",
+            "page_number": 14,
+            "excerpt": "5.1 Diretor de Entidade Externa\nA Seguradora pagará , até o Limite Máximo de Custos de Defesa e o Limite Máximo de\nPerdas Indenizáveis os Custos de Defesa e as Perdas Indenizáveis das Reclamações\napresentadas contra um Diretor de Entidade Externa",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "asset_and_liberty",
+        "original_name": "Bens e Liberdade",
+        "description": "Pagamento de Custos de Fiança e Caução Judicial ou Custos de Processo de Bens e Liberdade",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0015:c000",
+            "page_number": 15,
+            "excerpt": "5.2 Bens e Liberdade\nA Seguradora pagará, até o Limite Máximo de Custos de Defesa estabelecido na\nEspecificação da Apólice:\n(i) quaisquer Custos de Fiança e Caução Judicial de um Segurado; ou\n(ii) quaisquer Custos de Processo de Bens e Liberdade de um Segurado.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "asset_freeze_online_seizure",
+        "original_name": "Bloqueio e Indisponibilidade de Bens",
+        "description": "Adiantamento de despesas mensais em caso de bloqueio via SISBAJUD ou pagamento por indisponibilidade de bens pessoais",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0016:c000",
+            "page_number": 16,
+            "excerpt": "5.3 Bloqueio e Indisponibilidade de Bens\nContratada esta extensão de cobertura e sujeito ao Limite Máximo de Custos de Defesa e\no Limite Máximo de Perdas Indenizáveis estabelecido na Especificação da Apólice",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "extradition_costs",
+        "original_name": "Custos de Extradição",
+        "description": "Pagamento de Custos de Processo de Extradição de um Segurado",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0019:c000",
+            "page_number": 19,
+            "excerpt": "5.6 Custos de Extradição\nA Seguradora pagará até o Limite Máximo de Custos de Defesa os Custos de Processo\nde Extradição de um Segurado.",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "investigation_coverage",
+        "original_name": "Custos de Investigação",
+        "description": "Pagamento de custos, despesas e honorários relacionados à preparação para ou participação na Investigação",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0019:c000",
+            "page_number": 19,
+            "excerpt": "5.7 Custos de Investigação\nA Seguradora pagará, até o Limite Máximo de Custos de Defesa e o Limite Máximo de\nPerdas Indenizáveis estabelecido na Especificação da Apólice, os custos, despesas e\nhonorários",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "new_subsidiaries",
+        "original_name": "Novas Subsidiárias",
+        "description": "Extensão de cobertura para entidades adquiridas ou controladas durante o Período de Vigência",
+        "category": "extensions",
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0021:c000",
+            "page_number": 21,
+            "excerpt": "5.9 Novas Subsidiárias\nSe o Tomador ou uma Organização adquirir ou obtiver, durante o Período de Vigência,\ndireta ou indiretamente, através de uma ou mais de suas Subsidiárias...",
+            "section": null
+          }
+        ]
+      },
+      {
+        "canonical_id": "heirs_estates_representatives",
+        "original_name": "Herdeiros, Sucessores, Representantes Legais, Espólio, Cônjuge e/ou Companheiro(a) das Partes Seguradas",
+        "description": "Pagamento de Custos de Defesa e Perdas Indenizáveis para Reclamações contra herdeiros, sucessores, representantes legais, espólio e cônjuge ou companheiro(a)",
+        "category": "extensions",
+        "conditions": [
+          "Se o Segurado tiver falecido ou tiver sido declarado legalmente incapaz ou insolvente"
+        ],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0026:c000",
+            "page_number": 26,
+            "excerpt": "5.18 Herdeiros, Sucessores, Representantes Legais, Espólio, Cônjuge e/ou Companheiro(a)\ndas Partes Seguradas\nContratada esta extensão de cobertura e observado o Limite Máximo de Custos de Defesa\ne o Limite Máximo de Perdas Indenizáveis constante na Especificação da Apólice, a\nSeguradora pagará os Custos de Defesa e as Perdas Indenizáveis para as Reclamações\napresentadas contra os herdeiros, sucessores, representantes legais e/ou o espólio do\nSegurado, bem como contra o(a) cônjuge ou companheiro(a) da Parte Segurada",
+            "section": null
+          }
+        ]
+      }
+    ],
+    "exclusions": [
+      {
+        "canonical_id": "fraud_or_dishonesty",
+        "original_name": "Conduta",
+        "description": "Exclusão de ato danoso destinado a assegurar lucro ou vantagem indevida, ou ato ilícito cometido com dolo ou culpa grave equiparável ao dolo, fraude ou infração criminal.",
+        "category": null,
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0027:c000",
+            "page_number": 27,
+            "excerpt": "6.1. Conduta:\n(i) um Ato Danoso destinado a assegurar ou que assegure o ganho de lucro ou vantagem ao qual a Parte Segurada não tenha direito; ou\n(ii) um ato ilícito cometido com dolo ou culpa grave equiparável ao dolo pela Parte Segurada...",
+            "section": "6. EXCLUSÕES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "pollution",
+        "original_name": "Danos Ambientais",
+        "description": "Exclusão de qualquer dano ambiental efetivo, suposto ou ameaçado, incluindo descarga, dispensa, liberação ou vazamento de Poluentes.",
+        "category": null,
+        "conditions": [],
+        "exceptions": [],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000",
+            "page_number": 28,
+            "excerpt": "6.2. Danos Ambientais\nqualquer dano ambiental efetivo, suposto ou ameaçado, incluindo, mas não limitando\na, descarga, dispensa, liberação ou vazamento de Poluentes...",
+            "section": "6. EXCLUSÕES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "bodily_injury_property_damage",
+        "original_name": "Danos Morais, Danos Materiais, e Danos Corporais",
+        "description": "Exclusão de quaisquer Danos Morais, Danos Materiais e Danos Corporais, com ressalvas específicas.",
+        "category": null,
+        "conditions": [],
+        "exceptions": [
+          "às Perdas Indenizáveis decorrentes de qualquer Reclamação por Danos Morais, caso a Extensão de Cobertura para Danos Morais seja contratada",
+          "às Perdas Indenizáveis decorrentes de qualquer Reclamação por Prática Trabalhista Indevida",
+          "às Perdas Indenizáveis decorrentes de uma Reclamação apresentada contra um Segurado por acionistas",
+          "às Perdas Indenizáveis decorrentes de desconsideração da personalidade jurídica",
+          "aos Custos de Defesa de um Segurado"
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000",
+            "page_number": 28,
+            "excerpt": "6.3. Danos Morais, Danos Materiais, e Danos Corporais\nQuaisquer Danos Morais, Danos Materiais e Danos Corporais. Fica ressalvado, entanto, que esta exclusão não se aplicará...",
+            "section": "6. EXCLUSÕES"
+          }
+        ]
+      },
+      {
+        "canonical_id": "prior_claims_or_circumstances",
+        "original_name": "Reclamações e Circunstâncias Anteriores",
+        "description": "Exclusão de fatos ou Atos Danosos alegados em notificações ou avisos anteriores a seguradora anterior, processos anteriores à Data de Continuidade, ou demandas cujos fatos já eram de conhecimento prévio.",
+        "category": null,
+        "conditions": [],
+        "exceptions": [
+          "à parte do Custo de Defesa e/ou da Perda Indenizável resultante de responsabilidade imposta face a aplicação por um juiz da desconsideração da personalidade jurídica de uma Sociedade"
+        ],
+        "applies_to": [],
+        "financials": [],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0029:c000",
+            "page_number": 29,
+            "excerpt": "6.6. Reclamações e Circunstâncias Anteriores\n(i) fatos ou Atos Danosos alegados ou referidos em qualquer:\na) Notificação; ou\nb) Aviso de Sinistro\na uma companhia seguradora de apólice anterior...",
+            "section": "6. EXCLUSÕES"
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "semantic": {
+    "definitions": [
+      {
+        "canonical_term": "wrongful_act",
+        "original_term": "Ato Danoso ou Fato Gerador",
+        "definition_text": "Qualquer acontecimento que produza danos, garantido pela Apólice, e atribuído, por terceiros pretensamente prejudicados ou uma autoridade pública, à responsabilidade da Parte Segurada",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0003:c000",
+            "page_number": 3,
+            "excerpt": "1.5. Ato Danoso ou Fato Gerador\nQualquer acontecimento que produza danos, garantido pela Apólice, e atribuído, por terceiros\npretensamente prejudicados ou uma autoridade pública, à responsabilidade da Parte\nSegurada",
+            "section": "1.5"
+          }
+        ]
+      },
+      {
+        "canonical_term": "defense_costs",
+        "original_term": "Custos de Defesa",
+        "definition_text": "São todos os emolumentos, honorários advocatícios, honorários periciais, custas judiciais, arbitrais ou aquelas decorrentes de mediação previa à arbitragem, e demais despesas",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0005:c000",
+            "page_number": 5,
+            "excerpt": "2.5. Custos de Defesa\nSão todos os emolumentos, honorários advocatícios, honorários periciais, custas judiciais,\narbitrais ou aquelas decorrentes de mediação previa à arbitragem, e demais despesas",
+            "section": "2.5"
+          }
+        ]
+      },
+      {
+        "canonical_term": "loss",
+        "original_term": "Perda Indenizável",
+        "definition_text": "Indenização (incluindo lucros cessantes e danos punitivos e exemplares e de porção multiplicada de danos múltiplos) e custas judiciais do reclamante pelas quais a Parte Segurada seja legalmente responsável",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0009:c000",
+            "page_number": 9,
+            "excerpt": "2.26. Perda Indenizável\n(i) Indenização (incluindo lucros cessantes e danos punitivos e exemplares e de porção\nmultiplicada de danos múltiplos) e custas judiciais do reclamante pelas quais a Parte\nSegurada seja legalmente responsável, tais como custos e despesas legais do\nreclamante;",
+            "section": "2.26"
+          }
+        ]
+      },
+      {
+        "canonical_term": "claim",
+        "original_term": "Reclamação",
+        "definition_text": "Uma reivindicação ou um requerimento escrito ou um processo judicial, administrativo ou arbitral contra um Segurado decorrente de um Ato Danoso",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0011:c000",
+            "page_number": 11,
+            "excerpt": "2.33. Reclamação\n(i) Uma reivindicação ou um requerimento escrito ou um processo judicial, administrativo\nou arbitral, incluindo, mas não se limitando, àqueles de natureza cível, trabalhista,\ntributária, consumerista ou previdenciária ou de natureza criminal, contra um Segurado\ndecorrente de um Ato Danoso",
+            "section": "2.33"
+          }
+        ]
+      },
+      {
+        "canonical_term": "insured_person",
+        "original_term": "Segurado",
+        "definition_text": "Qualquer pessoa física que seja, tenha sido ou se torne um Conselheiro ou Diretor, Empregado, ou contratado por meio de pessoa jurídica",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0012:c000",
+            "page_number": 12,
+            "excerpt": "2.38. Segurado\nQualquer pessoa física que seja, tenha sido ou se torne um:\n(i) Conselheiro ou Diretor de uma Sociedade desde que atuando em sua função na\nSociedade;\n(ii) Empregado de uma Sociedade\n(iii) Qualquer indivíduo contratado por meio de uma pessoa jurídica",
+            "section": "2.38"
+          }
+        ]
+      },
+      {
+        "canonical_term": "company",
+        "original_term": "Sociedade",
+        "definition_text": "Corresponde ao Tomador, Organizações e qualquer Subsidiária.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000",
+            "page_number": 13,
+            "excerpt": "2.41. Sociedade\nCorresponde ao Tomador, Organizações e qualquer Subsidiária.",
+            "section": "2.41"
+          }
+        ]
+      },
+      {
+        "canonical_term": "subsidiary",
+        "original_term": "Subsidiária",
+        "definition_text": "Uma entidade na qual o Tomador ou uma Organização, direta ou indiretamente, detenha controle de administração, capital votante ou capital social",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000",
+            "page_number": 13,
+            "excerpt": "2.42. Subsidiária\nUma entidade na qual o Tomador ou uma Organização, direta ou indiretamente, por\nintermédio de uma ou mais entidades:\n(i) detenha o direito exclusivo de eleger, indicar ou nomear a maior parte dos membros do\nconselho de administração\n(ii) detenha mais da metade do capital votante; ou\n(iii) detenha mais da metade do capital social",
+            "section": "2.42"
+          }
+        ]
+      },
+      {
+        "canonical_term": "investigation",
+        "original_term": "Investigação",
+        "definition_text": "Qualquer investigação, inquérito ou audiência formal ou oficial sobre os negócios da Sociedade, ou de um Segurado na qualidade de Segurado da referida Sociedade",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0020:c000",
+            "page_number": 20,
+            "excerpt": "Investigação\nQualquer investigação, inquérito ou audiência formal ou oficial sobre os negócios da\nSociedade, ou de um Segurado na qualidade de Segurado da referida Sociedade",
+            "section": "Investigacao"
+          }
+        ]
+      }
+    ],
+    "clauses": [
+      {
+        "canonical_id": "advancement_of_defense_costs",
+        "original_name": "Adiantamentos de Custos de Defesa",
+        "summary": "A Seguradora adiantará os Custos de Defesa, Custos de Investigação e demais custos cobertos antes da decisão final sobre a procedência da Reclamação.",
+        "conditions": [
+          "Os pagamentos antecipados devem ser reembolsados caso a Parte Segurada não tenha direito ao pagamento sob os termos da Apólice.",
+          "O adiantamento requer compromisso escrito da Parte Segurada para atender às obrigações da Apólice e ressarcir a Seguradora."
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0034:c001",
+            "page_number": 34,
+            "excerpt": "8.5. Adiantamentos de Custos de Defesa\nA Seguradora adiantará à Parte Segurada, antes da decisão final acerca da procedência da Reclamação, os Custos de Defesa, Custos de Investigação, quando contratada Extensão de Cobertura para Custos de Investigação e conforme definição nela contida, e os demais custos cobertos nas coberturas previstas nesta Apólice.",
+            "section": "8.5"
+          }
+        ]
+      },
+      {
+        "canonical_id": "allocation",
+        "original_name": "Alocação",
+        "summary": "Determina a alocação justa e correta de Custos de Defesa e Perdas Indenizáveis entre Sociedade, Parte Segurada e Seguradora nos casos de responsabilidade solidária ou de matérias cobertas e não cobertas.",
+        "conditions": [
+          "A Seguradora responde exclusivamente por Custos de Defesa ou Perdas Indenizáveis resultantes de Reclamação coberta contra Segurado coberto."
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0035:c000",
+            "page_number": 35,
+            "excerpt": "8.7. Alocação\nA Seguradora só será responsável por pagar os Custos de Defesa ou Perdas Indenizáveis resultantes exclusivamente de uma Reclamação apresentada contra um Segurado que esteja coberta.",
+            "section": "8.7"
+          }
+        ]
+      },
+      {
+        "canonical_id": "claim_notice",
+        "original_name": "Aviso de Sinistro e Notificação",
+        "summary": "Regula as obrigações e prazos para apresentação de Reclamações e Notificações à Seguradora.",
+        "conditions": [
+          "Toda Reclamação deve ser apresentada à Seguradora tão logo a Parte Segurada tome conhecimento.",
+          "A ausência de comunicação imediata que impossibilite a apuração das causas e circunstâncias do evento acarreta a perda do direito à indenização."
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0038:c000",
+            "page_number": 38,
+            "excerpt": "8.12. Aviso de Sinistro e Notificação\n(i) Toda Reclamação deve ser apresentada à Seguradora tão logo a Parte Segurada tome conhecimento da Reclamação.",
+            "section": "8.12"
+          }
+        ]
+      },
+      {
+        "canonical_id": "cooperation",
+        "original_name": "Cooperação",
+        "summary": "Estabelece os deveres de cooperação da Parte Segurada perante a Seguradora como condição para as obrigações da apólice.",
+        "conditions": [
+          "Informar prontamente a Seguradora sobre comunicações que possam gerar Reclamação futura.",
+          "Fornecer detalhes, documentos e comparecer a atos processuais quando solicitado."
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0050:c000",
+            "page_number": 50,
+            "excerpt": "9.12. Cooperação\nComo condição às obrigações da Seguradora, a Parte Segurada deverá, a seu próprio custo:\na) informar prontamente a Seguradora das comunicações recebidas que possam gerar Reclamação futura;",
+            "section": "9.12"
+          }
+        ]
+      },
+      {
+        "canonical_id": "extended_reporting_period",
+        "original_name": "Prazo Adicional",
+        "summary": "Define a extensão de prazo para apresentação de Reclamações após o término da vigência ou cancelamento da Apólice em hipóteses específicas.",
+        "conditions": [
+          "Aplicável quando a apólice não for renovada, for transferida sem admitir o período de retroatividade, ou cancelada por motivos específicos previstos."
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0052:c000",
+            "page_number": 52,
+            "excerpt": "9.20. Prazo Adicional\nO Prazo Adicional indicado na Especificação da Apólice será contado a partir do cancelamento da Apólice ou do término do Período de Vigência da Apólice, durante o qual terceiros podem apresentar à Parte Segurada uma Reclamação por um Ato Danoso",
+            "section": "9.20"
+          }
+        ]
+      },
+      {
+        "canonical_id": "priority_of_payments",
+        "original_name": "Ordem dos Pagamentos",
+        "summary": "Estipula a prioridade e a ordem pela qual os pagamentos de Custos de Defesa e Perdas Indenizáveis devem ser realizados pela Seguradora.",
+        "conditions": [
+          "Primeiro é feito o pagamento por Custo de Defesa e/ou Perda Indenizável coberta pela Cobertura Básica."
+        ],
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0051:c000",
+            "page_number": 51,
+            "excerpt": "9.18. Ordem dos Pagamentos\nNo caso de Custos de Defesa e/ou Perdas Indenizáveis resultantes de uma Reclamação para a qual o pagamento seja devido mediante os termos desta Apólice, a Seguradora deverá em qualquer caso:\n(i) primeiro, será feito pagamento por Custo de Defesa e/ou pela Perda Indenizável coberta pela Cobertura Básica, prevista nas Condições Especiais desta Apólice;",
+            "section": "9.18"
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  "evidence_report": {
+    "total_claims": 33,
+    "valid_claims": 33,
+    "invalid_claims": 0,
+    "repaired_claims": 4,
+    "recovered_claims": 3,
+    "issues": [],
+    "repairs": [
+      {
+        "extractor": "risk",
+        "object_type": "extension",
+        "object_name": "Novas Subsidiárias",
+        "chunk_id": "aig-do-aiggo-700a08f26a:p0021:c000",
+        "page_number": 21,
+        "original_excerpt": "5.9 Novas Subsidiárias\nSe o Tomador ou uma Organização adquirir ou obtiver, durante o Período de Vigência,\ndireta ou indiretamente, através de uma ou mais de suas Subsidiárias...",
+        "repaired_excerpt": "5.9 Novas Subsidiárias\nSe o Tomador ou uma Organização adquirir ou obtiver, durante o Período de Vigência,\ndireta ou indiretamente, através de uma ou mais de suas Subsidiárias:",
+        "similarity": 0.9887005649717514
+      },
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "Conduta",
+        "chunk_id": "aig-do-aiggo-700a08f26a:p0027:c000",
+        "page_number": 27,
+        "original_excerpt": "6.1. Conduta:\n(i) um Ato Danoso destinado a assegurar ou que assegure o ganho de lucro ou vantagem ao qual a Parte Segurada não tenha direito; ou\n(ii) um ato ilícito cometido com dolo ou culpa grave equiparável ao dolo pela Parte Segurada...",
+        "repaired_excerpt": "6.1. Conduta:\n(i) um Ato Danoso destinado a assegurar ou que assegure o ganho de lucro ou\nvantagem ao qual a Parte Segurada não tenha direito; ou\n(ii) um ato ilícito cometido com dolo ou culpa grave equiparável ao dolo pela Parte",
+        "similarity": 0.9744680851063829
+      },
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "Danos Morais, Danos Materiais, e Danos Corporais",
+        "chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000",
+        "page_number": 28,
+        "original_excerpt": "6.3. Danos Morais, Danos Materiais, e Danos Corporais\nQuaisquer Danos Morais, Danos Materiais e Danos Corporais. Fica ressalvado, entanto, que esta exclusão não se aplicará...",
+        "repaired_excerpt": "6.3. Danos Morais, Danos Materiais, e Danos Corporais\nQuaisquer Danos Morais, Danos Materiais e Danos Corporais. Fica ressalvado,\nentretanto, que esta exclusão não se aplicará:",
+        "similarity": 0.98005698005698
+      },
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "Reclamações e Circunstâncias Anteriores",
+        "chunk_id": "aig-do-aiggo-700a08f26a:p0029:c000",
+        "page_number": 29,
+        "original_excerpt": "6.6. Reclamações e Circunstâncias Anteriores\n(i) fatos ou Atos Danosos alegados ou referidos em qualquer:\na) Notificação; ou\nb) Aviso de Sinistro\na uma companhia seguradora de apólice anterior...",
+        "repaired_excerpt": "6.6. Reclamações e Circunstâncias Anteriores\n(i) fatos ou Atos Danosos alegados ou referidos em qualquer:\na) Notificação; ou\nb) Aviso de Sinistro\na uma companhia seguradora de apólice anterior;",
+        "similarity": 0.9896907216494846
+      }
+    ],
+    "recoveries": [
+      {
+        "extractor": "risk",
+        "object_type": "exclusion",
+        "object_name": "Danos Ambientais",
+        "original_chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000",
+        "original_page_number": 28,
+        "original_excerpt": "6.2. Danos Ambientais\nqualquer dano ambiental efetivo, suposto ou ameaçado, incluindo, mas não limitando\na, descarga, dispensa, liberação ou vazamento de Poluentes...",
+        "recovered_chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000",
+        "recovered_page_number": 28,
+        "recovered_excerpt": "6.2. Danos Ambientais\nqualquer dano ambiental efetivo, suposto ou ameaçado, incluindo, mas não limitando\na, descarga, dispensa, liberação ou vazamento de Poluentes, os registros e",
+        "matched_term": "Danos Ambientais"
+      },
+      {
+        "extractor": "semantic",
+        "object_type": "definition",
+        "object_name": "Segurado",
+        "original_chunk_id": "aig-do-aiggo-700a08f26a:p0012:c000",
+        "original_page_number": 12,
+        "original_excerpt": "2.38. Segurado\nQualquer pessoa física que seja, tenha sido ou se torne um:\n(i) Conselheiro ou Diretor de uma Sociedade desde que atuando em sua função na\nSociedade;\n(ii) Empregado de uma Sociedade\n(iii) Qualquer indivíduo contratado por meio de uma pessoa jurídica",
+        "recovered_chunk_id": "aig-do-aiggo-700a08f26a:p0012:c000",
+        "recovered_page_number": 12,
+        "recovered_excerpt": "2.38. Segurado\nQualquer pessoa física que seja, tenha sido ou se torne um:\n(i) Conselheiro ou Diretor de uma Sociedade desde que atuando em sua função na",
+        "matched_term": "Segurado"
+      },
+      {
+        "extractor": "semantic",
+        "object_type": "definition",
+        "object_name": "Subsidiária",
+        "original_chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000",
+        "original_page_number": 13,
+        "original_excerpt": "2.42. Subsidiária\nUma entidade na qual o Tomador ou uma Organização, direta ou indiretamente, por\nintermédio de uma ou mais entidades:\n(i) detenha o direito exclusivo de eleger, indicar ou nomear a maior parte dos membros do\nconselho de administração\n(ii) detenha mais da metade do capital votante; ou\n(iii) detenha mais da metade do capital social",
+        "recovered_chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000",
+        "recovered_page_number": 13,
+        "recovered_excerpt": "2.42. Subsidiária\nUma entidade na qual o Tomador ou uma Organização, direta ou indiretamente, por\nintermédio de uma ou mais entidades:",
+        "matched_term": "Subsidiaria"
+      }
+    ]
+  },
+  "policy_json": {
+    "policy_id": "aig-do-aiggo-700a08f26a",
+    "source_documents": [
+      {
+        "document_id": "aig-do-aiggo-700a08f26a",
+        "source_file": "aig_do_aiggo.pdf",
+        "sha256": "700a08f26ab8fd56244b9519c36879627e9fdfd4149366a0d186176ffc5c52c0",
+        "page_count": 72,
+        "language": "pt-BR",
+        "document_type": "GENERAL_CONDITIONS",
+        "origin": "PUBLIC_REAL"
+      }
+    ],
+    "identification": {
+      "insurer": {
+        "status": "FOUND",
+        "value": "AIG Seguros Brasil S.A.",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 13,
+            "section": "2. GLOSSÁRIO",
+            "excerpt": "Refere-se à AIG Seguros Brasil S.A.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "product_name": {
+        "status": "FOUND",
+        "value": "SEGURO DE RESPONSABILIDADE PARA ADMINISTRADORES – D&O",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 2,
+            "section": "CONDIÇÕES GERAIS",
+            "excerpt": "SEGURO DE RESPONSABILIDADE PARA ADMINISTRADORES – D&O",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0002:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "susep_process": {
+        "status": "FOUND",
+        "value": "15414.901229/2017-25",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 1,
+            "section": null,
+            "excerpt": "Processo SUSEP Principal nº 15414.901229/2017-25 – Ramo 0310",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0001:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "policy_number": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Caderno de Condições Gerais, número de apólice não aplicável."
+      },
+      "insured": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Caderno de Condições Gerais, segurado específico consta na Especificação da Apólice."
+      },
+      "policyholder": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Caderno de Condições Gerais, tomador específico consta na Especificação da Apólice."
+      },
+      "document_version": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": null
+      }
+    },
+    "contractual_terms": {
+      "policy_period": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": null
+      },
+      "currency": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Consta da Especificação da Apólice."
+      },
+      "premium": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": null,
+        "evidence": [],
+        "candidates": [],
+        "notes": null
+      },
+      "retroactive_date": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Consta da Especificação da Apólice."
+      },
+      "extended_reporting_period": {
+        "status": "NOT_FOUND",
+        "value": null,
+        "confidence": 1.0,
+        "evidence": [],
+        "candidates": [],
+        "notes": "Prazo Adicional indicado na Especificação da Apólice."
+      },
+      "geographic_scope": {
+        "status": "FOUND",
+        "value": "Mundial",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 33,
+            "section": "8.1. Território",
+            "excerpt": "esta Apólice cobrirá qualquer Reclamação realizada contra uma Parte Segurada em qualquer lugar do mundo",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0033:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "jurisdiction": {
+        "status": "FOUND",
+        "value": "Brasil",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 2,
+            "section": "CONDIÇÕES GERAIS",
+            "excerpt": "Esta Apólice será regida e interpretada de acordo com as leis da República Federativa do Brasil.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0002:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "coverage_trigger": {
+        "status": "FOUND",
+        "value": "Claims-made with notification",
+        "confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 2,
+            "section": "CONDIÇÕES GERAIS",
+            "excerpt": "Seguro à Base de Reclamações com Notificação",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0002:c000"
+          }
+        ],
+        "candidates": [],
+        "notes": null
+      },
+      "geographic_scope_canonical": "WORLDWIDE",
+      "jurisdiction_canonical": "BR",
+      "coverage_trigger_canonical": "CLAIMS_MADE_WITH_NOTIFICATION"
+    },
+    "policy_limits": [],
+    "policy_deductibles": [],
+    "coverages": [
+      {
+        "canonical_id": "side_a",
+        "original_name": "GARANTIA A - Segurados",
+        "description": "Pagamento de Perdas Indenizáveis e Custos de Defesa de cada Segurado e de Diretor de Entidade Externa quando não indenizados pela Sociedade",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 14,
+            "section": null,
+            "excerpt": "(i) GARANTIA A - Segurados\na) A Seguradora pagará as Perdas Indenizáveis de cada Segurado sempre que\ntal Segurado não tenha sido indenizado pela Sociedade por tal Custo de Defesa\ne/ou Perda Indenizável;",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0014:c000"
+          }
+        ],
+        "category": "coverages",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "side_b",
+        "original_name": "GARANTIA B - Reembolso à Sociedade",
+        "description": "Reembolso à Sociedade caso esta efetue o pagamento de Custos de Defesa ou Perda Indenizável de um Segurado",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 14,
+            "section": null,
+            "excerpt": "(ii) GARANTIA B - Reembolso à Sociedade\nSe uma Sociedade efetuar o pagamento de um Custo de Defesa ou de uma Perda\nIndenizável de um Segurado coberta pela Apólice, a Seguradora reembolsará a\nSociedade por tal Custo de Defesa e/ou Perda Indenizável.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0014:c000"
+          }
+        ],
+        "category": "coverages",
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      }
+    ],
+    "extensions": [
+      {
+        "canonical_id": "outside_directorship",
+        "original_name": "Diretor de Entidade Externa",
+        "description": "Cobertura para Custos de Defesa e Perdas Indenizáveis de Reclamações contra Diretor de Entidade Externa",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 14,
+            "section": null,
+            "excerpt": "5.1 Diretor de Entidade Externa\nA Seguradora pagará , até o Limite Máximo de Custos de Defesa e o Limite Máximo de\nPerdas Indenizáveis os Custos de Defesa e as Perdas Indenizáveis das Reclamações\napresentadas contra um Diretor de Entidade Externa",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0014:c000"
+          }
+        ],
+        "conditions": [
+          "Atuando para ou em nome da Sociedade em uma Entidade Externa incluída de forma expressa na Apólice"
+        ],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "asset_and_liberty_proceedings",
+        "original_name": "Bens e Liberdade",
+        "description": "Pagamento de Custos de Fiança e Caução Judicial ou Custos de Processo de Bens e Liberdade",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 15,
+            "section": null,
+            "excerpt": "5.2 Bens e Liberdade\nA Seguradora pagará, até o Limite Máximo de Custos de Defesa estabelecido na\nEspecificação da Apólice:\n(i) quaisquer Custos de Fiança e Caução Judicial de um Segurado; ou\n(ii) quaisquer Custos de Processo de Bens e Liberdade de um Segurado.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0015:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "asset_freeze_online_seizure",
+        "original_name": "Bloqueio e Indisponibilidade de Bens",
+        "description": "Adiantamento de despesas mensais em caso de bloqueio via SISBAJUD ou pagamento por indisponibilidade de bens pessoais",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 16,
+            "section": null,
+            "excerpt": "5.3 Bloqueio e Indisponibilidade de Bens\nContratada esta extensão de cobertura e sujeito ao Limite Máximo de Custos de Defesa e\no Limite Máximo de Perdas Indenizáveis estabelecido na Especificação da Apólice",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0016:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "extradition_costs",
+        "original_name": "Custos de Extradição",
+        "description": "Pagamento de Custos de Processo de Extradição de um Segurado",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 19,
+            "section": null,
+            "excerpt": "5.6 Custos de Extradição\nA Seguradora pagará até o Limite Máximo de Custos de Defesa os Custos de Processo\nde Extradição de um Segurado.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0019:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "investigation_coverage",
+        "original_name": "Custos de Investigação",
+        "description": "Pagamento de custos, despesas e honorários relacionados à preparação para ou participação na Investigação",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 19,
+            "section": null,
+            "excerpt": "5.7 Custos de Investigação\nA Seguradora pagará, até o Limite Máximo de Custos de Defesa e o Limite Máximo de\nPerdas Indenizáveis estabelecido na Especificação da Apólice, os custos, despesas e\nhonorários",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0019:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "new_subsidiaries",
+        "original_name": "Novas Subsidiárias",
+        "description": "Extensão de cobertura para entidades adquiridas ou controladas durante o Período de Vigência",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 21,
+            "section": null,
+            "excerpt": "5.9 Novas Subsidiárias\nSe o Tomador ou uma Organização adquirir ou obtiver, durante o Período de Vigência,\ndireta ou indiretamente, através de uma ou mais de suas Subsidiárias:",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0021:c000"
+          }
+        ],
+        "conditions": [],
+        "limits": [],
+        "deductibles": []
+      },
+      {
+        "canonical_id": "heirs_estates_representatives",
+        "original_name": "Herdeiros, Sucessores, Representantes Legais, Espólio, Cônjuge e/ou Companheiro(a) das Partes Seguradas",
+        "description": "Pagamento de Custos de Defesa e Perdas Indenizáveis para Reclamações contra herdeiros, sucessores, representantes legais, espólio e cônjuge ou companheiro(a)",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 26,
+            "section": null,
+            "excerpt": "5.18 Herdeiros, Sucessores, Representantes Legais, Espólio, Cônjuge e/ou Companheiro(a)\ndas Partes Seguradas\nContratada esta extensão de cobertura e observado o Limite Máximo de Custos de Defesa\ne o Limite Máximo de Perdas Indenizáveis constante na Especificação da Apólice, a\nSeguradora pagará os Custos de Defesa e as Perdas Indenizáveis para as Reclamações\napresentadas contra os herdeiros, sucessores, representantes legais e/ou o espólio do\nSegurado, bem como contra o(a) cônjuge ou companheiro(a) da Parte Segurada",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0026:c000"
+          }
+        ],
+        "conditions": [
+          "Se o Segurado tiver falecido ou tiver sido declarado legalmente incapaz ou insolvente"
+        ],
+        "limits": [],
+        "deductibles": []
+      }
+    ],
+    "exclusions": [
+      {
+        "canonical_id": "fraud_or_dishonesty",
+        "original_name": "Conduta",
+        "description": "Exclusão de ato danoso destinado a assegurar lucro ou vantagem indevida, ou ato ilícito cometido com dolo ou culpa grave equiparável ao dolo, fraude ou infração criminal.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 27,
+            "section": "6. EXCLUSÕES",
+            "excerpt": "6.1. Conduta:\n(i) um Ato Danoso destinado a assegurar ou que assegure o ganho de lucro ou\nvantagem ao qual a Parte Segurada não tenha direito; ou\n(ii) um ato ilícito cometido com dolo ou culpa grave equiparável ao dolo pela Parte",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0027:c000"
+          }
+        ],
+        "exceptions": [],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "pollution",
+        "original_name": "Danos Ambientais",
+        "description": "Exclusão de qualquer dano ambiental efetivo, suposto ou ameaçado, incluindo descarga, dispensa, liberação ou vazamento de Poluentes.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 28,
+            "section": "6. EXCLUSÕES",
+            "excerpt": "6.2. Danos Ambientais\nqualquer dano ambiental efetivo, suposto ou ameaçado, incluindo, mas não limitando\na, descarga, dispensa, liberação ou vazamento de Poluentes, os registros e",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000"
+          }
+        ],
+        "exceptions": [],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "bodily_injury_property_damage",
+        "original_name": "Danos Morais, Danos Materiais, e Danos Corporais",
+        "description": "Exclusão de quaisquer Danos Morais, Danos Materiais e Danos Corporais, com ressalvas específicas.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 28,
+            "section": "6. EXCLUSÕES",
+            "excerpt": "6.3. Danos Morais, Danos Materiais, e Danos Corporais\nQuaisquer Danos Morais, Danos Materiais e Danos Corporais. Fica ressalvado,\nentretanto, que esta exclusão não se aplicará:",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0028:c000"
+          }
+        ],
+        "exceptions": [
+          "às Perdas Indenizáveis decorrentes de qualquer Reclamação por Danos Morais, caso a Extensão de Cobertura para Danos Morais seja contratada",
+          "às Perdas Indenizáveis decorrentes de qualquer Reclamação por Prática Trabalhista Indevida",
+          "às Perdas Indenizáveis decorrentes de uma Reclamação apresentada contra um Segurado por acionistas",
+          "às Perdas Indenizáveis decorrentes de desconsideração da personalidade jurídica",
+          "aos Custos de Defesa de um Segurado"
+        ],
+        "applies_to": []
+      },
+      {
+        "canonical_id": "prior_claims_or_circumstances",
+        "original_name": "Reclamações e Circunstâncias Anteriores",
+        "description": "Exclusão de fatos ou Atos Danosos alegados em notificações ou avisos anteriores a seguradora anterior, processos anteriores à Data de Continuidade, ou demandas cujos fatos já eram de conhecimento prévio.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 29,
+            "section": "6. EXCLUSÕES",
+            "excerpt": "6.6. Reclamações e Circunstâncias Anteriores\n(i) fatos ou Atos Danosos alegados ou referidos em qualquer:\na) Notificação; ou\nb) Aviso de Sinistro\na uma companhia seguradora de apólice anterior;",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0029:c000"
+          }
+        ],
+        "exceptions": [
+          "à parte do Custo de Defesa e/ou da Perda Indenizável resultante de responsabilidade imposta face a aplicação por um juiz da desconsideração da personalidade jurídica de uma Sociedade"
+        ],
+        "applies_to": []
+      }
+    ],
+    "definitions": [
+      {
+        "canonical_term": "wrongful_act",
+        "original_term": "Ato Danoso ou Fato Gerador",
+        "definition_text": "Qualquer acontecimento que produza danos, garantido pela Apólice, e atribuído, por terceiros pretensamente prejudicados ou uma autoridade pública, à responsabilidade da Parte Segurada",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 3,
+            "section": "1.5",
+            "excerpt": "1.5. Ato Danoso ou Fato Gerador\nQualquer acontecimento que produza danos, garantido pela Apólice, e atribuído, por terceiros\npretensamente prejudicados ou uma autoridade pública, à responsabilidade da Parte\nSegurada",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0003:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "defense_costs",
+        "original_term": "Custos de Defesa",
+        "definition_text": "São todos os emolumentos, honorários advocatícios, honorários periciais, custas judiciais, arbitrais ou aquelas decorrentes de mediação previa à arbitragem, e demais despesas",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 5,
+            "section": "2.5",
+            "excerpt": "2.5. Custos de Defesa\nSão todos os emolumentos, honorários advocatícios, honorários periciais, custas judiciais,\narbitrais ou aquelas decorrentes de mediação previa à arbitragem, e demais despesas",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0005:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "loss",
+        "original_term": "Perda Indenizável",
+        "definition_text": "Indenização (incluindo lucros cessantes e danos punitivos e exemplares e de porção multiplicada de danos múltiplos) e custas judiciais do reclamante pelas quais a Parte Segurada seja legalmente responsável",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 9,
+            "section": "2.26",
+            "excerpt": "2.26. Perda Indenizável\n(i) Indenização (incluindo lucros cessantes e danos punitivos e exemplares e de porção\nmultiplicada de danos múltiplos) e custas judiciais do reclamante pelas quais a Parte\nSegurada seja legalmente responsável, tais como custos e despesas legais do\nreclamante;",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0009:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "claim",
+        "original_term": "Reclamação",
+        "definition_text": "Uma reivindicação ou um requerimento escrito ou um processo judicial, administrativo ou arbitral contra um Segurado decorrente de um Ato Danoso",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 11,
+            "section": "2.33",
+            "excerpt": "2.33. Reclamação\n(i) Uma reivindicação ou um requerimento escrito ou um processo judicial, administrativo\nou arbitral, incluindo, mas não se limitando, àqueles de natureza cível, trabalhista,\ntributária, consumerista ou previdenciária ou de natureza criminal, contra um Segurado\ndecorrente de um Ato Danoso",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0011:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "insured_person",
+        "original_term": "Segurado",
+        "definition_text": "Qualquer pessoa física que seja, tenha sido ou se torne um Conselheiro ou Diretor, Empregado, ou contratado por meio de pessoa jurídica",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 12,
+            "section": "2.38",
+            "excerpt": "2.38. Segurado\nQualquer pessoa física que seja, tenha sido ou se torne um:\n(i) Conselheiro ou Diretor de uma Sociedade desde que atuando em sua função na",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0012:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "company",
+        "original_term": "Sociedade",
+        "definition_text": "Corresponde ao Tomador, Organizações e qualquer Subsidiária.",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 13,
+            "section": "2.41",
+            "excerpt": "2.41. Sociedade\nCorresponde ao Tomador, Organizações e qualquer Subsidiária.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "subsidiary",
+        "original_term": "Subsidiária",
+        "definition_text": "Uma entidade na qual o Tomador ou uma Organização, direta ou indiretamente, detenha controle de administração, capital votante ou capital social",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 13,
+            "section": "2.42",
+            "excerpt": "2.42. Subsidiária\nUma entidade na qual o Tomador ou uma Organização, direta ou indiretamente, por\nintermédio de uma ou mais entidades:",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0013:c000"
+          }
+        ]
+      },
+      {
+        "canonical_term": "investigation",
+        "original_term": "Investigação",
+        "definition_text": "Qualquer investigação, inquérito ou audiência formal ou oficial sobre os negócios da Sociedade, ou de um Segurado na qualidade de Segurado da referida Sociedade",
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 20,
+            "section": "Investigacao",
+            "excerpt": "Investigação\nQualquer investigação, inquérito ou audiência formal ou oficial sobre os negócios da\nSociedade, ou de um Segurado na qualidade de Segurado da referida Sociedade",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0020:c000"
+          }
+        ]
+      }
+    ],
+    "clauses": [
+      {
+        "canonical_id": "advancement_of_defense_costs",
+        "original_name": "Adiantamentos de Custos de Defesa",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 34,
+            "section": "8.5",
+            "excerpt": "8.5. Adiantamentos de Custos de Defesa\nA Seguradora adiantará à Parte Segurada, antes da decisão final acerca da procedência da Reclamação, os Custos de Defesa, Custos de Investigação, quando contratada Extensão de Cobertura para Custos de Investigação e conforme definição nela contida, e os demais custos cobertos nas coberturas previstas nesta Apólice.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0034:c001"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "A Seguradora adiantará os Custos de Defesa, Custos de Investigação e demais custos cobertos antes da decisão final sobre a procedência da Reclamação.",
+        "conditions": [
+          "Os pagamentos antecipados devem ser reembolsados caso a Parte Segurada não tenha direito ao pagamento sob os termos da Apólice.",
+          "O adiantamento requer compromisso escrito da Parte Segurada para atender às obrigações da Apólice e ressarcir a Seguradora."
+        ]
+      },
+      {
+        "canonical_id": "allocation",
+        "original_name": "Alocação",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 35,
+            "section": "8.7",
+            "excerpt": "8.7. Alocação\nA Seguradora só será responsável por pagar os Custos de Defesa ou Perdas Indenizáveis resultantes exclusivamente de uma Reclamação apresentada contra um Segurado que esteja coberta.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0035:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Determina a alocação justa e correta de Custos de Defesa e Perdas Indenizáveis entre Sociedade, Parte Segurada e Seguradora nos casos de responsabilidade solidária ou de matérias cobertas e não cobertas.",
+        "conditions": [
+          "A Seguradora responde exclusivamente por Custos de Defesa ou Perdas Indenizáveis resultantes de Reclamação coberta contra Segurado coberto."
+        ]
+      },
+      {
+        "canonical_id": "claim_notice",
+        "original_name": "Aviso de Sinistro e Notificação",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 38,
+            "section": "8.12",
+            "excerpt": "8.12. Aviso de Sinistro e Notificação\n(i) Toda Reclamação deve ser apresentada à Seguradora tão logo a Parte Segurada tome conhecimento da Reclamação.",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0038:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Regula as obrigações e prazos para apresentação de Reclamações e Notificações à Seguradora.",
+        "conditions": [
+          "Toda Reclamação deve ser apresentada à Seguradora tão logo a Parte Segurada tome conhecimento.",
+          "A ausência de comunicação imediata que impossibilite a apuração das causas e circunstâncias do evento acarreta a perda do direito à indenização."
+        ]
+      },
+      {
+        "canonical_id": "cooperation",
+        "original_name": "Cooperação",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 50,
+            "section": "9.12",
+            "excerpt": "9.12. Cooperação\nComo condição às obrigações da Seguradora, a Parte Segurada deverá, a seu próprio custo:\na) informar prontamente a Seguradora das comunicações recebidas que possam gerar Reclamação futura;",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0050:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Estabelece os deveres de cooperação da Parte Segurada perante a Seguradora como condição para as obrigações da apólice.",
+        "conditions": [
+          "Informar prontamente a Seguradora sobre comunicações que possam gerar Reclamação futura.",
+          "Fornecer detalhes, documentos e comparecer a atos processuais quando solicitado."
+        ]
+      },
+      {
+        "canonical_id": "extended_reporting_period",
+        "original_name": "Prazo Adicional",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 52,
+            "section": "9.20",
+            "excerpt": "9.20. Prazo Adicional\nO Prazo Adicional indicado na Especificação da Apólice será contado a partir do cancelamento da Apólice ou do término do Período de Vigência da Apólice, durante o qual terceiros podem apresentar à Parte Segurada uma Reclamação por um Ato Danoso",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0052:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Define a extensão de prazo para apresentação de Reclamações após o término da vigência ou cancelamento da Apólice em hipóteses específicas.",
+        "conditions": [
+          "Aplicável quando a apólice não for renovada, for transferida sem admitir o período de retroatividade, ou cancelada por motivos específicos previstos."
+        ]
+      },
+      {
+        "canonical_id": "priority_of_payments",
+        "original_name": "Ordem dos Pagamentos",
+        "description": null,
+        "extraction_confidence": 1.0,
+        "normalization_confidence": 1.0,
+        "evidence": [
+          {
+            "document_id": "aig-do-aiggo-700a08f26a",
+            "page": 51,
+            "section": "9.18",
+            "excerpt": "9.18. Ordem dos Pagamentos\nNo caso de Custos de Defesa e/ou Perdas Indenizáveis resultantes de uma Reclamação para a qual o pagamento seja devido mediante os termos desta Apólice, a Seguradora deverá em qualquer caso:\n(i) primeiro, será feito pagamento por Custo de Defesa e/ou pela Perda Indenizável coberta pela Cobertura Básica, prevista nas Condições Especiais desta Apólice;",
+            "chunk_id": "aig-do-aiggo-700a08f26a:p0051:c000"
+          }
+        ],
+        "category": "CONTRACTUAL_CLAUSE",
+        "summary": "Estipula a prioridade e a ordem pela qual os pagamentos de Custos de Defesa e Perdas Indenizáveis devem ser realizados pela Seguradora.",
+        "conditions": [
+          "Primeiro é feito o pagamento por Custo de Defesa e/ou Perda Indenizável coberta pela Cobertura Básica."
+        ]
+      }
+    ],
+    "extraction": {
+      "schema_version": "0.5B.5",
+      "extraction_method": "NATIVE_TEXT",
+      "extractor_model": "gemini-3.5-flash-lite",
+      "extracted_at": "2026-08-24T12:09:56.523443Z",
+      "warnings": [],
+      "errors": []
+    }
+  },
+  "extracted_at": "2026-08-24T12:09:56.523763Z",
+  "warnings": []
+}

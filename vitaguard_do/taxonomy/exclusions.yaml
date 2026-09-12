@@ -1,0 +1,75 @@
+version: 0.5B.5
+items:
+- id: fraud_or_dishonesty
+  label: Fraude, dolo ou desonestidade
+  aliases:
+  - Fraude
+  - Dolo
+  - Desonestidade
+  - Atos Intencionais
+  - Fraud or Dishonesty
+  - Exclusão Conduta
+  - Conduta
+- id: bodily_injury_property_damage
+  label: Danos corporais e materiais
+  aliases:
+  - Danos Corporais
+  - Danos Materiais
+  - Bodily Injury
+  - Property Damage
+  - Danos Morais, Danos Materiais, e Danos Corporais
+- id: prior_claims_or_circumstances
+  label: Reclamacoes ou circunstancias anteriores
+  aliases:
+  - Reclamacoes Anteriores
+  - Circunstancias Anteriores
+  - Fatos Conhecidos
+  - Prior Claims
+  - Prior Circumstances
+  - Reclamações e Circunstâncias Anteriores
+- id: pollution
+  label: Poluicao
+  aliases:
+  - Poluicao
+  - Contaminacao
+  - Pollution
+  - Danos Ambientais
+  - Exclusão Danos Ambientais
+- id: insured_vs_insured
+  label: Segurado contra segurado
+  aliases:
+  - Segurado contra Segurado
+  - Insured vs Insured
+- id: professional_services
+  label: Servicos profissionais
+  aliases:
+  - Servicos Profissionais
+  - Professional Services
+- id: personal_profit_advantage
+  label: Vantagem ou lucro pessoal indevido
+  aliases:
+  - Vantagem Pessoal
+  - Lucro Pessoal
+  - Personal Profit
+  - Personal Advantage
+- id: supplementary_pension_administrator
+  label: Administrador de previdência complementar
+  aliases:
+  - Administrador de Previdência Complementar
+  - Exclusão de Administrador de Previdência Complementar
+  - Gestão de Entidade de Previdência Complementar
+  - Cláusula de Exclusão de Administrador de Previdência Complementar
+- id: prior_and_pending_litigation
+  label: Litígio anterior e pendente
+  aliases:
+  - Litígio Anterior e Pendente
+  - Exclusão de Litígio Anterior e Pendente
+  - Prior and Pending Litigation
+  - Cláusula de Exclusão de Litígio Anterior e Pendente
+- id: securities_offering
+  label: Oferta de títulos mobiliários
+  aliases:
+  - Oferta de Títulos Mobiliários
+  - Exclusão de Oferta de Títulos Mobiliários
+  - Securities Offering
+  - Cláusula de Exclusão de Oferta de Títulos Mobiliários
